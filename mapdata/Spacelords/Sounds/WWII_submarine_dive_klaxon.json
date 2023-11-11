@@ -12,5 +12,12 @@
   "MaxDistance": 1000,
   "DistanceCutoff": 1000,
   "ConeOutsideVolume": 127,
-  "ConeOrientation": {}
+  "ConeOrientation": {},
+  "SoundName": "",
+  "Unk2": "",
+  "Unk6": "",
+  "Unk7": "",
+  "FacialAnimationLabel": "",
+  "FacialAnimationGroupLabel": "",
+  "FacialAnimationSetFilepath": ""
 }
