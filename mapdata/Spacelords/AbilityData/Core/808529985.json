@@ -10,21 +10,6 @@
       "Id": 1935762273,
       "Type": 2,
       "Value": 1
-    },
-    {
-      "Id": 1936090465,
-      "Type": 3,
-      "Value": "Elevator"
-    },
-    {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_615"
-    },
-    {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Undead\\DeathPact\\DeathPactTarget.mdl"
     }
   ]
 }

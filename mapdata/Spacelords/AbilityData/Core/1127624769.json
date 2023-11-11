@@ -6,24 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3250"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPhilosophersStone.blp"
-    },
-    {
-      "Id": 1918988897,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
-      "Value": 90
+      "Value": 100
     },
     {
       "Level": 1,
@@ -70,30 +55,8 @@
       "Value": 0
     },
     {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5079"
-    },
-    {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_1628"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5080"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_4188"
     },
     {
       "Level": 1,
@@ -117,10 +80,6 @@
       "Id": 1667330657,
       "Type": 3,
       "Value": "human"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 0
     }
   ]
 }

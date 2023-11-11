@@ -4,26 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_3212"
-    },
-    {
-      "Id": 1953653094,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTornado.blp"
-    },
-    {
-      "Id": 1952543846,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Orc\\StasisTrap\\StasisTotemTarget.mdl"
-    },
-    {
-      "Id": 1885959270,
-      "Type": 3,
-      "Value": "TRIGSTR_4549"
-    }
-  ]
+  "Modifications": []
 }

@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3647"
-    },
-    {
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
@@ -53,51 +48,11 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNFrostArmor.blp"
-    },
-    {
       "Id": 1937141109,
       "Value": 522
     },
     {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\ZigguratMissile\\ZigguratMissile.mdl"
-    },
-    {
-      "Id": 1701601909,
-      "Type": 1,
-      "Value": 0
-    },
-    {
       "Id": 1935827829,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 2054188149,
       "Type": 2,
       "Value": 0
     },
@@ -120,16 +75,6 @@
       "Value": 1
     },
     {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1684632437,
       "Value": 500
     },
@@ -148,15 +93,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1836083317,
@@ -189,16 +134,6 @@
       "Id": 1918989429,
       "Type": 3,
       "Value": "ground,ward"
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_3648"
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 0.4
     }
   ]
 }

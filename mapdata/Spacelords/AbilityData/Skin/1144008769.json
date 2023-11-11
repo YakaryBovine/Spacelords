@@ -1,0 +1,45 @@
+{
+  "OldId": 1668565057,
+  "NewId": 1144008769,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Antibody Pack"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[X] Rocks Fall Everyone Dies"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The mutant smashes the ground, creating a small crater. Rocks fall from the ceiling, creating a perimeter which can be used to trap foolish humans."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSeaGiantWarStomp.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\ReplenishHealth\\ReplenishHealthCaster.mdl"
+    }
+  ]
+}

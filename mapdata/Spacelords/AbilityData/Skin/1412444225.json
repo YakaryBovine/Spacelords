@@ -1,0 +1,50 @@
+{
+  "OldId": 1768771393,
+  "NewId": 1412444225,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Illusory Double"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Illusory Double"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Creates an illusory double of the suit. The illusion cannot pilot stations/ships or use items."
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Human\\CloudOfFog\\CloudOfFog.mdl"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Human\\Polymorph\\PolyMorphTarget.mdl"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNANAWindWalkV3.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    }
+  ]
+}

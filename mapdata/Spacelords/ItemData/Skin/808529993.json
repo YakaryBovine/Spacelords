@@ -1,0 +1,44 @@
+{
+  "OldId": 1953721448,
+  "NewId": 808529993,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Escape Pod"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff8080FFEscape Pod|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "If the station you are in is in critical danger, you may use this device to launch an escape pod which can flee to a station of your choosing. Escape pods are quick but they are easily destroyed. This is a one-way ticket."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNIncinerate.blp"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": ":O"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\SaveItem.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.3
+    }
+  ]
+}

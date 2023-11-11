@@ -1,0 +1,52 @@
+{
+  "OldId": 1818588275,
+  "NewId": 925904969,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Cryo Suit"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\Fill-Me-Up Treasure Chest.mdl"
+    },
+    {
+      "Id": 2020631157,
+      "Value": 0
+    },
+    {
+      "Id": 2037408373,
+      "Value": 0
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Suit."
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.7
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "Cryo Suit"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Suit|n|cff80FF00Charges:|r N/A|n|cff80FF00Cooldown:|r N/A |n|cff80FF00Description:|r The cryo-suit is a support suit designed to cripple and slow enemies. Its main attack slows enemies by 20% and its special ability can disable the attacks of all units in a large area."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNFrostBolt.blp"
+    }
+  ]
+}

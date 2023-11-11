@@ -1,0 +1,90 @@
+{
+  "OldId": 1920558952,
+  "NewId": 842281064,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "U.S.I. Hapyir"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\creeps\\GoblinZeppelin\\GoblinZeppelin.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 7
+    },
+    {
+      "Id": 2053927797,
+      "Type": 1,
+      "Value": 60
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "war3mapImported\\CustomTinker.mdl"
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 40
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The U.S.I. Hapyir is a larger class battlecruiser with heavy bombardment functions and an almost unlimited supply of lightweight Prism class missiles, a common and reliable missile used by many ships and explorers."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1735156597,
+      "Value": 30
+    },
+    {
+      "Id": 1651270517,
+      "Value": 30
+    },
+    {
+      "Id": 1919705973,
+      "Value": 30
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 3
+    },
+    {
+      "Id": 1650684789,
+      "Value": 0
+    }
+  ]
+}

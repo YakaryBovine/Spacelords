@@ -1,0 +1,59 @@
+{
+  "OldId": 1768844136,
+  "NewId": 1395667048,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Target"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Doodads\\LordaeronSummer\\Props\\ArcheryRange\\ArcheryRange.mdl"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNGryphonRider.blp"
+    },
+    {
+      "Id": 1819503989,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "ClockwerkGoblin"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "war3mapImported\\EMPBomb.mdl"
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 1953458293,
+      "Type": 3,
+      "Value": "D"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "SHOOT IT!"
+    }
+  ]
+}

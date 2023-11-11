@@ -1,11 +1,12 @@
 {
-  "FormatVersion": 25,
+  "FormatVersion": 31,
   "MapVersion": 100,
-  "EditorVersion": 6052,
+  "EditorVersion": 6115,
+  "GameVersion": "1.36.0.20257",
   "MapName": "Metastasis",
-  "MapAuthor": "Thorlar",
-  "MapDescription": "A game of intrigue, murder, aliens, mutations, and exploding spaceships.\r\nMade by Fel. Continued by Thorlar",
-  "RecommendedPlayers": "|cff0099FF1.9.3",
+  "MapAuthor": "FelFox and Clan Sirs",
+  "MapDescription": "A game of intrigue, murder, aliens, mutations, and exploding spaceships.\r\nMade by FelFox with help from Clan Sirs.",
+  "RecommendedPlayers": "|cff0099FF1.6.1",
   "CameraBounds": {
     "BottomLeft": {
       "X": -15872,
@@ -30,7 +31,7 @@
   "MapFlags": 56424,
   "Tileset": 74,
   "LoadingScreenBackgroundNumber": -1,
-  "LoadingScreenPath": "war3mapImported\\LoadingScreen2.mdx",
+  "LoadingScreenPath": "",
   "LoadingScreenText": "",
   "LoadingScreenTitle": "",
   "LoadingScreenSubtitle": "",
@@ -44,6 +45,8 @@
   "FogColor": "#000000",
   "SoundEnvironment": "",
   "WaterTintingColor": "#FFFFff",
+  "SupportedModes": 3,
+  "GameDataVersion": 1,
   "Players": [
     {
       "Controller": 1,
@@ -53,7 +56,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 4094
+      "AllyHighPriorityFlags": 1022
     },
     {
       "Id": 1,
@@ -64,7 +67,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 4093
+      "AllyHighPriorityFlags": 1021
     },
     {
       "Id": 2,
@@ -75,7 +78,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 4091
+      "AllyHighPriorityFlags": 1019
     },
     {
       "Id": 3,
@@ -86,7 +89,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 4087
+      "AllyHighPriorityFlags": 1015
     },
     {
       "Id": 4,
@@ -97,7 +100,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 4079
+      "AllyHighPriorityFlags": 1007
     },
     {
       "Id": 5,
@@ -108,7 +111,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 4063
+      "AllyHighPriorityFlags": 991
     },
     {
       "Id": 6,
@@ -119,7 +122,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 4031
+      "AllyHighPriorityFlags": 959
     },
     {
       "Id": 7,
@@ -130,7 +133,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 3967
+      "AllyHighPriorityFlags": 895
     },
     {
       "Id": 8,
@@ -141,7 +144,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 3839
+      "AllyHighPriorityFlags": 767
     },
     {
       "Id": 9,
@@ -152,7 +155,7 @@
         "X": -5376,
         "Y": 6912
       },
-      "AllyHighPriorityFlags": 3583
+      "AllyHighPriorityFlags": 511
     },
     {
       "Id": 10,
@@ -160,10 +163,10 @@
       "Race": 1,
       "Name": "Player 11",
       "StartPosition": {
-        "X": -5376,
-        "Y": 6912
+        "X": 6848,
+        "Y": 5760
       },
-      "AllyHighPriorityFlags": 3071
+      "AllyHighPriorityFlags": 1023
     },
     {
       "Id": 11,
@@ -171,8 +174,8 @@
       "Race": 1,
       "Name": "Player 12",
       "StartPosition": {
-        "X": -5376,
-        "Y": 6912
+        "X": 6848,
+        "Y": -15232
       },
       "AllyHighPriorityFlags": 2047
     }
@@ -181,30 +184,16 @@
     {
       "Flags": 1,
       "Players": -4033,
-      "Name": "Join our Discord!"
+      "Name": "---"
     },
     {
       "Flags": 1,
       "Players": 4032,
-      "Name": "https://discord.gg/YmX5A29"
+      "Name": "---"
     }
   ],
   "UpgradeData": [],
   "TechData": [],
   "RandomUnitTables": [],
-  "RandomItemTables": [
-    {
-      "Name": "1% drop m8",
-      "ItemSets": [
-        {
-          "Items": [
-            {
-              "Chance": 100,
-              "ItemId": 1479684169
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "RandomItemTables": []
 }

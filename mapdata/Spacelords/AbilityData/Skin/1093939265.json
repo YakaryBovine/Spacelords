@@ -1,0 +1,55 @@
+{
+  "OldId": 1650544193,
+  "NewId": 1093939265,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Planetary Discharge"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Planetary Discharge"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Discharges pent-up energies to the planet. This will result in a massive holocaust on its surface, killing many an innocent sluggly. However if this ability is not cast, the kyo cannon will be destroyed."
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "war3mapImported\\HolySmiteMissileNew.mdx"
+    },
+    {
+      "Id": 1667329377,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNImmolationOn.blp"
+    },
+    {
+      "Id": 1768841569,
+      "Type": 3,
+      "Value": "Attack"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    }
+  ]
+}

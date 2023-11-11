@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Generator"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "Doodads\\Cityscape\\Props\\CrystalShield\\CrystalShield.mdl"

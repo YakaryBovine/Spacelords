@@ -1,0 +1,60 @@
+{
+  "OldId": 1935951937,
+  "NewId": 1362374721,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1802007905,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Launches the Swagger!"
+    },
+    {
+      "Level": 1,
+      "Id": 829715809,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNEnchantedGemstone.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNEnchantedGemstone.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[X] Swagger Launch"
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Swagger Launch"
+    },
+    {
+      "Id": 2037408353,
+      "Value": 0
+    },
+    {
+      "Id": 2036495713,
+      "Value": 0
+    }
+  ]
+}

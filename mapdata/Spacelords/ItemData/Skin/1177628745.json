@@ -1,0 +1,51 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1177628745,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Black Hole Device"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Black Hole Device"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Black Hole Device|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Target Point|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r N/A |n|cff80FF00Description:|r WARNING: This device requires proper clearance to activate as per U.S.I. Experimental Research standards. Please do not tamper with or activate device."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDoom.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Units\\Human\\Phoenix\\PhoenixEgg.mdl"
+    },
+    {
+      "Id": 1919705961,
+      "Value": 50
+    },
+    {
+      "Id": 1735156585,
+      "Value": 50
+    },
+    {
+      "Id": 1651270505,
+      "Value": 50
+    }
+  ]
+}

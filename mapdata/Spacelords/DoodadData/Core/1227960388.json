@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Siege Workshop"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "buildings\\human\\Workshop\\Workshop.mdl"

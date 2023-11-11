@@ -1,0 +1,83 @@
+{
+  "OldId": 1768844136,
+  "NewId": 1429352552,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Android"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\critters\\Penguin\\Penguin.mdl"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNPenguin.blp"
+    },
+    {
+      "Id": 1819503989,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Penguin"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\WaterElementalMissile\\WaterElementalMissile.mdl"
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 45
+    },
+    {
+      "Id": 1953458293,
+      "Type": 3,
+      "Value": "D"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "It\u0027s...a penguin?"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 2
+    },
+    {
+      "Id": 1634759541,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
+    },
+    {
+      "Id": 1650684789,
+      "Value": 0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "OldId": 1919045185,
+  "NewId": 808464449,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Surveillance Sweep"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "S"
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "S"
+    },
+    {
+      "Id": 1952805473,
+      "Type": 3,
+      "Value": "S"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "|cff808000[S]urveillance Sweep|r"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Advanced surveillance systems are able to pinpoint the location of all organic or mechanical entities within the space station."
+    },
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Human\\Flare\\FlareCaster.mdl"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNTelescope.blp"
+    },
+    {
+      "Id": 2037408353,
+      "Value": 0
+    },
+    {
+      "Id": 2020631137,
+      "Value": 0
+    }
+  ]
+}

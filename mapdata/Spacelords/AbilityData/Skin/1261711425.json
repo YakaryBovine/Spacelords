@@ -1,0 +1,46 @@
+{
+  "OldId": 1718830401,
+  "NewId": 1261711425,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Chargeup"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp"
+    },
+    {
+      "Id": 1918988897,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "C"
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "C"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[C] Chargeup"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The Tesla suit briefly overloads it energy capacitators to release a powerful burst of energy, which will damage nearby units."
+    }
+  ]
+}

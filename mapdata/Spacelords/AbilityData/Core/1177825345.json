@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2417"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
@@ -21,28 +16,7 @@
     {
       "Level": 1,
       "Id": 1935895905,
-      "Value": 25
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNFaerieDragon.blp"
-    },
-    {
-      "Id": 1952543585,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Human\\MassTeleport\\MassTeleportTarget.mdl"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5018"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5019"
+      "Value": 0
     },
     {
       "Level": 1,
@@ -55,12 +29,6 @@
       "Pointer": 2,
       "Id": 845574991,
       "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3264"
     },
     {
       "Level": 1,
@@ -85,10 +53,6 @@
       "Id": 1851880033,
       "Type": 2,
       "Value": 1
-    },
-    {
-      "Id": 2020631137,
-      "Value": 0
     }
   ]
 }

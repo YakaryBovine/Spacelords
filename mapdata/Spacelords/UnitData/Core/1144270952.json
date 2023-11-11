@@ -6,16 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3460"
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_3441"
-    },
-    {
       "Id": 1633772661,
       "Type": 3,
       "Value": ""
@@ -53,31 +43,6 @@
       "Value": "normal"
     },
     {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\Asteroid.mdl"
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 4
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 1
-    },
-    {
-      "Id": 2053927797,
-      "Type": 1,
-      "Value": 60
-    },
-    {
-      "Id": 1969779573,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1920363893,
       "Type": 2,
       "Value": 0.1
@@ -94,11 +59,6 @@
     {
       "Id": 2050056565,
       "Value": 900
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\FaerieDragonMissile\\FaerieDragonMissile.mdl"
     },
     {
       "Id": 828927349,
@@ -124,26 +84,6 @@
       "Value": 900
     },
     {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": -10
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3461"
-    },
-    {
       "Id": 1836344437,
       "Type": 2,
       "Value": 9
@@ -162,23 +102,8 @@
       "Value": 99999
     },
     {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
-    },
-    {
       "Id": 1852137845,
       "Value": 0
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "ObsidianStatue"
     },
     {
       "Id": 1869640309,
@@ -197,18 +122,6 @@
       "Id": 1953918325,
       "Type": 3,
       "Value": "hover"
-    },
-    {
-      "Id": 1633837685,
-      "Value": 1
-    },
-    {
-      "Id": 1768186485,
-      "Value": 1
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

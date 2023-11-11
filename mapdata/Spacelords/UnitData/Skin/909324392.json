@@ -1,0 +1,67 @@
+{
+  "OldId": 1634037864,
+  "NewId": 909324392,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022ZAP,\u0022 the alien said.|nAnd a human did explode into little pieces.|n\u0022Mwhahuahua,\u0022 cried the alien. \u0022After I destroy you, I shall power the world with free energy!\u0022|nAnd so the alien went on to eat the humans, and win a Nobel Prize in Science."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Banshee"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBanshee.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\undead\\Banshee\\Banshee.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\BansheeMissile\\BansheeMissile.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.8
+    },
+    {
+      "Id": 1735156597,
+      "Value": 120
+    },
+    {
+      "Id": 1919705973,
+      "Value": 120
+    }
+  ]
+}

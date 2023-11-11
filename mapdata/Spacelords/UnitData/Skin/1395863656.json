@@ -1,0 +1,83 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1395863656,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn Core"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Alas, after a hard-fought battle that slaughtered many humans and gave the walls of the Niffy a free coating of red blood (it was quite flattering, I must assure you) the alien was finally vanquished. The humans did rejoice!|nBut wait! Look, the alien transformed into a plane...thing!|nAnd the humans did chuckle merrily, and could not bring themselves to kill the alien because of their laughter. Unfortunately, two minutes later the alien regenerated into a hulking mass of evil again. And together the aliens and the humans finished the Niffy\u0027s new paint-job!"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "HippoGryph"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWyvernRider.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\invidAtkScout-final.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 3
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1768841589,
+      "Type": 3,
+      "Value": "alternate"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.8
+    },
+    {
+      "Id": 1919705973,
+      "Value": 200
+    }
+  ]
+}

@@ -6,28 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_354"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNFreezingBreath.blp"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_355"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_361"
-    },
-    {
       "Level": 1,
       "Pointer": 3,
       "Id": 862941267,
@@ -46,7 +24,7 @@
       "Pointer": 2,
       "Id": 846164051,
       "Type": 2,
-      "Value": 0.17
+      "Value": 0.2
     },
     {
       "Level": 1,
@@ -59,10 +37,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "B003"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
     },
     {
       "Level": 1,

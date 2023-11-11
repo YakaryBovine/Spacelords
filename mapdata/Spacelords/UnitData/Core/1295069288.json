@@ -6,24 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1136"
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "undead"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_224"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1127"
     },
     {
       "Id": 1768055157,
@@ -32,7 +17,7 @@
     },
     {
       "Id": 1937141109,
-      "Value": 290
+      "Value": 270
     },
     {
       "Id": 1920363893,
@@ -50,11 +35,6 @@
       "Value": ""
     },
     {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "PitLord"
-    },
-    {
       "Id": 1852404597,
       "Value": 1200
     },
@@ -64,7 +44,7 @@
     },
     {
       "Id": 1836083317,
-      "Value": 850
+      "Value": 900
     },
     {
       "Id": 1819240309,
@@ -76,15 +56,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1887007861,
@@ -102,7 +82,7 @@
     },
     {
       "Id": 1647403381,
-      "Value": 26
+      "Value": 34
     },
     {
       "Id": 1932616053,
@@ -118,24 +98,9 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNKiljaedin.blp"
-    },
-    {
       "Id": 1836344437,
       "Type": 2,
       "Value": 6
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "units\\demon\\Warlock\\Warlock.mdl"
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Other\\Stampede\\StampedeMissileDeath.mdl"
     },
     {
       "Id": 1915838837,
@@ -151,11 +116,6 @@
       "Value": 2000
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_1138"
-    },
-    {
       "Id": 1919969397,
       "Type": 2,
       "Value": 0.75
@@ -169,21 +129,6 @@
       "Id": 1999724917,
       "Type": 3,
       "Value": "instant"
-    },
-    {
-      "Id": 2020633717,
-      "Type": 2,
-      "Value": 19
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 56
     },
     {
       "Id": 1768910965,
@@ -213,11 +158,6 @@
       "Id": 1953522549,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 2
     },
     {
       "Id": 1836084597,

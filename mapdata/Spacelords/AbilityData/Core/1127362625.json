@@ -6,33 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1465"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_1466"
-    },
-    {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_1813"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_1814"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1469"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 828466504,
@@ -49,27 +22,6 @@
       "Level": 1,
       "Id": 1935895905,
       "Value": 2
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Human\\Invisibility\\InvisibilityTarget.mdl"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
-    },
-    {
-      "Id": 2019718497,
-      "Value": 1
-    },
-    {
-      "Id": 2037408353,
-      "Value": 1
-    },
-    {
-      "Id": 2036495713,
-      "Value": 1
     },
     {
       "Level": 1,

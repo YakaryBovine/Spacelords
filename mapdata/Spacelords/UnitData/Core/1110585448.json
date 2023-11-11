@@ -6,16 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1341"
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_1342"
-    },
-    {
       "Id": 1633772661,
       "Type": 3,
       "Value": ""
@@ -58,26 +48,6 @@
       "Value": "normal"
     },
     {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "units\\undead\\UndeadAirBarge\\UndeadAirBarge.mdl"
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 3
-    },
-    {
-      "Id": 2053927797,
-      "Type": 1,
-      "Value": 60
-    },
-    {
-      "Id": 1969779573,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1920363893,
       "Type": 2,
       "Value": 0.1
@@ -94,11 +64,6 @@
     {
       "Id": 2050056565,
       "Value": 900
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\SkeletalMageMissile\\SkeletalMageMissile.mdl"
     },
     {
       "Id": 828927349,
@@ -122,21 +87,6 @@
     {
       "Id": 1647403381,
       "Value": 360
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1343"
     },
     {
       "Id": 1836344437,
@@ -167,16 +117,6 @@
       "Value": 60
     },
     {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUndeadAirBarge.blp"
-    },
-    {
       "Id": 1953654901,
       "Type": 3,
       "Value": "always"
@@ -194,18 +134,6 @@
       "Id": 1953918325,
       "Type": 3,
       "Value": "hover"
-    },
-    {
-      "Id": 1633837685,
-      "Value": 1
-    },
-    {
-      "Id": 1768186485,
-      "Value": 1
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

@@ -6,16 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1560"
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_1328"
-    },
-    {
       "Id": 1633772661,
       "Type": 3,
       "Value": ""
@@ -58,34 +48,9 @@
       "Value": "normal"
     },
     {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "buildings\\orc\\TrollBurrow\\TrollBurrow.mdl"
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 5
-    },
-    {
-      "Id": 2053927797,
-      "Type": 1,
-      "Value": 60
-    },
-    {
-      "Id": 1969779573,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1920363893,
       "Type": 2,
       "Value": 0.1
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1329"
     },
     {
       "Id": 1836344437,
@@ -102,19 +67,9 @@
       "Value": 180
     },
     {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1999724917,
       "Type": 3,
       "Value": "artillery"
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\SpiritOfVengeanceMissile\\SpiritOfVengeanceMissile.mdl"
     },
     {
       "Id": 1915838837,
@@ -170,18 +125,6 @@
       "Value": 99999
     },
     {
-      "Id": 1919705973,
-      "Value": 100
-    },
-    {
-      "Id": 1651270517,
-      "Value": 100
-    },
-    {
-      "Id": 1735156597,
-      "Value": 100
-    },
-    {
       "Id": 1953654901,
       "Type": 3,
       "Value": "always"
@@ -193,22 +136,6 @@
     {
       "Id": 1768910965,
       "Value": 130
-    },
-    {
-      "Id": 1869640309,
-      "Value": 0
-    },
-    {
-      "Id": 1633837685,
-      "Value": 1
-    },
-    {
-      "Id": 1768186485,
-      "Value": 1
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

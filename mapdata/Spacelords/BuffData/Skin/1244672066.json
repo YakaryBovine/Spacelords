@@ -1,0 +1,29 @@
+{
+  "OldId": 1650544194,
+  "NewId": 1244672066,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Chemistry"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Chemistry"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "This unit will take additional damage."
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNPotionOfClarity.blp"
+    }
+  ]
+}

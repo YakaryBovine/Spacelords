@@ -6,44 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2710"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_685"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4594"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_2712"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2713"
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,
@@ -65,11 +33,6 @@
       "Value": 0
     },
     {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDeathPact.blp"
-    },
-    {
       "Level": 1,
       "Id": 1851880033,
       "Type": 2,
@@ -86,10 +49,6 @@
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,allies,enemies,ground,neutral,player,self"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 3
     },
     {
       "Level": 1,

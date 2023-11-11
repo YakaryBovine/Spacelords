@@ -6,45 +6,13 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1219"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
     },
     {
       "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4926"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1221"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4927"
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\SludgeMissile\\SludgeMissile.mdl"
-    },
-    {
-      "Id": 1952543585,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Naga\\NagaDeath\\NagaDeath.mdl"
-    },
-    {
-      "Level": 1,
       "Id": 1935895905,
-      "Value": 80
+      "Value": 50
     },
     {
       "Level": 1,
@@ -66,21 +34,6 @@
       "Value": "h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W,h01W"
     },
     {
-      "Id": 1936090465,
-      "Type": 3,
-      "Value": "MonsoonLoop"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDuneWorm.blp"
-    },
-    {
-      "Id": 1667329377,
-      "Type": 2,
-      "Value": 0.25
-    },
-    {
       "Level": 2,
       "Pointer": 1,
       "Id": 828794190,
@@ -96,10 +49,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "B015"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 0
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "OldId": 1668434241,
+  "NewId": 1228353601,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1952540001,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Orc\\ReinforcedTrollBurrow\\ReinforcedTrollBurrowTarget.mdl,Abilities\\Spells\\Orc\\Reincarnation\\ReincarnationTarget.mdl"
+    }
+  ]
+}

@@ -6,41 +6,26 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_2047"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_2048"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_2049"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
-      "Value": "A03U,Apiv,Awan,A03O"
+      "Value": "Awan,A03O,ACct"
     },
     {
       "Id": 1633837685,
-      "Value": 42
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 42
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1919969397,
       "Type": 2,
-      "Value": 25
+      "Value": 2.5
     },
     {
       "Id": 1986358389,
@@ -58,24 +43,6 @@
     {
       "Id": 1684632437,
       "Value": 1100
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 0.6
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 1.2
-    },
-    {
-      "Id": 1735156597,
-      "Value": 100
-    },
-    {
-      "Id": 1651270517,
-      "Value": 100
     },
     {
       "Id": 1999724917,
@@ -105,11 +72,6 @@
       "Value": 150
     },
     {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Human\\HumanLargeDeathExplode\\HumanLargeDeathExplode.mdl"
-    },
-    {
       "Id": 829645685,
       "Type": 3,
       "Value": "MetalLightSlice"
@@ -134,7 +96,7 @@
     },
     {
       "Id": 1836083317,
-      "Value": 800
+      "Value": 250
     },
     {
       "Id": 1701602933,

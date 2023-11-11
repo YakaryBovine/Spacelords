@@ -1,0 +1,38 @@
+{
+  "OldId": 1718840941,
+  "NewId": 1278292041,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Experimental Energy Capacitator"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "Experimental Energy Capacitator"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "This device acts as an easy buffer for electricity to flow in and out of. Increases energy capacity significantly."
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Objects\\InventoryItems\\PotofGold\\PotofGold.mdl"
+    },
+    {
+      "Id": 1919705961,
+      "Value": 0
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDustOfAppearance.blp"
+    }
+  ]
+}

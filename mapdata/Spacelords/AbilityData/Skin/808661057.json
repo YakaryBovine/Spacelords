@@ -1,0 +1,19 @@
+{
+  "OldId": 1869378369,
+  "NewId": 808661057,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Temporal Flux Slow"
+    },
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\Silence\\SilenceAreaBirth.mdl"
+    }
+  ]
+}

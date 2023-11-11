@@ -1,0 +1,35 @@
+{
+  "OldId": 1919045185,
+  "NewId": 1244737601,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Roar"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Roar"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "A fearsome, mighty roar!"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHydra.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    }
+  ]
+}

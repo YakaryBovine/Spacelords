@@ -1,0 +1,45 @@
+{
+  "OldId": 2037599809,
+  "NewId": 909455425,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Toss RDG"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\MakuraMissile\\MakuraMissile.mdl"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Toss Remote-Detonated Grenade"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Throws a small explosive device that can be detonated at whim. Only 4 may be had at a time."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNCleavingAttack.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    }
+  ]
+}

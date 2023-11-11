@@ -1,0 +1,44 @@
+{
+  "OldId": 1685091170,
+  "NewId": 1244737609,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1953458293,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "|cff008040Santa Hat|r"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Twenty years ago, a military leader named Saint Nicholas miraculously won the battle of Hapstun. Using only a futuristic space-pickaxe and his trademark hat, Nicholas was able to hold off forty Coalition regiments. Today he is honored by this cap."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBarkskin.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\SantaHat.mdl"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Twenty years ago, a military leader named Saint Nicholas miraculously won the battle of Hapstun. Using only a futuristic space-pickaxe and his trademark hat, Nicholas was able to hold off forty Coalition regiments. Today he is honored by this cap."
+    }
+  ]
+}

@@ -6,48 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1484"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_494"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_1485"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2395"
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl"
-    },
-    {
-      "Id": 1734962273,
-      "Type": 3,
-      "Value": "CLPB"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNChainLightning.blp"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
       "Value": 50

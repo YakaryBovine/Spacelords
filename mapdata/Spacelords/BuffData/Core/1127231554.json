@@ -4,31 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_1122"
-    },
-    {
-      "Id": 1885959270,
-      "Type": 3,
-      "Value": "TRIGSTR_1123"
-    },
-    {
-      "Id": 1700951398,
-      "Type": 3,
-      "Value": "TRIGSTR_1124"
-    },
-    {
-      "Id": 1953653094,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDoom.blp"
-    },
-    {
-      "Id": 1952543846,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedTarget.mdl"
-    }
-  ]
+  "Modifications": []
 }

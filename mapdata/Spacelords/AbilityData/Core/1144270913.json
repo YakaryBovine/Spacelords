@@ -6,34 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2404"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5013"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5014"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3912"
     },
     {
       "Level": 1,
@@ -58,39 +36,12 @@
       "Level": 1,
       "Id": 1852072801,
       "Type": 2,
-      "Value": 10
+      "Value": 15
     },
     {
       "Level": 1,
       "Id": 1935895905,
       "Value": 0
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnsummonBuilding.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 3
-    },
-    {
-      "Id": 2019718497,
-      "Value": 3
-    },
-    {
-      "Id": 2036495713,
-      "Value": 2
-    },
-    {
-      "Id": 1768841569,
-      "Type": 3,
-      "Value": "spell,throw,attack"
     },
     {
       "Level": 1,
@@ -103,11 +54,6 @@
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,allies,debris,enemies,ground,neutral,player,structure"
-    },
-    {
-      "Id": 1734962273,
-      "Type": 3,
-      "Value": "FORK"
     }
   ]
 }

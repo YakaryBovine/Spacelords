@@ -2,6 +2,18 @@
   "Icons": [
     {
       "IconType": 2,
+      "X": 181,
+      "Y": 247,
+      "Color": "#4F2B05"
+    },
+    {
+      "IconType": 2,
+      "X": 181,
+      "Y": 83,
+      "Color": "#106247"
+    },
+    {
+      "IconType": 2,
       "X": 86,
       "Y": 74,
       "Color": "#FF0303"
@@ -16,61 +28,61 @@
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#1CE6b9"
+      "Color": "#1BE7ba"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#540081"
+      "Color": "#550081"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#FFFC01"
+      "Color": "#FFFC00"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#FE8A0e"
+      "Color": "#FF8A0d"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#20C000"
+      "Color": "#21C000"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#E55Bb0"
+      "Color": "#E45Cb0"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#959697"
+      "Color": "#949697"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#7EBFf1"
+      "Color": "#7EC0f2"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#106246"
+      "Color": "#FF0303"
     },
     {
       "IconType": 2,
       "X": 86,
       "Y": 74,
-      "Color": "#4E2A04"
+      "Color": "#FF0303"
     }
   ]
 }

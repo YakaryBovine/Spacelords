@@ -1,0 +1,45 @@
+{
+  "OldId": 1952992833,
+  "NewId": 1345466433,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Autopilot"
+    },
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": "war3mapImported\\SelfbuffFX.mdx"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "C"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[C] Auto Pilot"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Engages autopilot, which allows the Swagger to continue in its current direction without anyone piloting at the wheel. This ability is useful for running from the Kyo cannon."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNAbsorbMagic.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    }
+  ]
+}

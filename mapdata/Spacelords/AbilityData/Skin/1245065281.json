@@ -1,0 +1,14 @@
+{
+  "OldId": 1936542017,
+  "NewId": 1245065281,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Explorer Movespeed Bonus"
+    }
+  ]
+}

@@ -6,26 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_4690"
-    },
-    {
-      "Id": 1936024681,
-      "Type": 3,
-      "Value": "TRIGSTR_3335"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_4758"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3345"
-    },
-    {
       "Id": 1819240297,
       "Value": 0
     },
@@ -39,27 +19,12 @@
       "Value": "A06P"
     },
     {
-      "Id": 1818846825,
-      "Type": 3,
-      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
-    },
-    {
-      "Id": 1633907561,
-      "Type": 1,
-      "Value": 0.2
-    },
-    {
       "Id": 1886545001,
       "Value": 1
     },
     {
       "Id": 1920234345,
       "Value": 180
-    },
-    {
-      "Id": 1868786025,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPotionOfRestoration.blp"
     },
     {
       "Id": 1986358377,

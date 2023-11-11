@@ -1,0 +1,50 @@
+{
+  "OldId": 1935889729,
+  "NewId": 1412771905,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Kinetic Rush"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Kinetic Rush"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The force suit\u0027s kinetic push generators are temporarily retargetted to shove the suit towards the target point. Any units in the way will be pushed away and slightly damaged."
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNGolemStormBolt.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    }
+  ]
+}

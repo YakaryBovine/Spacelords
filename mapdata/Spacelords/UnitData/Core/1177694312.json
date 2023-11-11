@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1472"
-    },
-    {
       "Id": 1902473845,
       "Type": 3,
       "Value": ""
@@ -19,26 +14,6 @@
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\BigDroidV3.mdl"
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNJunkGolem.blp"
-    },
-    {
-      "Id": 1819503989,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "ObsidianDestroyer"
     },
     {
       "Id": 1852404597,
@@ -80,11 +55,6 @@
       "Value": 2400
     },
     {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "war3mapImported\\Incendiarymortarv2.mdl"
-    },
-    {
       "Id": 1664180597,
       "Type": 2,
       "Value": 3
@@ -97,26 +67,6 @@
       "Id": 1949393269,
       "Type": 3,
       "Value": "chaos"
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 220
-    },
-    {
-      "Id": 1953458293,
-      "Type": 3,
-      "Value": "TRIGSTR_1249"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3101"
     },
     {
       "Id": 1717920885,
@@ -151,21 +101,6 @@
     {
       "Id": 1899061621,
       "Value": 250
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 90
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 5
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 2
     },
     {
       "Id": 1937141109,
@@ -207,11 +142,6 @@
       "Value": "A05U,A02E,A02D,AInv"
     },
     {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
-    },
-    {
       "Id": 1919969397,
       "Type": 2,
       "Value": 0
@@ -240,15 +170,6 @@
       "Value": 1
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_3069"
-    },
-    {
-      "Id": 2020631157,
-      "Value": 0
-    },
-    {
       "Id": 1869571701,
       "Value": 0
     },
@@ -264,14 +185,6 @@
       "Id": 1919970677,
       "Type": 2,
       "Value": 0.25
-    },
-    {
-      "Id": 1633837685,
-      "Value": 4
-    },
-    {
-      "Id": 1768186485,
-      "Value": 4
     }
   ]
 }

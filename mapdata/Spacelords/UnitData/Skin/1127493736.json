@@ -1,0 +1,67 @@
+{
+  "OldId": 1970235496,
+  "NewId": 1127493736,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "ASAD Interface"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Really, you kind of wonder why this just isn\u0027t stuck in the scanning station by default. Maybe it\u0027s radioactive? Maybe it costs too much power?"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "buildings\\orc\\WatchTower\\WatchTower.mdl"
+    },
+    {
+      "Id": 1935832437,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.3
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrcTower.blp"
+    },
+    {
+      "Id": 1768841589,
+      "Type": 3,
+      "Value": "work"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.2
+    },
+    {
+      "Id": 1634759541,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1735156597,
+      "Value": 200
+    },
+    {
+      "Id": 1919705973,
+      "Value": 200
+    }
+  ]
+}

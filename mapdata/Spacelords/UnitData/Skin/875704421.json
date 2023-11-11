@@ -1,0 +1,87 @@
+{
+  "OldId": 1886615397,
+  "NewId": 875704421,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Transmission Beacon"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUndeadLoadOn.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Doodads\\Ashenvale\\Props\\Totem\\Totem2.mdl"
+    },
+    {
+      "Id": 1701601909,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1634759541,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "[Z] Construct Cordoning Beacon"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "This beacon, when a partner is constructed for it, projects the equivalent of interstellar red tape. Explorer vessels that try to pass through it will be repelled due to automatic autopilot software. Due to the ace\u0027s paranoia over government control and his extensive modifications of his ship, the Albadar is not affected by this.|n|cff00FFFFThis costs 40 metal (represented by this ship\u0027s mana).|r"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.5
+    },
+    {
+      "Id": 1953458293,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.5
+    },
+    {
+      "Id": 1919705973,
+      "Value": 150
+    },
+    {
+      "Id": 1651270517,
+      "Value": 150
+    }
+  ]
+}

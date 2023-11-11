@@ -1,0 +1,51 @@
+{
+  "OldId": 1801864513,
+  "NewId": 1177956417,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Laboratory Power"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\DragonHawkMissile\\DragonHawkMissile.mdl"
+    },
+    {
+      "Id": 1667329377,
+      "Type": 2,
+      "Value": 0.15
+    },
+    {
+      "Id": 1952540001,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\ReplenishMana\\ReplenishManaCaster.mdl"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Reroute power to Laboratories"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Reroutes power to laboratories and technological experiments. |n-Spawns failed experiments. |n-Allows for the use of the Kyo\u0027s LQ Storage.|n-Enables the tech hall\u0027s automatic pacification bot. The pacification bot will patrol the Niffy and attack any mutants in mutant form, aliens in alien form, or anybody wearing a suit."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNLesserRejuvPotion.blp"
+    }
+  ]
+}

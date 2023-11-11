@@ -1,0 +1,35 @@
+{
+  "OldId": 2036747841,
+  "NewId": 842149953,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "SlimeTrailProduction"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNCorrosiveBreath.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Slime Trail"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The mutant leaves a slime trail wherever it goes. The trail will damage pursuers."
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    }
+  ]
+}

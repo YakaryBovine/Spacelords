@@ -1,0 +1,44 @@
+{
+  "OldId": 1953721448,
+  "NewId": 858861641,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Penguin Doll"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff8080FFPenguin Doll|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "It\u0027s a cute, plushy penguin figurine. Clearly it has no use at all."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNPenguin.blp"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": ":O!?"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "units\\critters\\Penguin\\Penguin.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.5
+    }
+  ]
+}

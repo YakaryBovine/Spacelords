@@ -1,0 +1,40 @@
+{
+  "OldId": 1633829697,
+  "NewId": 1395929153,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Regeneration"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "|cffFF0000Regeneration|r"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The alien will slowly lose integrity over time. But after its HP reaches 0, the core of the alien will detach as a fast unit with no attack. After a period of time in this form, the alien will regenerate into its original form."
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNRegenerationAura.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    }
+  ]
+}

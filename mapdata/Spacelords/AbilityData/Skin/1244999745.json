@@ -1,0 +1,48 @@
+{
+  "OldId": 1936876353,
+  "NewId": 1244999745,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Vector"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[C] Vector"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Spawns a dreadful insect that will home in on the target unit. If it hits the unit, it will bite it and transfer a disease to it that will cause it to be temporarily paralyzed in regular intervals."
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    },
+    {
+      "Id": 2019718497,
+      "Value": 3
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNLocustSwarm.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNLocustSwarm.blp"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 1
+    }
+  ]
+}

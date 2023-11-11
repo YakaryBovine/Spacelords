@@ -3,35 +3,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": 829777230,
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Level": 1,
-      "Id": 1851880033,
-      "Type": 2,
-      "Value": 100
-    },
-    {
-      "Level": 1,
-      "Id": 1935762273,
-      "Type": 2,
-      "Value": 4
-    }
-  ]
+  "Modifications": []
 }

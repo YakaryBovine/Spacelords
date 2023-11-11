@@ -6,38 +6,8 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2803"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5045"
-    },
-    {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_2034"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5046"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWandOfShadowSight.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
     },
     {
       "Level": 1,
@@ -89,12 +59,6 @@
     },
     {
       "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2814"
-    },
-    {
-      "Level": 1,
       "Id": 1920296033,
       "Type": 2,
       "Value": 1
@@ -105,11 +69,6 @@
       "Id": 895710798,
       "Type": 2,
       "Value": 75
-    },
-    {
-      "Id": 1768841569,
-      "Type": 3,
-      "Value": "spell"
     },
     {
       "Level": 1,

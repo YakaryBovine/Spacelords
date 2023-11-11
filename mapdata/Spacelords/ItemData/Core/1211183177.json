@@ -6,24 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_4683"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_4752"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_4307"
-    },
-    {
       "Id": 1768055145,
       "Type": 3,
-      "Value": "A094"
+      "Value": ""
     },
     {
       "Id": 1702065513,
@@ -42,32 +27,12 @@
       "Value": 3
     },
     {
-      "Id": 1868786025,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNDemolish.blp"
-    },
-    {
-      "Id": 1936024681,
-      "Type": 3,
-      "Value": "TRIGSTR_1885"
-    },
-    {
       "Id": 2002874473,
       "Value": 0
     },
     {
       "Id": 1818588009,
       "Value": 0
-    },
-    {
-      "Id": 1818846825,
-      "Type": 3,
-      "Value": "Objects\\InventoryItems\\tomeBrown\\tomeBrown.mdl"
-    },
-    {
-      "Id": 1633907561,
-      "Type": 1,
-      "Value": 0.7
     },
     {
       "Id": 1886545001,

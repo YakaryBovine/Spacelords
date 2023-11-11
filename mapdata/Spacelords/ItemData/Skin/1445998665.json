@@ -1,0 +1,39 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1445998665,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Sentry Gun"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Sentry Gun"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Sentry Gun|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Construction/Target Point|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r 10s |n|cff80FF00Description:|r Deploys a sentry gun at the target point, which will fire at all players not in your -base group. Takes 5 seconds to deploy."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSentrygun.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\sentrygun.mdl"
+    }
+  ]
+}

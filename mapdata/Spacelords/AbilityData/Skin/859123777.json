@@ -1,0 +1,50 @@
+{
+  "OldId": 1935951937,
+  "NewId": 859123777,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Door Lock"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The engineer has clearance to service the sector\u0027s doors, which break down rather frequently. Consequently he knows how to repair them in under a minute- or break them in just 4 seconds. Unfortunately sector administrators grew tired of the engineer locking personnel in their rooms and installed a program that will automatically reset a door after 15 seconds if it is not broken.|n|cffC0C0C05.83095189|r"
+    },
+    {
+      "Level": 1,
+      "Id": 829715809,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHornOfFog.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHornOfFog.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[D] Door Hack"
+    },
+    {
+      "Id": 2037408353,
+      "Value": 1
+    },
+    {
+      "Id": 2036495713,
+      "Value": 1
+    }
+  ]
+}

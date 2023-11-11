@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3224"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 829912911,
@@ -22,41 +17,15 @@
       "Value": 0
     },
     {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5071"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5072"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3233"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
       "Value": 0
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTornado.blp"
     },
     {
       "Level": 1,
       "Id": 1852072801,
       "Type": 2,
       "Value": 25
-    },
-    {
-      "Id": 2020631137,
-      "Value": 0
     },
     {
       "Level": 1,

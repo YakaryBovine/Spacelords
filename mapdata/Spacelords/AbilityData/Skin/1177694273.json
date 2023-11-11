@@ -1,0 +1,46 @@
+{
+  "OldId": 1685022273,
+  "NewId": 1177694273,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Electric Discharge"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Electric Discharge"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Damages the target for a percentage of their current hitpoints based on their distance from you. Up to 15% at maximum range and 5% at minimum."
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl"
+    },
+    {
+      "Id": 1734962273,
+      "Type": 3,
+      "Value": "CLPB"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNChainLightning.blp"
+    }
+  ]
+}

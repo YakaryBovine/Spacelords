@@ -1,0 +1,52 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1429286985,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Raptor Upgrade Module"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "O:"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080RUM Module|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Give to raptor|n|cff80FF00Description:|r This module can improve a raptor\u0027s health, damage, speed, and abilities.|n|cff008080This item cannot be cloned.|r|n|cff808000I am Ordinator Fellius and I am here to ask you a question: is a man not entitled to the upgrade of his power? No, says the alien overlord. It belongs to the spawns. No, says the perfection mutant. It belongs to the overlord! No, says the android. It belongs to a shiny new chassis. I rejected those answers. Instead, I chose something different. I chose the impossible. I chose...Raptors."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNLesserRejuvScroll.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1651270505,
+      "Value": 125
+    },
+    {
+      "Id": 1919705961,
+      "Value": 125
+    }
+  ]
+}

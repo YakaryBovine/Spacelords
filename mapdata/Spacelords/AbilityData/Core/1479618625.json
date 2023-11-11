@@ -6,28 +6,8 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1130"
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\VengeanceMissile\\VengeanceMissile.mdl"
-    },
-    {
       "Id": 1886612833,
       "Value": 900
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWandSkull.blp"
-    },
-    {
-      "Id": 1918989665,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWandSkull.blp"
     },
     {
       "Level": 1,
@@ -41,33 +21,11 @@
       "Value": 35
     },
     {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_4919"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4920"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4921"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_4361"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 828993360,
       "Type": 2,
-      "Value": 12
+      "Value": 8
     },
     {
       "Level": 1,
@@ -91,12 +49,7 @@
       "Level": 1,
       "Id": 1918989409,
       "Type": 3,
-      "Value": "air,enemies,friend,ground,neutral,nonhero,player"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_1134"
+      "Value": "air,enemies,friend,ground,neutral,nonhero,organic,player"
     },
     {
       "Level": 1,

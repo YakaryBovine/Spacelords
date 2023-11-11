@@ -4,26 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_2031"
-    },
-    {
-      "Id": 1952540006,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Undead\\CarrionSwarm\\CarrionSwarmDamage.mdl"
-    },
-    {
-      "Id": 1936090470,
-      "Type": 3,
-      "Value": "WindWalk"
-    },
-    {
-      "Id": 1818649958,
-      "Type": 3,
-      "Value": "MetalMediumBashEthereal"
-    }
-  ]
+  "Modifications": []
 }

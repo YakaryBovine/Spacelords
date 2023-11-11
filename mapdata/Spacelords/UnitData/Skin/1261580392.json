@@ -1,0 +1,34 @@
+{
+  "OldId": 1953787240,
+  "NewId": 1261580392,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Obda"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "HAXX0R! "
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\raider.mdl"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 3.5
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 6
+    }
+  ]
+}

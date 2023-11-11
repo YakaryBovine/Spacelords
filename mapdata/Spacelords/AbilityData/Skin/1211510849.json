@@ -1,0 +1,25 @@
+{
+  "OldId": 1650542657,
+  "NewId": 1211510849,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Ambient Power Dummy"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Ambient Power"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

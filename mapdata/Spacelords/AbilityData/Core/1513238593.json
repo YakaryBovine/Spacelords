@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1797"
-    },
-    {
       "Level": 1,
       "Pointer": 2,
       "Id": 2003593545,
@@ -23,27 +18,6 @@
       "Id": 1684826441,
       "Type": 2,
       "Value": 1
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDevourMagic.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
-    },
-    {
-      "Id": 2037408353,
-      "Value": 2
-    },
-    {
-      "Id": 2019718497,
-      "Value": 2
-    },
-    {
-      "Id": 2036495713,
-      "Value": 2
     },
     {
       "Level": 1,
@@ -70,40 +44,8 @@
       "Value": 150
     },
     {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "war3mapImported\\AncientExplode.mdx"
-    },
-    {
       "Id": 1702127969,
       "Value": 0
-    },
-    {
-      "Id": 1918989665,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDevourMagic.blp"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4963"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2949"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4964"
-    },
-    {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_4965"
     },
     {
       "Level": 1,
@@ -130,12 +72,6 @@
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,friend,ground,organic,self"
-    },
-    {
-      "Level": 1,
-      "Id": 1701994849,
-      "Type": 2,
-      "Value": 0
     }
   ]
 }

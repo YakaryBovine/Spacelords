@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2726"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
@@ -27,28 +22,6 @@
       "Level": 1,
       "Id": 1935895905,
       "Value": 0
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShield.blp"
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\ColdArrow\\ColdArrowMissile.mdl"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_2733"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2734"
     },
     {
       "Level": 1,
@@ -102,41 +75,16 @@
       "Value": "friend,self"
     },
     {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_2735"
-    },
-    {
       "Level": 1,
       "Id": 1718968929,
       "Type": 3,
       "Value": "B00X"
     },
     {
-      "Id": 1667329377,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 2020631137,
-      "Value": 3
-    },
-    {
-      "Id": 2037408353,
-      "Value": 0
-    },
-    {
       "Level": 1,
       "Id": 1852072801,
       "Type": 2,
       "Value": 20
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": 828531022,
-      "Type": 2,
-      "Value": -0.25
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1244737640,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022Gee,\u0022 said the mutant. \u0022I sure do have pretty cool powers that you humans lack.\u0022|n\u0022If only there was some way I could let you share in on the fun...\u0022|n\u0022Oh no you don\u0027t,\u0022 the humans replied. \u0022You just want to make us into brain-eating demons.\u0022|n\u0022No, humans, you are the brain-eating demons!\u0022 the mutant laughed. |nAnd then they were zombies."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "FacelessOne"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNFacelessOne.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\FacelessOne\\FacelessOne.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Items\\OrbCorruption\\OrbCorruptionSpecialArt.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.2
+    }
+  ]
+}

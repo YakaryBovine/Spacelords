@@ -6,46 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3373"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3374"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "buildings\\orc\\WatchTower\\WatchTower.mdl"
-    },
-    {
-      "Id": 1935832437,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 0.3
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrcTower.blp"
-    },
-    {
-      "Id": 1768841589,
-      "Type": 3,
-      "Value": "work"
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 1.2
-    },
-    {
       "Id": 2037671029,
       "Type": 3,
       "Value": "normal"
@@ -83,19 +43,9 @@
       "Value": ""
     },
     {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
-    },
-    {
       "Id": 1918989429,
       "Type": 3,
       "Value": "structure,ward"
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": 1684632437,
@@ -108,18 +58,6 @@
     {
       "Id": 1634559605,
       "Value": 0
-    },
-    {
-      "Id": 1735156597,
-      "Value": 200
-    },
-    {
-      "Id": 1919705973,
-      "Value": 200
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

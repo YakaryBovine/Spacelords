@@ -1,0 +1,64 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1127428200,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Illusion Alien|n|cff800080Type:|r King of annoying illusions |n|cff800080Abilities:|r Manifold [Creates an illusion of the alien that deals a small percentage of the alien\u0027s damage.], Blackness [Swathes the target in blackness, making them uanble to see for 6 seconds.] |n|cff800080Description:|r  The illusory alien requires some time after evolution to acquire its full potential. Micro-skills are good if you want to keep your illusions alive. After all, it\u0027s safer in a crowd."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "KelThuzadNecro"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNGhostOfKelThuzad.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\undead\\KelThuzadGhost\\KelThuzadGhost.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\AncestralGuardianMissile\\AncestralGuardianMissile.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.8
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.2
+    }
+  ]
+}

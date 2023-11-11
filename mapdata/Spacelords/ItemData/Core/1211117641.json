@@ -6,26 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_4664"
-    },
-    {
-      "Id": 1936024681,
-      "Type": 3,
-      "Value": "TRIGSTR_601"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_4731"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_4603"
-    },
-    {
       "Id": 1684628329,
       "Type": 3,
       "Value": "Aam2"
@@ -33,11 +13,6 @@
     {
       "Id": 1819240297,
       "Value": 0
-    },
-    {
-      "Id": 1868786025,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNINV_Misc_Wrench_01.blp"
     },
     {
       "Id": 1869902697,
@@ -53,18 +28,8 @@
       "Value": 0
     },
     {
-      "Id": 1818846825,
-      "Type": 3,
-      "Value": "war3mapImported\\ScaledSpanner.mdl"
-    },
-    {
       "Id": 1919250537,
       "Value": 0
-    },
-    {
-      "Id": 1633907561,
-      "Type": 1,
-      "Value": 2
     },
     {
       "Id": 1886545001,

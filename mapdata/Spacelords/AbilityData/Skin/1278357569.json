@@ -1,0 +1,35 @@
+{
+  "OldId": 1869640513,
+  "NewId": 1278357569,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Acid"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Acid"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The acidic attack of the suit clings to targets, dealing a small amount of damage over a long time."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNPoisonArrow.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    }
+  ]
+}

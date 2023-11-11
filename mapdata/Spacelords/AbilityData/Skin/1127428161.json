@@ -1,0 +1,56 @@
+{
+  "OldId": 1935951937,
+  "NewId": 1127428161,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Spatial Relocation"
+    },
+    {
+      "Id": 1802007905,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The relocation of the alien is a simple task. However it is surprisingly inaccurate and can only safely deposit the alien at a random point in space. In space, the alien can attack stations, and dock or board ships."
+    },
+    {
+      "Level": 1,
+      "Id": 829715809,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDarkSummoning.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDarkSummoning.blp"
+    },
+    {
+      "Id": 2019718497,
+      "Value": 3
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[X] Spatial Relocation"
+    }
+  ]
+}

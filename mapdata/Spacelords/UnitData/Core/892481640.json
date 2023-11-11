@@ -6,24 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1292"
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "other"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_411"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1293"
     },
     {
       "Id": 1768055157,
@@ -50,11 +35,6 @@
       "Value": ""
     },
     {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Garithos"
-    },
-    {
       "Id": 1852404597,
       "Value": 900
     },
@@ -76,15 +56,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1701602933,
@@ -135,18 +115,8 @@
       "Value": 220000
     },
     {
-      "Id": 1768841589,
-      "Type": 3,
-      "Value": "dead"
-    },
-    {
       "Id": 1852137845,
       "Value": 0
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\KScientist.mdl"
     }
   ]
 }

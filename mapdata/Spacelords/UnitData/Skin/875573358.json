@@ -1,0 +1,47 @@
+{
+  "OldId": 1684830062,
+  "NewId": 875573358,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Fel Fox"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "A fellish Fox. Seriously."
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Stabs your face with evil claws of fJASS."
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.6
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 0.7
+    },
+    {
+      "Id": 1735156597,
+      "Value": 100
+    },
+    {
+      "Id": 1651270517,
+      "Value": 100
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanLargeDeathExplode\\HumanLargeDeathExplode.mdl"
+    }
+  ]
+}

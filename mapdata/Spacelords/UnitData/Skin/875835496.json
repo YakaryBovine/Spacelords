@@ -1,0 +1,62 @@
+{
+  "OldId": 1970235496,
+  "NewId": 875835496,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Nanobot Barricade"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Dude, it\u0027s like futuristic and technology \u0027cuz it has NANOBOTS, right? Freaking awesome, man!"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "Nanobot Barricade"
+    },
+    {
+      "Id": 1819501173,
+      "Type": 3,
+      "Value": "EnchantedCellLoop"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "buildings\\undead\\Ziggurat\\Ziggurat.mdl"
+    },
+    {
+      "Id": 1935832437,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNZiggurat.blp"
+    },
+    {
+      "Id": 1735156597,
+      "Value": 150
+    },
+    {
+      "Id": 1919705973,
+      "Value": 150
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.65
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

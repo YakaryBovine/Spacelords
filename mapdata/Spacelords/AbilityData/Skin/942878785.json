@@ -1,0 +1,44 @@
+{
+  "OldId": 1633829697,
+  "NewId": 942878785,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Ace"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "|cff0000FFFighter Ace|r"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Your long years of space combat means you know how to overclock default firespeeds for weapons- and not blow up your ship. As such, any ship or station you pilot gains 15% attack speed. |n|cff0000005.83095189|r"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "war3mapImported\\BTNswagger.tga"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    },
+    {
+      "Id": 2037408353,
+      "Value": 1
+    }
+  ]
+}

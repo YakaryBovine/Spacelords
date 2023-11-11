@@ -1,0 +1,28 @@
+{
+  "OldId": 828655937,
+  "NewId": 1379020865,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Pirate Hat"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "war3mapImported\\PirateHat.MDX"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "head"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 1
+    }
+  ]
+}

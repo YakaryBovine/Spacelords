@@ -1,0 +1,50 @@
+{
+  "OldId": 1650544193,
+  "NewId": 942813249,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Chemistry"
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Chemistry"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Hurls corrosive acid that increases the amount of damage the target unit recieves by 17%. Lasts 15 seconds."
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\ChimaeraAcidMissile\\ChimaeraAcidMissile.mdl"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNCorrosiveBreath.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    }
+  ]
+}

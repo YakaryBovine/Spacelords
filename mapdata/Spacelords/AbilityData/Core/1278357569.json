@@ -6,23 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1688"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_1689"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1702"
-    },
-    {
       "Level": 1,
       "Pointer": 2,
       "Id": 846164051,
@@ -41,11 +24,6 @@
       "Id": 1920296033,
       "Type": 2,
       "Value": 16
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPoisonArrow.blp"
     },
     {
       "Id": 1684562785,
@@ -69,10 +47,6 @@
       "Pointer": 4,
       "Id": 879718483,
       "Value": 0
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
     }
   ]
 }

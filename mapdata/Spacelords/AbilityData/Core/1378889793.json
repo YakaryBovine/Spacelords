@@ -7,28 +7,6 @@
   "Modifications": [
     {
       "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1632"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4887"
-    },
-    {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_4888"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4889"
-    },
-    {
-      "Level": 1,
       "Id": 1969514593,
       "Type": 2,
       "Value": 1
@@ -42,12 +20,7 @@
     {
       "Level": 1,
       "Id": 1935895905,
-      "Value": 17
-    },
-    {
-      "Id": 1952543585,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Human\\Polymorph\\PolyMorphTarget.mdl"
+      "Value": 15
     },
     {
       "Level": 1,

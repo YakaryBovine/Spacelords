@@ -4,21 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_1502"
-    },
-    {
-      "Id": 1718840934,
-      "Type": 3,
-      "Value": "TRIGSTR_1503"
-    },
-    {
-      "Id": 1952543846,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Orc\\Voodoo\\VoodooAura.mdl"
-    }
-  ]
+  "Modifications": []
 }

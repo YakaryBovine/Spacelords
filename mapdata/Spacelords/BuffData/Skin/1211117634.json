@@ -1,0 +1,29 @@
+{
+  "OldId": 1634750018,
+  "NewId": 1211117634,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Parasite"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "This unit has been afflicted by Parasite. It will continuously take damage until it dies."
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNParasiteOn.blp"
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\AcidBomb\\BottleImpact.mdl"
+    }
+  ]
+}

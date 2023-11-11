@@ -1,0 +1,59 @@
+{
+  "OldId": 1634037864,
+  "NewId": 875769960,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022Avast,\u0022 cried the humans. \u0022I spy a friendly approaching herewithtoforth!\u0022|n\u0022Indeed,\u0022 cried the friendly. \u0022Let us make with the human celebrations and joyous verbalizing!\u0022|n\u0022Hurrah!\u0022 the humans cried.|n\u0022Oops,\u0022 the friendly human said. \u0022I appear to have dropped a few fusion bombs.\u0022|n\u0022No problem,\u0022 cried the humans. \u0022Let us help pick them up for you!\u0022|nTreacherously, the bombs exploded and the humanse were indeed incinerated! In their dying breaths they did shout, \u0022CURSE YOU ALIEN!\u0022"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Demoness"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDemoness.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\demon\\DemonessBlue\\DemonessBlue.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.2
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.85
+    }
+  ]
+}

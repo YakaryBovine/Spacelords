@@ -6,16 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_722"
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_723"
-    },
-    {
       "Id": 1633772661,
       "Type": 3,
       "Value": ""
@@ -58,26 +48,6 @@
       "Value": "normal"
     },
     {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\RepublicAssaultShip.mdl"
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 9
-    },
-    {
-      "Id": 2053927797,
-      "Type": 1,
-      "Value": 60
-    },
-    {
-      "Id": 1969779573,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1920363893,
       "Type": 2,
       "Value": 0.1
@@ -94,11 +64,6 @@
     {
       "Id": 2050056565,
       "Value": 900
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\PhoenixMissile\\Phoenix_Missile.mdl"
     },
     {
       "Id": 828927349,
@@ -118,21 +83,6 @@
       "Id": 829449333,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_724"
     },
     {
       "Id": 1836344437,
@@ -163,29 +113,9 @@
       "Value": 128
     },
     {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 1.75
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1919969397,
       "Type": 2,
       "Value": 100
-    },
-    {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
     },
     {
       "Id": 1932616053,
@@ -217,18 +147,6 @@
     {
       "Id": 1684632437,
       "Value": 9
-    },
-    {
-      "Id": 1633837685,
-      "Value": 1
-    },
-    {
-      "Id": 1768186485,
-      "Value": 1
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

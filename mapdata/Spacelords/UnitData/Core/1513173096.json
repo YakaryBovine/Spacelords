@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1243"
-    },
-    {
       "Id": 1902473845,
       "Type": 3,
       "Value": ""
@@ -19,26 +14,6 @@
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\sentrygun.mdl"
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSentrygun.blp"
-    },
-    {
-      "Id": 1819503989,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "ClockwerkGoblin"
     },
     {
       "Id": 1852404597,
@@ -85,11 +60,6 @@
       "Value": 1800
     },
     {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "war3mapImported\\Banditmissile.mdl"
-    },
-    {
       "Id": 1664180597,
       "Type": 2,
       "Value": 0.15
@@ -102,26 +72,6 @@
       "Id": 1949393269,
       "Type": 3,
       "Value": "chaos"
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 1953458293,
-      "Type": 3,
-      "Value": "TRIGSTR_824"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1244"
     },
     {
       "Id": 1717920885,
@@ -168,11 +118,6 @@
       "Value": 1
     },
     {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 50
-    },
-    {
       "Id": 1902338421,
       "Type": 2,
       "Value": 650
@@ -188,34 +133,13 @@
       "Value": 5
     },
     {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
-    },
-    {
       "Id": 1918989429,
       "Type": 3,
       "Value": "ground,ward"
     },
     {
-      "Id": 1650684789,
-      "Value": 0
-    },
-    {
       "Id": 1819239285,
       "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 1633837685,
-      "Value": 4
-    },
-    {
-      "Id": 1768186485,
-      "Value": 4
-    },
-    {
-      "Id": 1769169525,
       "Value": 0
     }
   ]

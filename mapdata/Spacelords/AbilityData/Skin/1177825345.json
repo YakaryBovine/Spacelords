@@ -1,0 +1,41 @@
+{
+  "OldId": 1718832961,
+  "NewId": 1177825345,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Firefly"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNFaerieDragon.blp"
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Human\\MassTeleport\\MassTeleportTarget.mdl"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[X] Summon Firefly"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Summons a quick, nimble scout that can use one item.|n|cff0080C0The SCIA v3, better known as the Firefly, is a small mobile probe that is equipped with minor force grapplers for carrying small items. This allows the Firefly to effectively serve as both a mobile monitoring and kamikaze unit. It gains its name from the bright yellow lights designed to confuse AI systems, provide light for infantry in dark situations, and intimidate criminals."
+    }
+  ]
+}

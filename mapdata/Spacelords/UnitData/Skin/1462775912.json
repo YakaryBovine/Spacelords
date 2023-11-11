@@ -1,0 +1,59 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1462775912,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022Rawr\u0022, said the mutant, \u0022For I verily do desire to feast upon your cerebral cortices!\u0022|n\u0022Dear me,\u0022 said the humans, \u0022For we verily do wish to retain our cognitive functions!|n\u0022How inconvenient,\u0022 said the mutant. \u0022Fast food, then?\u0022"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Zombie"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNZombie.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\creeps\\Zombie\\Zombie.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\HydraliskImpact\\HydraliskImpact.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    }
+  ]
+}

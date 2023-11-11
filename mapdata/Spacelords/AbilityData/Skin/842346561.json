@@ -1,0 +1,50 @@
+{
+  "OldId": 1935889729,
+  "NewId": 842346561,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Set Angle"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "K"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[K] Set Angle"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Sets the angle for the gravity beam to work with."
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "none.mdl"
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNInfernal.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    }
+  ]
+}

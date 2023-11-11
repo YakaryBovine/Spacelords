@@ -1,0 +1,45 @@
+{
+  "OldId": 1952992833,
+  "NewId": 859254849,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Q"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Q] Select Space"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Selects the associated space unit to this console and pans your camera to it."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedEnergyTower.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Select Space"
+    }
+  ]
+}

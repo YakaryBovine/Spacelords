@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1311780937,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Fusion Bomb"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Fusion Bomb"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Fusion Bomb|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Target Point|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r N/A |n|cff80FF00Description:|r Apparently designed to destroy small asteroids, the fusion bomb is a powerful incendiary device. Once used, you have 3 seconds to clear the area before it explodes, dealing up to 5200 damage to units at the epicenter."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNFire.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\FusionBomb.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.4
+    }
+  ]
+}

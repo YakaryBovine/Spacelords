@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_640"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 1919969353,

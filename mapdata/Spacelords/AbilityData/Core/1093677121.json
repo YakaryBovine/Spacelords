@@ -6,39 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_297"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_298"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4881"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4882"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_301"
     },
     {
       "Level": 1,
@@ -64,7 +37,7 @@
     {
       "Level": 1,
       "Id": 1935895905,
-      "Value": 34
+      "Value": 30
     },
     {
       "Level": 1,
@@ -82,7 +55,7 @@
       "Level": 1,
       "Id": 1852072801,
       "Type": 2,
-      "Value": 4
+      "Value": 0
     },
     {
       "Level": 1,
@@ -97,17 +70,8 @@
       "Value": 1
     },
     {
-      "Id": 2020631137,
-      "Value": 0
-    },
-    {
       "Id": 1886612833,
       "Value": 1900
-    },
-    {
-      "Id": 1667329377,
-      "Type": 2,
-      "Value": 0
     },
     {
       "Level": 1,
@@ -121,16 +85,6 @@
       "Id": 846422862,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\CannonTowerMissile\\CannonToweffrMissile.mdl"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_302"
     },
     {
       "Level": 1,

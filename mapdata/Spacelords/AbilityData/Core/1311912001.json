@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\NecromancerMissile\\NecromancerMissile.mdl"
-    },
-    {
       "Id": 1886612833,
       "Value": 900
     },
@@ -24,28 +19,6 @@
       "Id": 1852072801,
       "Type": 2,
       "Value": 25
-    },
-    {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_4946"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4947"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4948"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1584"
     },
     {
       "Level": 1,
@@ -83,11 +56,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "B00H"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNInfection1.blp"
     }
   ]
 }

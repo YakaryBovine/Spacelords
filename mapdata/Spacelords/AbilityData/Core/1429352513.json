@@ -6,33 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1731"
-    },
-    {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_4954"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4955"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4956"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1733"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 828466504,
@@ -42,29 +15,6 @@
     {
       "Level": 1,
       "Id": 1935895905,
-      "Value": 1
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Undead\\ImpaleTargetDust\\ImpaleTargetDust.mdl"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRepairOn.blp"
-    },
-    {
-      "Id": 1918989665,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRepairOn.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
-    },
-    {
-      "Id": 2019718497,
       "Value": 1
     },
     {

@@ -1,0 +1,72 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1160982632,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Power alien|n|cff800080Type:|r Speedy, strong alien without damaging abilities |n|cff800080Abilities:|r Sly Tentacles [Steals an item from the target], Neurotoxic Poison [Slows and disorients any unit hit]|n|cff800080Description:|r The power alien is an alien adept at chasing down fleeing foes and attrition warfare. |n|cff800080Evolves into:|r Basilisk, Regeneration, and Webspinner aliens."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Hydralisk"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNZergling.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Critters\\zergling\\zergling.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanBlood\\BloodElfSpellThiefBlood.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.6
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.3
+    },
+    {
+      "Id": 1919705973,
+      "Value": 120
+    },
+    {
+      "Id": 1651270517,
+      "Value": 240
+    }
+  ]
+}

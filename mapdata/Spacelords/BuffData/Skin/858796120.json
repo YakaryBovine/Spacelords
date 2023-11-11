@@ -1,0 +1,19 @@
+{
+  "OldId": 1718379352,
+  "NewId": 858796120,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Vapor Cloud"
+    },
+    {
+      "Id": 1952540006,
+      "Type": 3,
+      "Value": "war3mapImported\\GreySmoke.mdx"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "OldId": 1869640513,
+  "NewId": 1194340417,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Freezing Effect"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNFreezingBreath.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Freezing Effect"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The coolant in the Cryo Suit causes afflicted units to move somewhat slower."
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    }
+  ]
+}

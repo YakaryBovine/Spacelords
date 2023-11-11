@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3273"
-    },
-    {
       "Id": 1667330657,
       "Type": 3,
       "Value": "orc"
@@ -43,45 +38,9 @@
     },
     {
       "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5152"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5088"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3276"
-    },
-    {
-      "Level": 1,
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,enemies,friend,ground,neutral"
-    },
-    {
-      "Id": 1952543585,
-      "Type": 3,
-      "Value": "Units\\NightElf\\Wisp\\WispExplode.mdl"
-    },
-    {
-      "Id": 1734962273,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWandOfManaSteal.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
     },
     {
       "Level": 1,
@@ -100,10 +59,6 @@
       "Id": 1852072801,
       "Type": 2,
       "Value": 27
-    },
-    {
-      "Id": 2037408353,
-      "Value": 1
     },
     {
       "Level": 1,

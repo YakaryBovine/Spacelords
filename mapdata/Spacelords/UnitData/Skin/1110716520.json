@@ -1,0 +1,54 @@
+{
+  "OldId": 1970235496,
+  "NewId": 1110716520,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Console"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "Screens.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\tactic.mdl"
+    },
+    {
+      "Id": 1935832437,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 6
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "Console"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The world will note that the first atomic bomb was dropped on Hiroshima, a military base. That was because we wished in this first attack to avoid, insofar as possible, the killing of civilians. But that attack is only a warning of things to come. If Japan does not surrender, bombs will have to be dropped on her war industries and, unfortunately, thousands of civilian lives will be lost. I urge Japanese civilians to leave industrial cities immediately, and save themselves from destruction."
+    },
+    {
+      "Id": 1634759541,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
+    }
+  ]
+}

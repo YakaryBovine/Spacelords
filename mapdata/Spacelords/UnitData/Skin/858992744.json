@@ -1,0 +1,54 @@
+{
+  "OldId": 1634037864,
+  "NewId": 858992744,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Masquerader|n|cff800080Type:|r Assimilation, Trickery |n|cff800080Abilities:|r Night of Masks [Takes the form of the enemy this is cast on], Muteilate [Renders the target unable to speak], Parasite|n|cff800080Description:|r The Masquerader alien is adept at stealing the forms of other people, allowing you to somewhat impersonate them and trick their allies. When the masquerader returns to her own form, her health will be the average of her health when she entered the illusion and when she exited the illusion. The forms of mutants and androids may only be kept for 30 seconds; humans, forever.|n"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Demoness"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDemoness.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\demon\\DemonessBlue\\DemonessBlue.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.2
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    }
+  ]
+}

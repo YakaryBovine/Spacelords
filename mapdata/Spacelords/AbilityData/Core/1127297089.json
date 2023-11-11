@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_847"
-    },
-    {
       "Level": 1,
       "Pointer": 2,
       "Id": 845243460,
@@ -42,7 +37,7 @@
       "Level": 1,
       "Id": 1918989409,
       "Type": 3,
-      "Value": "enemies,friend,ground,neutral,player,structure"
+      "Value": "debris,enemies,friend,ground,neutral,player,structure"
     }
   ]
 }

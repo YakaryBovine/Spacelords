@@ -6,23 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_932"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4902"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_934"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 828727622,
@@ -58,38 +41,10 @@
       "Value": 500
     },
     {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUndeadLoadOn.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
-    },
-    {
-      "Id": 2019718497,
-      "Value": 1
-    },
-    {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_4903"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4904"
-    },
-    {
       "Level": 1,
       "Id": 1718968929,
       "Type": 3,
       "Value": "B00B"
-    },
-    {
-      "Id": 1918989665,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUndeadLoadOn.blp"
     }
   ]
 }

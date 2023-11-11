@@ -1,0 +1,64 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1429221480,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Perfection|n|cff800080Type:|r Who needs friends? |n|cff800080Abilities:|r Sludge [Hurls sludge at the target!], Cannibalize [Eats a dead corpse for much EP. All T2 Perfection mutants also have this ability.] |n|cff800080Description:|r The perfection mutant loses the ability to make spawns in return for more personal strength. As you gain EP by dealing damage, it is possible to evolve very fast with this tree."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "SludgeMonster"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSludgeCreature.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\creeps\\SludgeMonster\\SludgeMonster.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\HydraliskImpact\\HydraliskImpact.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    }
+  ]
+}

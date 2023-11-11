@@ -6,39 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_105"
-    },
-    {
       "Id": 1986358369,
       "Value": 2
     },
     {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_2927"
-    },
-    {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_107"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4874"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_109"
     },
     {
       "Level": 1,
@@ -92,23 +65,6 @@
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,ground,structure"
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "war3mapImported\\CustomTinker.mdx"
-    },
-    {
-      "Level": 2,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4875"
-    },
-    {
-      "Level": 2,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3414"
     },
     {
       "Level": 2,

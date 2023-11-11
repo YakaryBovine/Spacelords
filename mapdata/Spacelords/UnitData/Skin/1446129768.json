@@ -1,0 +1,59 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1446129768,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Manipulation Alien|n|cff800080Type:|r Battle-flow control |n|cff800080Abilities:|r Temporal Flux [Cripples the movespeed of target unit for 60 seconds, , turns them invulnerable, creates a weak illusion of them.], Mute-ilate [Prevents target from talking to allies]|n|cff800080Description:|r The manipulation alien has an attack best suited for strafing battles or chases. The alien itself can use temporal flux to run away or protect itself, and silence enemies.|n|cff800080Evolves into:|r Spacial Control, Temporal Control, Masquerader"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "FacelessOne"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnbroken.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\Illitid_squished.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\LordofFlameMissile\\LordofFlameMissile.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    }
+  ]
+}

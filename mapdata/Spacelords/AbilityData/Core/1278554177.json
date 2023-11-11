@@ -6,27 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2923"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_691"
     },
     {
       "Level": 1,
@@ -44,11 +29,6 @@
       "Id": 1852072801,
       "Type": 2,
       "Value": 45
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "war3mapImported\\Banditmissile.mdx"
     },
     {
       "Id": 1886612833,
@@ -78,12 +58,6 @@
       "Id": 828535880,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_858"
     },
     {
       "Id": 1685221217,

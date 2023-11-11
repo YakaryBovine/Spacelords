@@ -1,0 +1,45 @@
+{
+  "OldId": 1668565057,
+  "NewId": 842215489,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Back from Hell"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[D] Back from Hell"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "By fusing the remnants of a corpse and altering its timeline, the alien can resurrect a dead player (who is still in the game) in their last moment before death, in order to turn them into a spawn. This magic will only work on dead human players or dead alien spawns, and if none are available an eldritch beast will appear instead. This ability has a cooldown of 7 minutes."
+    },
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": "war3mapImported\\ArcaneTeleportation3.mdx"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSkeletal Sorceror(Fix4).blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "D"
+    }
+  ]
+}

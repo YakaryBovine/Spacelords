@@ -1,0 +1,64 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1462906984,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022Come here, friends!\u0022 one of the humans did say. \u0022For I hoste a party!\u0022|nAnd the humanse did come, and there was a great party containing much drink and chips. After the party, the host did smile evilly and transform into a giant evil person with a cloak!|nIndeed, the humans tried to scream in terror but all that came out of their lungs was a large sequence of spaces! And so the mutant ate their brains.|nGood party, though."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "FacelessOne"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnbroken.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\Illitid_squished.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\LordofFlameMissile\\LordofFlameMissile.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.2
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.8
+    }
+  ]
+}

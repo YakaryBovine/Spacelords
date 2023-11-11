@@ -1,0 +1,41 @@
+{
+  "OldId": 1802981185,
+  "NewId": 808792129,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Cloaking Device"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[X] Cloaking Device"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Allows the Albadar to become temporarily invisible."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNEclipseGS.blp"
+    },
+    {
+      "Id": 1936090465,
+      "Type": 3,
+      "Value": "PowerupSound"
+    }
+  ]
+}

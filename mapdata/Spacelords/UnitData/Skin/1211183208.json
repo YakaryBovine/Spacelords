@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1211183208,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "And the mutant did reveal itself to be a sacred and most awesome bull. And since in the future everyone will worship cows, the humans could do naught but feverishly hope that the mutant wouldn\u0027t find them!|nLet me tell you, their cereberal cortices were lacking in flavor."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "KotoBeastNoRider"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeroTaurenChieftain.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\orc\\HeroTaurenChieftain\\HeroTaurenChieftain.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanLargeDeathExplode\\HumanLargeDeathExplode.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 4
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.6
+    },
+    {
+      "Id": 1735156597,
+      "Value": 100
+    },
+    {
+      "Id": 1651270517,
+      "Value": 150
+    }
+  ]
+}

@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_187"
-    },
-    {
       "Id": 1902473845,
       "Type": 3,
       "Value": ""
@@ -19,26 +14,6 @@
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\GRA-1.mdl"
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNJunkGolem.blp"
-    },
-    {
-      "Id": 1819503989,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "ClockwerkGoblin"
     },
     {
       "Id": 1852404597,
@@ -80,11 +55,6 @@
       "Value": 900
     },
     {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "war3mapImported\\EMPBomb.mdl"
-    },
-    {
       "Id": 1647403381,
       "Value": 39
     },
@@ -102,26 +72,6 @@
       "Id": 1752591733,
       "Type": 2,
       "Value": 100
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 1953458293,
-      "Type": 3,
-      "Value": "TRIGSTR_085"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_188"
     },
     {
       "Id": 1717920885,
@@ -143,12 +93,7 @@
     {
       "Id": 1887007861,
       "Type": 3,
-      "Value": "mechanical,tauren"
-    },
-    {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
+      "Value": "mechanical"
     },
     {
       "Id": 1918989429,
@@ -177,14 +122,6 @@
       "Id": 1919969397,
       "Type": 2,
       "Value": 1
-    },
-    {
-      "Id": 1633837685,
-      "Value": 4
-    },
-    {
-      "Id": 1768186485,
-      "Value": 4
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "OldId": 1818325064,
+  "NewId": 909389896,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Robo-Butler"
+    },
+    {
+      "Id": 1869770869,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1970434165,
+      "Value": 0
+    },
+    {
+      "Id": 1953980789,
+      "Type": 3,
+      "Value": "0"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "0"
+    },
+    {
+      "Id": 1919972469,
+      "Type": 3,
+      "Value": "0"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "ClockwerkGoblin"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNFlyingMachine.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\GRA-1.mdl"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.3
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 0.9
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

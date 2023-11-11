@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Flash Lightning"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "Abilities\\Weapons\\Bolt\\BoltImpact.mdl"

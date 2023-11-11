@@ -6,29 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1941"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_1942"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1943"
     },
     {
       "Level": 1,
@@ -84,24 +67,6 @@
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,enemies,friend,neutral,player"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTheBlackArrow.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_1944"
-    },
-    {
-      "Id": 2037408353,
-      "Value": 1
     }
   ]
 }

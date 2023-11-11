@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1211314280,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "When the alien did assume the form of a snake, the humans were quite surprised.|n\u0022Good aliene,\u0022 they cried, \u0022Might you endeavour to inform us of how locomotion is achieved in a snake?\u0022|nThe patient and wise alien explained the principles of serpentine motion by chasing after the humans. He then explained the digestive system of snakes by devouring the humans!"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "SnapDragon"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWindSerpent.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\BasiliskOpt.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanBlood\\BloodElfSpellThiefBlood.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 4
+    },
+    {
+      "Id": 1651270517,
+      "Value": 240
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.2
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1735156597,
+      "Value": 120
+    }
+  ]
+}

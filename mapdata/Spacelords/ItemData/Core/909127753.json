@@ -6,26 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_4660"
-    },
-    {
-      "Id": 1936024681,
-      "Type": 3,
-      "Value": "TRIGSTR_341"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_4729"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_2294"
-    },
-    {
       "Id": 1819240297,
       "Value": 0
     },
@@ -41,16 +21,6 @@
     {
       "Id": 1702065513,
       "Value": 10
-    },
-    {
-      "Id": 1818846825,
-      "Type": 3,
-      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
-    },
-    {
-      "Id": 1633907561,
-      "Type": 1,
-      "Value": 0.2
     },
     {
       "Id": 1886545001,

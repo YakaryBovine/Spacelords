@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1194537064,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Basilisk|n|cff800080Type:|r Man-eating snake |n|cff800080Abilities:|r Petrify [Turns the target human into stone. They may only be saved by other humans.], Neurotoxic Poison [Slows and disorients hit units.]|n|cff800080Description:|r The basilisk alien has high hitpoints, slightly low movespeed, and a damaging melee attack. In 1v1, and when used properly, the basilisk can own any stray human and with proper spawn support can take out groups.  "
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "SnapDragon"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWindSerpent.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\BasiliskOpt.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanBlood\\BloodElfSpellThiefBlood.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 5
+    },
+    {
+      "Id": 1919705973,
+      "Value": 120
+    },
+    {
+      "Id": 1651270517,
+      "Value": 240
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.4
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

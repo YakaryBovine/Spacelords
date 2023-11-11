@@ -1,0 +1,34 @@
+{
+  "OldId": 1935951938,
+  "NewId": 1127231554,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Blast Shield"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Blast Shield"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "Reading tooltips, eh? THINK YOU COULD GAIN USEFUL INFORMATION, EH? WELL I\u0027LL TELL YOU SOMETHING. YOU\u0027RE GONNA DIE, MAGGOT."
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDoom.blp"
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedTarget.mdl"
+    }
+  ]
+}

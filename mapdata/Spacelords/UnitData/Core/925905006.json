@@ -6,21 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3070"
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Skink"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "units\\critters\\DuneWorm\\DuneWorm.mdl"
-    },
-    {
       "Id": 2037671029,
       "Type": 3,
       "Value": "normal"
@@ -40,21 +25,6 @@
       "Value": 200
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDuneWorm.blp"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3071"
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 1.2
-    },
-    {
       "Id": 1684632437,
       "Value": 900
     },
@@ -63,17 +33,8 @@
       "Value": 900
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_3072"
-    },
-    {
       "Id": 1701602933,
       "Value": 0
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

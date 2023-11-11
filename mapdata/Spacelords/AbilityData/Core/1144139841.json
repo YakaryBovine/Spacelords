@@ -6,29 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1476"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
     },
     {
       "Id": 1986358369,
       "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4936"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1478"
     },
     {
       "Level": 1,
@@ -50,11 +33,6 @@
       "Value": 0.01
     },
     {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNVolcano.blp"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
       "Value": 0
@@ -66,20 +44,10 @@
       "Value": 180
     },
     {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Naga\\NagaDeath\\NagaDeath.mdl"
-    },
-    {
       "Level": 1,
       "Id": 1918989409,
       "Type": 3,
       "Value": "ground,neutral"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4937"
     }
   ]
 }

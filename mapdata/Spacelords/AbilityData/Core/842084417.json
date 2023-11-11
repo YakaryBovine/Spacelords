@@ -6,34 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_673"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4892"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4893"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_675"
     },
     {
       "Level": 1,
@@ -44,23 +22,13 @@
     {
       "Level": 1,
       "Id": 1935895905,
-      "Value": 35
+      "Value": 10
     },
     {
       "Level": 1,
       "Id": 1852072801,
       "Type": 2,
-      "Value": 15
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "war3mapImported\\ShadowWave.mdx"
-    },
-    {
-      "Id": 1952543585,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Other\\CrushingWave\\CrushingWaveDamage.mdl"
+      "Value": 20
     },
     {
       "Id": 1886612833,
@@ -72,11 +40,6 @@
       "Id": 846422869,
       "Type": 2,
       "Value": 99999
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHealingSpray.blp"
     },
     {
       "Level": 1,

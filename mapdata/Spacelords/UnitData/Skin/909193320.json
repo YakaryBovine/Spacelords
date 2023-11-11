@@ -1,0 +1,58 @@
+{
+  "OldId": 1970235496,
+  "NewId": 909193320,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Experimental Teleport Device Factory"
+    },
+    {
+      "Id": 1935832437,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanWatchTower.blp"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Marketplace"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\HeroTinkerFactory\\HeroTinkerFactory.mdl"
+    },
+    {
+      "Id": 1919705973,
+      "Value": 100
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 4
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The experimental teleportation device project was really a local application of long-known principles, except in a more portable form designed specifically for in-sector travel. It was cancelled due to cost inefficiency and redundancy. The prototype vendor remains and the only completed endpoint for the device is on the Niffy."
+    }
+  ]
+}

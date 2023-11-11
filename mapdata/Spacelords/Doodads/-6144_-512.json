@@ -62,6 +62,86 @@
   {
     "State": 2,
     "Life": 255,
+    "TypeId": 1718180426,
+    "Position": {
+      "X": -6280.8604,
+      "Y": -874.2721,
+      "Z": -542
+    },
+    "Rotation": 3.1415927,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 0.3
+    },
+    "SkinId": 1718180426,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 3841
+  },
+  {
+    "State": 2,
+    "Life": 255,
+    "TypeId": 1718180426,
+    "Position": {
+      "X": -6282.401,
+      "Y": -944.8453,
+      "Z": -542
+    },
+    "Rotation": 3.1415927,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 0.3
+    },
+    "SkinId": 1718180426,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 3842
+  },
+  {
+    "State": 2,
+    "Life": 255,
+    "TypeId": 1718180426,
+    "Position": {
+      "X": -6285.8315,
+      "Y": -983.7606,
+      "Z": -542
+    },
+    "Rotation": 3.1415927,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 0.3
+    },
+    "SkinId": 1718180426,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 3843
+  },
+  {
+    "State": 2,
+    "Life": 255,
+    "TypeId": 1718180426,
+    "Position": {
+      "X": -6281.5127,
+      "Y": -1005.20264,
+      "Z": -542
+    },
+    "Rotation": 3.1415927,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 0.3
+    },
+    "SkinId": 1718180426,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 3844
+  },
+  {
+    "State": 2,
+    "Life": 255,
     "TypeId": 909127748,
     "Position": {
       "X": -6266.5913,
@@ -88,7 +168,7 @@
       "Y": -832,
       "Z": -542
     },
-    "Rotation": 1.5707965,
+    "Rotation": 1.5707964,
     "Scale": {
       "X": 0.01,
       "Y": 0.01,
@@ -108,7 +188,7 @@
       "Y": -512,
       "Z": -542
     },
-    "Rotation": 1.5707965,
+    "Rotation": 1.5707964,
     "Scale": {
       "X": 0.01,
       "Y": 0.01,
@@ -128,7 +208,7 @@
       "Y": -512,
       "Z": -542
     },
-    "Rotation": 3.141593,
+    "Rotation": 3.1415927,
     "Scale": {
       "X": 0.01,
       "Y": 0.01,

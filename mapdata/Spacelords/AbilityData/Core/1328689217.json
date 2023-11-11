@@ -10,30 +10,8 @@
       "Value": 0
     },
     {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": "war3mapImported\\SelfbuffFX.mdx"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4327"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4949"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1605"
     },
     {
       "Level": 1,
@@ -59,24 +37,10 @@
       "Value": 0
     },
     {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNAlienHero.blp"
-    },
-    {
       "Level": 1,
       "Id": 1935762273,
       "Type": 2,
       "Value": 5
-    },
-    {
-      "Id": 2020631137,
-      "Value": 3
-    },
-    {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1601"
     }
   ]
 }

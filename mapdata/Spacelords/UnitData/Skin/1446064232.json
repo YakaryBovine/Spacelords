@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1446064232,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Defiler|n|cff800080Type:|r Area denial  |n|cff800080Abilities:|r Slime [Anywhere the mutant walks, it leaves a trail of slime that damages units which walk on it.], Metamorphosis [The mutant becomes a lot of miniworms. Both a self-preservation and a damage ability!]|n|cff800080Description:|r The defilrer mutant has speed, survivability, and a bit of range. Its slime trail can make life hell for those trying to follow you, run away to where you\u0027ve been, or pilot consoles you\u0027ve gotten your grimy tentacles all over."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Spider"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWindSerpent.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\Defiler.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\ChimaeraAcidMissile\\ChimaeraAcidMissile.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 100
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 5
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 2
+    },
+    {
+      "Id": 1735156597,
+      "Value": 100
+    },
+    {
+      "Id": 1651270517,
+      "Value": 100
+    }
+  ]
+}

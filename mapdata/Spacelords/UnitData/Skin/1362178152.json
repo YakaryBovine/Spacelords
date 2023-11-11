@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1362178152,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Overlord|n|cff800080Type:|r Their worst nightmare |n|cff800080Abilities:|r [Can build various minions]|n|cff800080Description:|r Choose where you evolve in this form wisely. The Overlord is powerful but takes a bit of time to become so."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "ObsidianDestroyer"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNForgottenOne.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\ForgottenOne\\ForgottenOne.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Items\\AIfb\\AIfbSpecialArt.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 9
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.7
+    },
+    {
+      "Id": 1735156597,
+      "Value": 100
+    },
+    {
+      "Id": 1651270517,
+      "Value": 100
+    }
+  ]
+}

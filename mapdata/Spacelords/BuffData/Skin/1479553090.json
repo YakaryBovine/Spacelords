@@ -1,0 +1,24 @@
+{
+  "OldId": 1936543298,
+  "NewId": 1479553090,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Solace Shield"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Solace Shield"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "This unit is shielded from damage."
+    }
+  ]
+}

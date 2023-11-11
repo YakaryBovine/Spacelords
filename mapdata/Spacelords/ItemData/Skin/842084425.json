@@ -1,0 +1,49 @@
+{
+  "OldId": 1685091170,
+  "NewId": 842084425,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1953458293,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "|cff008040Pirate Hat|r"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Yarrr!"
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnholyAura.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\PirateHat.mdl"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "This appears to be a hat- perhaps, indeed, even a pirate hat! Quite awesome I daresay. Perhaps if one were to put it on one\u0027s head, one\u0027s awesomeness would allow them to bend the fabric of reality- but I digress. YARR PIRATES YARR."
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 1.6
+    }
+  ]
+}

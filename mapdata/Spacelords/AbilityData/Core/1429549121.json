@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3077"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
@@ -22,28 +17,6 @@
       "Level": 1,
       "Id": 1935895905,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5065"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5066"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3082"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWispSplode.blp"
     },
     {
       "Level": 1,
@@ -82,11 +55,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1768841569,
-      "Type": 3,
-      "Value": "attack"
     },
     {
       "Level": 1,

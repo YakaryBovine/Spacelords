@@ -1,0 +1,35 @@
+{
+  "OldId": 1718379329,
+  "NewId": 1244934209,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Blinding Cloud"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Vapor Cloud"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "A thick, noxious cloud upon the target area disables all attacks and spells."
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    }
+  ]
+}

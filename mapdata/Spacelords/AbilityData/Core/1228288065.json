@@ -6,39 +6,10 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3304"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 1919969353,
       "Value": 20
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "war3mapImported\\Sparks.mdx"
-    },
-    {
-      "Id": 811693153,
-      "Type": 3,
-      "Value": "origin"
-    },
-    {
-      "Id": 828470369,
-      "Type": 3,
-      "Value": "origin"
-    },
-    {
-      "Id": 845247585,
-      "Type": 3,
-      "Value": "origin"
-    },
-    {
-      "Id": 1667331169,
-      "Value": 3
     }
   ]
 }

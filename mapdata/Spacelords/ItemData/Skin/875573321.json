@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 875573321,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Antibody Pack"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Antibody pack!"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Antibody Pack"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Perishable|n|cff80FF00Charges:|r 3|n|cff80FF00Cooldown:|r 20s |n|cff80FF00Description:|r The antibody pack can be used to flush parasite or prion infection. When taken, you will have immunity from infection for 45 seconds."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHealingSpray.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    }
+  ]
+}

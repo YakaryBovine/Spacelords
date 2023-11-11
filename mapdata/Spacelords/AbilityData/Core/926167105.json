@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2304"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 828665683,
@@ -22,11 +17,6 @@
       "Id": 845442899,
       "Type": 3,
       "Value": "e00X"
-    },
-    {
-      "Id": 1952540001,
-      "Type": 3,
-      "Value": "none.mdl"
     }
   ]
 }

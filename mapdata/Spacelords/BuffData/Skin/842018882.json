@@ -1,0 +1,34 @@
+{
+  "OldId": 1650542658,
+  "NewId": 842018882,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Power Core"
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Power Core"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "This unit has an increased mana regeneration rate."
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNMoonStone.blp"
+    }
+  ]
+}

@@ -6,29 +6,14 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1182"
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "undead"
     },
     {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_4868"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_4057"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
-      "Value": "A08J,A08H,Adro,Sch3,Aloa"
+      "Value": "A020,Adro,Sch3,Aloa"
     },
     {
       "Id": 1920363893,
@@ -44,11 +29,6 @@
       "Id": 1769300597,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "DoomGuard"
     },
     {
       "Id": 1852404597,
@@ -72,15 +52,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1887007861,
@@ -114,24 +94,9 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCarrionSwarm.blp"
-    },
-    {
       "Id": 1836344437,
       "Type": 2,
       "Value": 6
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\Overlord.mdl"
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Human\\HumanLargeDeathExplode\\HumanLargeDeathExplode.mdl"
     },
     {
       "Id": 1915838837,
@@ -147,11 +112,6 @@
       "Value": 2000
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_1184"
-    },
-    {
       "Id": 1919969397,
       "Type": 2,
       "Value": 0
@@ -165,21 +125,6 @@
       "Id": 1999724917,
       "Type": 3,
       "Value": "missile"
-    },
-    {
-      "Id": 2020633717,
-      "Type": 2,
-      "Value": 19
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 56
     },
     {
       "Id": 1768910965,
@@ -219,22 +164,9 @@
       "Value": 100
     },
     {
-      "Id": 1735156597,
-      "Value": 100
-    },
-    {
-      "Id": 1651270517,
-      "Value": 100
-    },
-    {
       "Id": 1819239285,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 3
     },
     {
       "Id": 1953918325,
@@ -256,30 +188,12 @@
       "Value": 0
     },
     {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 2
-    },
-    {
       "Id": 1684824693,
       "Value": 30
     },
     {
-      "Id": 1953458293,
-      "Type": 3,
-      "Value": "TRIGSTR_4869"
-    },
-    {
       "Id": 1918985077,
-      "Value": 99
-    },
-    {
-      "Id": 1836412021,
-      "Value": 40
-    },
-    {
-      "Id": 2020631157,
-      "Value": 3
+      "Value": 8
     }
   ]
 }

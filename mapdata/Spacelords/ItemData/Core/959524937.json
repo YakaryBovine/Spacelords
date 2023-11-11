@@ -6,26 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_4681"
-    },
-    {
-      "Id": 1936024681,
-      "Type": 3,
-      "Value": "TRIGSTR_2369"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_4749"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_2372"
-    },
-    {
       "Id": 1684628329,
       "Type": 3,
       "Value": "Sca1"
@@ -33,11 +13,6 @@
     {
       "Id": 1819240297,
       "Value": 0
-    },
-    {
-      "Id": 1868786025,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSlaughterhouse.blp"
     },
     {
       "Id": 1869902697,
@@ -49,18 +24,8 @@
       "Value": "A04C"
     },
     {
-      "Id": 1818846825,
-      "Type": 3,
-      "Value": "buildings\\undead\\Slaughterhouse\\Slaughterhouse.mdl"
-    },
-    {
       "Id": 1702065513,
       "Value": 1
-    },
-    {
-      "Id": 1633907561,
-      "Type": 1,
-      "Value": 0.3
     },
     {
       "Id": 1886545001,
@@ -69,10 +34,6 @@
     {
       "Id": 1919250537,
       "Value": 0
-    },
-    {
-      "Id": 1953723241,
-      "Value": 300
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "OldId": 1953721965,
+  "NewId": 892350537,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Power Core"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Provides faster mana regen."
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Passive|n|cff80FF00Charges:|r N/A|n|cff80FF00Cooldown:|r N/A|n|cff80FF00Description:|r Restores 1.5 energy per second."
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Power Core"
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSpellSteal.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    }
+  ]
+}

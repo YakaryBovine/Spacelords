@@ -1,0 +1,59 @@
+{
+  "OldId": 1634037864,
+  "NewId": 926101608,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Electricity Alien|n|cff800080Type:|r Zappy, trappy alien |n|cff800080Abilities:|r Lightning Strike [After a second or two, a wide area is zapped for lots of damage.], Electromagnetic Disruption [Locks all doors on your current station. The alien can bypass any locked door simply by walking up to it.] |n|cff800080Description:|r  The electricity alien is good for trapping and zapping humans, obviously."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "DragonSpawn"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNGreenDragonSpawn.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\DragonSpawnGreen\\DragonSpawnGreen.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.8
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    }
+  ]
+}

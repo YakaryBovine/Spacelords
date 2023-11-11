@@ -1,0 +1,43 @@
+{
+  "OldId": 2038064706,
+  "NewId": 1378889794,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Overheat"
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\RedDragonBreath\\RedDragonMissile.mdl,Abilities\\Weapons\\RedDragonBreath\\RedDragonMissile.mdl,Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedTarget.mdl"
+    },
+    {
+      "Id": 1667331174,
+      "Value": 3
+    },
+    {
+      "Id": 845247590,
+      "Type": 3,
+      "Value": "origin"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Overheat"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "This unit is overheating its primary weapons system and such."
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNFlameSphere.BLP"
+    }
+  ]
+}

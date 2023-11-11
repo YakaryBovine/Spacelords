@@ -1,0 +1,24 @@
+{
+  "OldId": 2054179137,
+  "NewId": 808529985,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1936090465,
+      "Type": 3,
+      "Value": "Elevator"
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Door Lock"
+    },
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\DeathPact\\DeathPactTarget.mdl"
+    }
+  ]
+}

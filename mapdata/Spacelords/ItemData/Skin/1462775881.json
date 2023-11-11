@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1462775881,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Force Shield"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Force Shield"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Force Shield|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Construction/Target Point|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r N/A |n|cff80FF00Description:|r Creates a force shield at the target point. A force shield will protect all units in your base-group while it is active."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNChimaeraRoost.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\nightelf\\ChimaeraRoost\\ChimaeraRoost.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1328558153,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Experimental Portal Device"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Experimental Portal Device"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Experimental Portal Device|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Target Point|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r N/A |n|cff80FF00Description:|r This obscure and underfunded project apparently has the power to transport any units in range to the teleporter in the tech hall. Please do not submerge or shoot this device. Takes 3 seconds to activate."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\DeathCoil\\DeathCoilMissile.mdl"
+    },
+    {
+      "Id": 1919705961,
+      "Value": 0
+    },
+    {
+      "Id": 1735156585,
+      "Value": 0
+    }
+  ]
+}

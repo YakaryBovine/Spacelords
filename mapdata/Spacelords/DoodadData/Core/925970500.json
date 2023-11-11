@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Faeries"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "Abilities\\Spells\\NightElf\\FaerieFire\\FaerieFireTarget.mdl"

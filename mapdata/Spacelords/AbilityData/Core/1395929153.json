@@ -6,47 +6,15 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2519"
-    },
-    {
       "Id": 1667330657,
       "Type": 3,
       "Value": "orc"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_2520"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2521"
     },
     {
       "Level": 1,
       "Id": 1918989409,
       "Type": 3,
       "Value": "_"
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNRegenerationAura.blp"
     },
     {
       "Level": 1,

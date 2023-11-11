@@ -1,0 +1,19 @@
+{
+  "OldId": 1719169089,
+  "NewId": 926036033,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Locust Hit"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\BansheeMissile\\BansheeMissile.mdl"
+    }
+  ]
+}

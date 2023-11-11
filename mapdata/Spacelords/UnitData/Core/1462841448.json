@@ -6,24 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1223"
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "undead"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_1194"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1225"
     },
     {
       "Id": 1768055157,
@@ -50,11 +35,6 @@
       "Value": ""
     },
     {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Skink"
-    },
-    {
       "Id": 1852404597,
       "Value": 1200
     },
@@ -64,7 +44,7 @@
     },
     {
       "Id": 1836083317,
-      "Value": 30
+      "Value": 125
     },
     {
       "Id": 1819240309,
@@ -76,15 +56,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1887007861,
@@ -118,19 +98,9 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDuneWorm.blp"
-    },
-    {
       "Id": 1836344437,
       "Type": 2,
       "Value": 6
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "units\\critters\\DuneWorm\\DuneWorm.mdl"
     },
     {
       "Id": 829449333,
@@ -141,11 +111,6 @@
       "Id": 829645429,
       "Type": 2,
       "Value": 0.2
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Critters\\Albatross\\CritterBloodAlbatross.mdl"
     },
     {
       "Id": 1915838837,
@@ -161,11 +126,6 @@
       "Value": 2000
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_1201"
-    },
-    {
       "Id": 1919969397,
       "Type": 2,
       "Value": 0.5
@@ -174,21 +134,6 @@
       "Id": 1919970677,
       "Type": 2,
       "Value": 0.5
-    },
-    {
-      "Id": 2020633717,
-      "Type": 2,
-      "Value": 19
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 56
     },
     {
       "Id": 1768910965,
@@ -223,14 +168,6 @@
       "Value": 100
     },
     {
-      "Id": 1735156597,
-      "Value": 100
-    },
-    {
-      "Id": 1651270517,
-      "Value": 100
-    },
-    {
       "Id": 1819239285,
       "Type": 2,
       "Value": 8
@@ -238,11 +175,6 @@
     {
       "Id": 1684824693,
       "Value": 5
-    },
-    {
-      "Id": 1953458293,
-      "Type": 3,
-      "Value": "TRIGSTR_099"
     },
     {
       "Id": 1852137845,

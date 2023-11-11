@@ -1,0 +1,66 @@
+{
+  "OldId": 1935887937,
+  "NewId": 876032065,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Auxiliary Repositioning Drive"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "A"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "|cff408080Auxiliary Repositioning Drive|r"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The Niffy can concentrate energy tremendously and funnel it into a small space drive, \u0022teleporting\u0022 the Niffy anywhere in local space. It takes 20 seconds to gather the requisite energy, in which time the Niffy will be unable to do anything else.  It takes 5 minutes to recharge this ability."
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 2,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[X] |cffFF0000Armageddon Payload|r"
+    },
+    {
+      "Level": 2,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Unleashes a devastating rain of rockets over a wide area. Now improved!"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNEarthquake.blp"
+    },
+    {
+      "Id": 2037408353,
+      "Value": 0
+    },
+    {
+      "Id": 2020631137,
+      "Value": 0
+    }
+  ]
+}

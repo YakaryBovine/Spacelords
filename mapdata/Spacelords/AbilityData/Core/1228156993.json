@@ -6,36 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2439"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_1119"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_2441"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2442"
-    },
-    {
       "Id": 1902473825,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNStaticShock.blp"
     },
     {
       "Level": 1,
@@ -53,10 +26,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "B00T,Blsa"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
     },
     {
       "Level": 1,

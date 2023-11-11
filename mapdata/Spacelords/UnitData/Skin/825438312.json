@@ -1,0 +1,59 @@
+{
+  "OldId": 1634037864,
+  "NewId": 825438312,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Spacial Control Alien|n|cff800080Type:|r The trickster alien  |n|cff800080Abilities:|r Spatial Relocation [Puts the alien into a random part of space. Oh joy!], Spatial Swap [Swaps the position of alien with any targets in the area.] |n|cff800080Description:|r The space alien has about the strength of a raptor in space. Prior preparation, such as removing or destroying the consoles of stations, can make this alien great at sieging enemies on stations. Spatial swap means that if you are clever, you can put enemies in a bad position- trap them on the defunct, for instance, when you know their position because they are piloting a station."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Infernal"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNRevenant.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\creeps\\Revenant\\Revenant.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\WitchDoctorMissile\\WitchDoctorMissile.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    }
+  ]
+}

@@ -6,23 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2897"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5053"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2902"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 7565891,
@@ -53,24 +36,6 @@
       "Value": 45
     },
     {
-      "Id": 2020631137,
-      "Value": 2
-    },
-    {
-      "Id": 2019718497,
-      "Value": 2
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUndeadUnLoad.blp"
-    },
-    {
-      "Id": 1918989665,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUndeadUnLoad.blp"
-    },
-    {
       "Level": 1,
       "Id": 1918989409,
       "Type": 3,
@@ -81,25 +46,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "BUad"
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Undead\\DeathCoil\\DeathCoilSpecialArt.mdl"
-    },
-    {
-      "Id": 1667331169,
-      "Value": 1
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5054"
-    },
-    {
-      "Id": 1802007905,
-      "Type": 3,
-      "Value": "TRIGSTR_5055"
     }
   ]
 }

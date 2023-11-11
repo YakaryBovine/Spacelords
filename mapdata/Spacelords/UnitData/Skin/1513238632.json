@@ -1,0 +1,72 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1513238632,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Eldritch Beast"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Eldritch Beast prefers the term \u0022Demonic Quadrapod.\u0022 When he\u0027s not killing or maiming people, he\u0027s a champion of civil rights. He\u0027s also started volunteering for the local orphanage, which has recently started seeing its influx of delicious babies dwindle to a manageable level."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Felhound"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNPurpleFelhound.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\creeps\\FelstalkerPurple\\FelstalkerPurple.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\Impale\\ImpaleMissTarget.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 2.75
+    },
+    {
+      "Id": 1735156597,
+      "Value": 180
+    },
+    {
+      "Id": 1651270517,
+      "Value": 100
+    }
+  ]
+}

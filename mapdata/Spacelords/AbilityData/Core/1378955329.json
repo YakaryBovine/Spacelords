@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_984"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
@@ -23,32 +18,6 @@
       "Id": 1717986657,
       "Type": 3,
       "Value": "X000"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 3
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCleavingAttack.blp"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_953"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_985"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_986"
     },
     {
       "Level": 1,

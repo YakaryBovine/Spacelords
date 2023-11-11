@@ -6,35 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3214"
-    },
-    {
-      "Id": 1869770869,
-      "Type": 3,
-      "Value": "TRIGSTR_1345"
-    },
-    {
-      "Id": 1970434165,
-      "Value": 0
-    },
-    {
-      "Id": 1953980789,
-      "Type": 3,
-      "Value": "TRIGSTR_3215"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_3216"
-    },
-    {
-      "Id": 1919972469,
-      "Type": 3,
-      "Value": "TRIGSTR_3217"
-    },
-    {
       "Id": 1650550901,
       "Type": 3,
       "Value": ""
@@ -42,7 +13,7 @@
     {
       "Id": 1768055157,
       "Type": 3,
-      "Value": "Aeth,A063,Avul"
+      "Value": "A063,Avul"
     },
     {
       "Id": 1819239285,
@@ -62,11 +33,6 @@
       "Id": 1918989429,
       "Type": 3,
       "Value": "ground,ward"
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "ClockwerkGoblin"
     },
     {
       "Id": 1836083317,
@@ -130,15 +96,15 @@
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 5
+      "Value": 0
     },
     {
       "Id": 1633837685,
-      "Value": 5
+      "Value": 0
     },
     {
       "Id": 1920363893,
@@ -169,16 +135,6 @@
       "Value": "normal"
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNFlyingMachine.blp"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\GRA-1.mdl"
-    },
-    {
       "Id": 1719037301,
       "Type": 2,
       "Value": 90
@@ -187,16 +143,6 @@
       "Id": 1752591733,
       "Type": 2,
       "Value": 90
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 0.3
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 0.9
     },
     {
       "Id": 829449333,
@@ -217,11 +163,6 @@
       "Id": 2003988597,
       "Type": 2,
       "Value": 180
-    },
-    {
-      "Id": 1969779573,
-      "Type": 3,
-      "Value": ""
     }
   ]
 }

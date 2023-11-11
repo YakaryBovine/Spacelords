@@ -6,44 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3623"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5089"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_3624"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_5090"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNBerserkForTrolls.blp"
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Undead\\ImpaleTargetDust\\ImpaleTargetDust.mdl"
     },
     {
       "Level": 1,
@@ -67,18 +35,6 @@
       "Id": 828733256,
       "Type": 3,
       "Value": "e000"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 3
-    },
-    {
-      "Id": 2019718497,
-      "Value": 3
-    },
-    {
-      "Id": 2036495713,
-      "Value": 2
     },
     {
       "Level": 1,

@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2265"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
@@ -28,7 +23,7 @@
       "Level": 1,
       "Id": 1935762273,
       "Type": 2,
-      "Value": 2.8
+      "Value": 1
     },
     {
       "Level": 1,
@@ -59,41 +54,6 @@
       "Id": 828469074,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_2508"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2264"
-    },
-    {
-      "Id": 2037408353,
-      "Value": 1
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
-    },
-    {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNReplay-Speeddown.blp"
     }
   ]
 }

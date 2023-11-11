@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Control Runes"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "Doodads\\BlackCitadel\\Props\\RuneArt\\RuneArt1.mdl"

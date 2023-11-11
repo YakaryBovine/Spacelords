@@ -4,31 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_513"
-    },
-    {
-      "Id": 1953653094,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNShadeTrueSight.blp"
-    },
-    {
-      "Id": 1885959270,
-      "Type": 3,
-      "Value": "TRIGSTR_3645"
-    },
-    {
-      "Id": 1700951398,
-      "Type": 3,
-      "Value": "TRIGSTR_514"
-    },
-    {
-      "Id": 1952543846,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Undead\\DeathandDecay\\DeathandDecayDamage.mdl"
-    }
-  ]
+  "Modifications": []
 }

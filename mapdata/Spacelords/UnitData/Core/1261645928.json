@@ -6,44 +6,14 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_2333"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
       "Value": "Amrf,A071"
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_2334"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1719"
-    },
-    {
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "units\\critters\\FlyingSheep\\FlyingSheep.mdl"
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 4
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 6
     },
     {
       "Id": 1752591733,
@@ -90,14 +60,6 @@
     {
       "Id": 1717920885,
       "Value": 0
-    },
-    {
-      "Id": 1633837685,
-      "Value": 4
-    },
-    {
-      "Id": 1768186485,
-      "Value": 4
     }
   ]
 }

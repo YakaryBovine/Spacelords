@@ -6,22 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1635"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
-      "Value": "A07Q,Aneu,Apit"
+      "Value": "Aneu,Apit"
     },
     {
       "Id": 1919381621,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1935832437,
       "Type": 3,
       "Value": ""
     },
@@ -33,21 +23,6 @@
     {
       "Id": 1836083317,
       "Value": 8000
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanLumberMill.blp"
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Marketplace"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\EscapePodStation.mdl"
     },
     {
       "Id": 2037671029,
@@ -73,16 +48,6 @@
       "Value": "PathTextures\\8x8SimpleSolid.tga"
     },
     {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 1.25
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 5
-    },
-    {
       "Id": 1768256373,
       "Type": 3,
       "Value": "I010"
@@ -93,16 +58,6 @@
       "Value": "structure,ward"
     },
     {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
-    },
-    {
       "Id": 1634559605,
       "Value": 0
     },
@@ -110,10 +65,6 @@
       "Id": 1935827829,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

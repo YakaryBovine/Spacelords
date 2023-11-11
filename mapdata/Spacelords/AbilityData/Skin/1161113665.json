@@ -1,0 +1,44 @@
+{
+  "OldId": 1633829697,
+  "NewId": 1161113665,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Flesh Golem"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "|cff8080FFFlesh Golem|r"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "As a flesh golem of ridiculous size and proportions, the mutant crushes nearby rubble underfoot.|n|cff80FF00Pathfinding Tip: Manually order the mutant to move nearby rubble. If you order him to move somewhere past the rubble, he may become confused and path around it.|r"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNFleshGolem.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    },
+    {
+      "Id": 2037408353,
+      "Value": 1
+    }
+  ]
+}

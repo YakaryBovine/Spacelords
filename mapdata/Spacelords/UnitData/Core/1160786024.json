@@ -6,24 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_425"
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "orc"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_012"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_426"
     },
     {
       "Id": 1768055157,
@@ -32,7 +17,7 @@
     },
     {
       "Id": 1937141109,
-      "Value": 260
+      "Value": 230
     },
     {
       "Id": 1920363893,
@@ -42,17 +27,12 @@
     {
       "Id": 1919381621,
       "Type": 3,
-      "Value": "R00C,R00A,R008,R006,R001,R002,R003,R004,R005,R000"
+      "Value": "R00A,R008,R006,R001,R002,R003,R004,R005,R000"
     },
     {
       "Id": 1769300597,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Garithos"
     },
     {
       "Id": 1852404597,
@@ -76,15 +56,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1701602933,
@@ -105,16 +85,6 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMarine.blp"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\Konstrukt_AdvancedMarineFinal.mdl"
-    },
-    {
       "Id": 829449333,
       "Type": 2,
       "Value": 0
@@ -123,11 +93,6 @@
       "Id": 829645429,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\RedDragonBreath\\RedDragonMissile.mdl"
     },
     {
       "Id": 1915838837,
@@ -141,11 +106,6 @@
     {
       "Id": 2050056565,
       "Value": 700
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_427"
     },
     {
       "Id": 1919969397,
@@ -168,11 +128,7 @@
     {
       "Id": 1664180597,
       "Type": 2,
-      "Value": 0.23
-    },
-    {
-      "Id": 1735156597,
-      "Value": 180
+      "Value": 0.24
     },
     {
       "Id": 1999724917,
@@ -180,32 +136,8 @@
       "Value": "missile"
     },
     {
-      "Id": 2020633717,
-      "Type": 2,
-      "Value": 19
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 56
-    },
-    {
       "Id": 1768910965,
       "Value": 220000
-    },
-    {
-      "Id": 1651270517,
-      "Value": 180
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 56
     },
     {
       "Id": 1818326901,

@@ -6,24 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1762"
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "undead"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_892"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3492"
     },
     {
       "Id": 1768055157,
@@ -32,7 +17,7 @@
     },
     {
       "Id": 1937141109,
-      "Value": 275
+      "Value": 260
     },
     {
       "Id": 1920363893,
@@ -48,11 +33,6 @@
       "Id": 1769300597,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Infernal"
     },
     {
       "Id": 1852404597,
@@ -76,15 +56,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1887007861,
@@ -114,19 +94,9 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNVulture.blp"
-    },
-    {
       "Id": 1836344437,
       "Type": 2,
       "Value": 6
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\summoner.mdl"
     },
     {
       "Id": 829449333,
@@ -137,11 +107,6 @@
       "Id": 829645429,
       "Type": 2,
       "Value": 0.2
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Human\\Polymorph\\PolyMorphDoneGround.mdl"
     },
     {
       "Id": 1915838837,
@@ -157,11 +122,6 @@
       "Value": 2000
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_1809"
-    },
-    {
       "Id": 1919970677,
       "Type": 2,
       "Value": 0.5
@@ -170,16 +130,6 @@
       "Id": 1999724917,
       "Type": 3,
       "Value": "instant"
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 130
     },
     {
       "Id": 1768910965,
@@ -206,11 +156,6 @@
       "Value": 0
     },
     {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 1.4
-    },
-    {
       "Id": 1836084597,
       "Value": 100
     },
@@ -231,21 +176,6 @@
       "Id": 846226549,
       "Type": 2,
       "Value": 0.46
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
     },
     {
       "Id": 1852137845,

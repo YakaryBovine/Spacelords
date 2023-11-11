@@ -6,35 +6,8 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1491"
-    },
-    {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_1006"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_1105"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_1494"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1495"
     },
     {
       "Level": 1,
@@ -64,11 +37,6 @@
       "Id": 1920296033,
       "Type": 2,
       "Value": 65536
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedReinforcedHides.blp"
     },
     {
       "Level": 1,

@@ -1,0 +1,58 @@
+{
+  "OldId": 1651787841,
+  "NewId": 892612673,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Petrify"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "D"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[D] Petrify"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The alien\u0027s cold stare can quickly cause a chain reaction in matter that can turn units in stone. The unit will remain frozen and invulnerable until it is rescued by another human."
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\NightElf\\Taunt\\TauntCaster.mdl"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNTaunt.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    },
+    {
+      "Id": 2019718497,
+      "Value": 2
+    },
+    {
+      "Id": 2036495713,
+      "Value": 2
+    },
+    {
+      "Id": 1768841569,
+      "Type": 3,
+      "Value": "spell,throw,attack"
+    }
+  ]
+}

@@ -6,31 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_618"
-    },
-    {
       "Id": 1667330657,
       "Type": 3,
       "Value": "orc"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_1863"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2874"
     },
     {
       "Level": 1,
@@ -39,28 +17,10 @@
       "Value": "_"
     },
     {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMarine.blp"
-    },
-    {
       "Level": 1,
       "Id": 1718968929,
       "Type": 3,
       "Value": "B00N"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
-    },
-    {
-      "Id": 2037408353,
-      "Value": 1
     },
     {
       "Level": 1,

@@ -4,16 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_3146"
-    },
-    {
-      "Id": 1952543846,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl"
-    }
-  ]
+  "Modifications": []
 }

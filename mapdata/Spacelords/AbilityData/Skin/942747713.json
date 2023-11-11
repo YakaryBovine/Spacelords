@@ -1,0 +1,30 @@
+{
+  "OldId": 1650871873,
+  "NewId": 942747713,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "GIT"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Genetic Integrity Test"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Orc\\Orcblood\\BattrollBlood.mdl"
+    }
+  ]
+}

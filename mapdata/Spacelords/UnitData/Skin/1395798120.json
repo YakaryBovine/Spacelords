@@ -1,0 +1,34 @@
+{
+  "OldId": 1953787240,
+  "NewId": 1395798120,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Albadar"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "HAXX0R! "
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\Halcyon2.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 5
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 2.5
+    }
+  ]
+}

@@ -6,28 +6,8 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3422"
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\IllidanMissile\\IllidanMissile.mdl"
-    },
-    {
       "Id": 1886612833,
       "Value": 1800
-    },
-    {
-      "Id": 1952543585,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,

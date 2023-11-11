@@ -1,0 +1,52 @@
+{
+  "OldId": 1818588275,
+  "NewId": 808464457,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Electric Suit"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\Fill-Me-Up Treasure Chest.mdl"
+    },
+    {
+      "Id": 2020631157,
+      "Value": 0
+    },
+    {
+      "Id": 2037408373,
+      "Value": 0
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Suit."
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.7
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "Electric Suit"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Suit|n|cff80FF00Charges:|r N/A|n|cff80FF00Cooldown:|r N/A |n|cff80FF00Description:|r The electric suit is a basic suit with an attack especially suited to taking down high HP units."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNChainLightning.blp"
+    }
+  ]
+}

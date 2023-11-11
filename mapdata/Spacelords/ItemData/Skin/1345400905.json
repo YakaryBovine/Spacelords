@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1345400905,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Burst Grenade"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Burst Grenade"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Burst Grenade|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Target Point|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r 1s|n|cff80FF00Description:|r More of an amusing joke than a cost effective weapon, this rather hefty grenade splits into several smaller grenades upon use."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNCriticalStrike.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\AcidBomb\\BottleMissile.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.4
+    }
+  ]
+}

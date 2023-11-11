@@ -6,33 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_821"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
     },
     {
       "Id": 1986358369,
       "Value": 1
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_812"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_747"
     },
     {
       "Level": 1,
@@ -64,11 +43,6 @@
       "Id": 1852072801,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1952540001,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\NightElf\\Blink\\BlinkCaster.mdl"
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "OldId": 1919046732,
+  "NewId": 909127746,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101794,
+      "Type": 3,
+      "Value": "PrettyTree2"
+    },
+    {
+      "Id": 1836083042,
+      "Type": 3,
+      "Value": "Doodads\\Terrain\\LordaeronTree\\LordaeronTree.mdl"
+    },
+    {
+      "Id": 1769501794,
+      "Value": 31
+    },
+    {
+      "Id": 1719170146,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\LordaeronTree\\LordaeronSummerTree"
+    },
+    {
+      "Id": 1818846818,
+      "Type": 3,
+      "Value": "war3mapImported\\Gtree.mdl"
+    },
+    {
+      "Id": 1935764834,
+      "Type": 2,
+      "Value": 3
+    },
+    {
+      "Id": 1936289122,
+      "Type": 2,
+      "Value": 2
+    },
+    {
+      "Id": 1853056098,
+      "Type": 3,
+      "Value": "TreeWallDeath"
+    }
+  ]
+}

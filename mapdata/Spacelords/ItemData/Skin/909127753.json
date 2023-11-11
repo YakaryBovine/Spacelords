@@ -1,0 +1,39 @@
+{
+  "OldId": 1685091184,
+  "NewId": 909127753,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Stimulant"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Stimulant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Stimulant"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Temporary Buff/No Target|n|cff80FF00Charges:|r 10|n|cff80FF00Cooldown:|r 10s|n|cff80FF00Description:|r Increases movement speed for 10 seconds."
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    }
+  ]
+}

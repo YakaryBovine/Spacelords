@@ -1,0 +1,44 @@
+{
+  "OldId": 2038064706,
+  "NewId": 892350530,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Sprint"
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBreathOfFire.blp"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Sprint"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "This unit is using locomotors to briefly assist movement."
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\FireBallMissile\\FireBallMissile.mdl,Abilities\\Weapons\\FireBallMissile\\FireBallMissile.mdl"
+    },
+    {
+      "Id": 811693158,
+      "Type": 3,
+      "Value": "foot,left"
+    },
+    {
+      "Id": 828470374,
+      "Type": 3,
+      "Value": "foot,right"
+    }
+  ]
+}

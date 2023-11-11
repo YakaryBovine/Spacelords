@@ -1,0 +1,15 @@
+{
+  "OldId": 1701668946,
+  "NewId": 825241682,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": 1835101799,
+      "Type": 3,
+      "Value": "PU_Movespeed"
+    }
+  ]
+}

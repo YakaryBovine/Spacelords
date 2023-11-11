@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Light"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "Doodads\\Cityscape\\Props\\MagicRunes\\MagicRunes0.mdl"

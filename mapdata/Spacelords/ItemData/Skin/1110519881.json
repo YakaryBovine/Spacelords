@@ -1,0 +1,44 @@
+{
+  "OldId": 1953721448,
+  "NewId": 1110519881,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Dummy Item"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "No Inventory Slots Left"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "You have no inventory slots with which to buy things."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBox.blp"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": ":O!?"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "none.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.01
+    }
+  ]
+}

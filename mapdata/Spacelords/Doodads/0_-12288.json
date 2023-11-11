@@ -40,6 +40,7 @@
     "CreationNumber": 6099
   },
   {
+    "State": 2,
     "Life": 100,
     "TypeId": 2020758596,
     "Position": {
@@ -47,7 +48,7 @@
       "Y": -12608,
       "Z": -256
     },
-    "Rotation": 4.7123895,
+    "Rotation": 4.712389,
     "Scale": {
       "X": 1,
       "Y": 1,

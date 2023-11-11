@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2026"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
@@ -23,32 +18,6 @@
       "Id": 1717986657,
       "Type": 3,
       "Value": "X002"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4991"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4992"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2025"
     },
     {
       "Level": 1,
@@ -91,11 +60,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "B00M,BHbz"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_2030"
     },
     {
       "Level": 1,

@@ -1,0 +1,29 @@
+{
+  "OldId": 1668697666,
+  "NewId": 1496330306,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Fountain of Chaos"
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWandOfShadowSight.blp"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Fountain of Chaos"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "Fountain. OF CHAOS."
+    }
+  ]
+}

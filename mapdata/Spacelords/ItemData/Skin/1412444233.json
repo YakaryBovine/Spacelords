@@ -1,0 +1,44 @@
+{
+  "OldId": 1953721448,
+  "NewId": 1412444233,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Radar Sweep"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff8080FFRadar Sweep|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Advanced imaging technology allows for the detection of known large organic life forms."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNIcon_Radar.blp"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "o;"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\SaveItem.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.3
+    }
+  ]
+}

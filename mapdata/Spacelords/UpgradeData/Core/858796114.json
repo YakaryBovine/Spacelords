@@ -6,12 +6,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": 1835101799,
-      "Type": 3,
-      "Value": "PU_Damage"
-    },
-    {
       "Id": 828794215,
       "Type": 3,
       "Value": "rats"
@@ -19,12 +13,12 @@
     {
       "Id": 828465767,
       "Type": 2,
-      "Value": 0.15
+      "Value": 0.1
     },
     {
       "Id": 829386087,
       "Type": 2,
-      "Value": 0.15
+      "Value": 0.1
     },
     {
       "Id": 1819700327,

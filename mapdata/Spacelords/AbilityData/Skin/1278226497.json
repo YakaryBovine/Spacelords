@@ -1,0 +1,39 @@
+{
+  "OldId": 1919173441,
+  "NewId": 1278226497,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Matter Drain"
+    },
+    {
+      "Id": 1734962273,
+      "Type": 3,
+      "Value": "MFPB"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDrain.blp"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Matter Drain"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    }
+  ]
+}

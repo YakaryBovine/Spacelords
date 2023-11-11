@@ -6,12 +6,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": 1835101799,
-      "Type": 3,
-      "Value": "PU_Health"
-    },
-    {
       "Id": 828794215,
       "Type": 3,
       "Value": "rhpx"

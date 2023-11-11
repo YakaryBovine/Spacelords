@@ -1,0 +1,19 @@
+{
+  "OldId": 1769164353,
+  "NewId": 959721537,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "EMP Grenade Silence"
+    },
+    {
+      "Id": 1952540001,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\ReplenishMana\\ReplenishManaCasterOverhead.mdl"
+    }
+  ]
+}

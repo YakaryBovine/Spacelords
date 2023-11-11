@@ -1,0 +1,19 @@
+{
+  "OldId": 1719169089,
+  "NewId": 1345400897,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Fleshy Hit"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\Stampede\\StampedeMissileDeath.mdl"
+    }
+  ]
+}

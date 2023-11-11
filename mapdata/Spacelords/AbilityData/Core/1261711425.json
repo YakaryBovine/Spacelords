@@ -6,21 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3141"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp"
-    },
-    {
-      "Id": 1918988897,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
       "Value": 40
@@ -61,7 +46,7 @@
       "Level": 1,
       "Id": 1935762273,
       "Type": 2,
-      "Value": 5
+      "Value": 2
     },
     {
       "Level": 1,
@@ -70,30 +55,8 @@
       "Value": 0
     },
     {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5069"
-    },
-    {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_1602"
-    },
-    {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5070"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_5154"
     },
     {
       "Level": 1,
@@ -112,10 +75,6 @@
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,allies,enemies,ground,neutral,structure"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 0
     }
   ]
 }

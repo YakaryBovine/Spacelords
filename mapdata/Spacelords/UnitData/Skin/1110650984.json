@@ -1,0 +1,72 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1110650984,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The alien loved fire. Specifically, he loved things that were on fire. After attending the renowned Alien School for Human Infestation, he graduated with a PhD in Explosionology. His graduate thesis, On the Exploding of Humans, was renowned as a breakthrough in the field of exploding humans. Now he has come to research and validate his hypothesis that humans exploding into gory bits is awesome."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "LavaSpawn"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeroAvatarOfFlame.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\HeroFlameLord\\HeroFlameLord.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\LordofFlameMissile\\LordofFlameMissile.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.5
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.8
+    },
+    {
+      "Id": 1735156597,
+      "Value": 126
+    },
+    {
+      "Id": 1919705973,
+      "Value": 126
+    }
+  ]
+}

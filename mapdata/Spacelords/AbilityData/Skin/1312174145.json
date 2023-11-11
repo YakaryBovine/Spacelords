@@ -1,0 +1,19 @@
+{
+  "OldId": 1769164353,
+  "NewId": 1312174145,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Rescuscitation"
+    },
+    {
+      "Id": 1952540001,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Human\\ReviveHuman\\ReviveHuman.mdl"
+    }
+  ]
+}

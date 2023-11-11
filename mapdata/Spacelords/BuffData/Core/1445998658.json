@@ -4,35 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_2608"
-    },
-    {
-      "Id": 1885959270,
-      "Type": 3,
-      "Value": "TRIGSTR_2609"
-    },
-    {
-      "Id": 1700951398,
-      "Type": 3,
-      "Value": "TRIGSTR_2610"
-    },
-    {
-      "Id": 1667331174,
-      "Value": 1
-    },
-    {
-      "Id": 811693158,
-      "Type": 3,
-      "Value": "origin"
-    },
-    {
-      "Id": 1952543846,
-      "Type": 3,
-      "Value": "war3mapImported\\PlanetaryShield.mdx"
-    }
-  ]
+  "Modifications": []
 }

@@ -1,0 +1,44 @@
+{
+  "OldId": 1650608449,
+  "NewId": 1261776961,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "\u0027Spawn Egg"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNPhoenixEgg.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    },
+    {
+      "Id": 2037408353,
+      "Value": 1
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "W"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[W] Spawn Egg"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Spawns a small egg that will create EP over time for you. But be wary: If it is destroyed, you will lose EP and be briefly paralyzed, as well as damaged if you are in alien form. Maximum of three eggs."
+    }
+  ]
+}

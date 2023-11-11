@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1800"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
       "Value": 0
@@ -27,11 +22,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "B00I"
-    },
-    {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Other\\Silence\\SilenceAreaBirth.mdl"
     },
     {
       "Level": 1,

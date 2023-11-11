@@ -1,0 +1,39 @@
+{
+  "OldId": 1986818920,
+  "NewId": 1261514825,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Tetrabin"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": ":O!"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "Tetrabin"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "This rare and dangerous drug is best known for its ability to enhance the strength of the wearer. However, overuse can cause permanent side effects such as death, vision loss, dizziness, and permanent coma. This drug has no known effects on nonhumans.|n|cffFF0000WARNING: The U.S.I. Health and Safety Council advises you that all side-effects of Tetrabin are permanent and may disqualify you from competitive sports.|r"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Objects\\InventoryItems\\runicobject\\runicobject.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.6
+    }
+  ]
+}

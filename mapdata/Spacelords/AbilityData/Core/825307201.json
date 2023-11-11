@@ -6,30 +6,10 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_616"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 1717920841,
       "Value": 0
-    },
-    {
-      "Id": 811693153,
-      "Type": 3,
-      "Value": "hand,left"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_1978"
-    },
-    {
-      "Id": 828470369,
-      "Type": 3,
-      "Value": "hand,right"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1211117641,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Wrench"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Wrench"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Wrench|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Turns out, an engineer\u0027s wrench is mostly for show these days. But you can throw it at someone and it might hurt a bit."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNINV_Misc_Wrench_01.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\ScaledSpanner.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 2
+    }
+  ]
+}

@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3341"
-    },
-    {
       "Id": 1902473845,
       "Type": 3,
       "Value": ""
@@ -19,26 +14,6 @@
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "Units\\Creeps\\HeroTinkerRobot\\HeroTinkerRobot.mdl"
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNJunkGolem.blp"
-    },
-    {
-      "Id": 1819503989,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "ClockwerkGoblin"
     },
     {
       "Id": 1852404597,
@@ -75,11 +50,6 @@
       "Value": 900
     },
     {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "war3mapImported\\EMPBomb.mdl"
-    },
-    {
       "Id": 1647403381,
       "Value": 34
     },
@@ -87,26 +57,6 @@
       "Id": 1949393269,
       "Type": 3,
       "Value": "chaos"
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 1953458293,
-      "Type": 3,
-      "Value": "TRIGSTR_1746"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3342"
     },
     {
       "Id": 1717920885,
@@ -123,17 +73,12 @@
     },
     {
       "Id": 1768910965,
-      "Value": 220000
+      "Value": 100000
     },
     {
       "Id": 1887007861,
       "Type": 3,
-      "Value": "mechanical,tauren"
-    },
-    {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
+      "Value": "mechanical"
     },
     {
       "Id": 1918989429,
@@ -156,22 +101,12 @@
     {
       "Id": 1768055157,
       "Type": 3,
-      "Value": "A051,A05U"
+      "Value": ""
     },
     {
       "Id": 1919969397,
       "Type": 2,
       "Value": 6
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 2
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 2.4
     },
     {
       "Id": 1664180597,
@@ -191,31 +126,6 @@
       "Id": 829449333,
       "Type": 2,
       "Value": 0.33
-    },
-    {
-      "Id": 1768975733,
-      "Value": 100
-    },
-    {
-      "Id": 1836084597,
-      "Value": 100
-    },
-    {
-      "Id": 1919970677,
-      "Type": 2,
-      "Value": 0.5
-    },
-    {
-      "Id": 1650684789,
-      "Value": 0
-    },
-    {
-      "Id": 1633837685,
-      "Value": 4
-    },
-    {
-      "Id": 1768186485,
-      "Value": 4
     }
   ]
 }

@@ -6,22 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3642"
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_3643"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_512"
-    },
-    {
       "Level": 1,
       "Id": 1718968929,
       "Type": 3,
@@ -44,22 +28,7 @@
       "Pointer": 1,
       "Id": 829253957,
       "Type": 2,
-      "Value": 2
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3644"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNMagicImmunity.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
+      "Value": 1
     },
     {
       "Level": 1,

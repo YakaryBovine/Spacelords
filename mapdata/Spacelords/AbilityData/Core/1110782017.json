@@ -14,23 +14,6 @@
       "Value": 0
     },
     {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5043"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5044"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2800"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
       "Value": 25
@@ -40,16 +23,6 @@
       "Id": 1852072801,
       "Type": 2,
       "Value": 1
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "none.mdl"
-    },
-    {
-      "Id": 1952543585,
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": 1886612833,
@@ -63,15 +36,6 @@
       "Value": 99999
     },
     {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWebOff.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Pointer": 3,
       "Id": 863200085,
@@ -83,11 +47,6 @@
       "Id": 1851880033,
       "Type": 2,
       "Value": 120
-    },
-    {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2802"
     }
   ]
 }

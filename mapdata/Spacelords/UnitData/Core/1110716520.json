@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3284"
-    },
-    {
       "Id": 1634559605,
       "Value": 0
     },
@@ -33,33 +28,13 @@
       "Value": 3000
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "Screens.blp"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\tactic.mdl"
-    },
-    {
       "Id": 1885433973,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1935832437,
       "Type": 3,
       "Value": ""
     },
     {
       "Id": 1734632053,
       "Value": 0
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 6
     },
     {
       "Id": 1952542837,
@@ -77,29 +52,9 @@
       "Value": "fly"
     },
     {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_3353"
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3354"
-    },
-    {
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_3355"
     },
     {
       "Id": 1852404597,
@@ -110,11 +65,6 @@
       "Value": 0
     },
     {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
-    },
-    {
       "Id": 1918989429,
       "Type": 3,
       "Value": "structure,ward"
@@ -123,10 +73,6 @@
       "Id": 1634890869,
       "Type": 3,
       "Value": "e01W,e01X,e01Z,e022,e025,e026,e01V"
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

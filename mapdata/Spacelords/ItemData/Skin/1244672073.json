@@ -1,0 +1,44 @@
+{
+  "OldId": 1953721448,
+  "NewId": 1244672073,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Janitor\u0027s ID Card"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff8080FFJanitor\u0027s ID Card|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Allows access to certain closets on multiple stations."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNkeycard.blp"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    }
+  ]
+}

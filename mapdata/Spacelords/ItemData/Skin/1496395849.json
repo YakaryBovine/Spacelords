@@ -1,0 +1,39 @@
+{
+  "OldId": 1751871073,
+  "NewId": 1496395849,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Critical Care System (Damaged)"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cffffcc00Critical Care System|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Perishable|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r N/A|n|cff80FF00Description:|r This CCS device appears to be slightly damaged, somehow."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNArcaniteArmor.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Objects\\InventoryItems\\BattleStandard\\BattleStandard.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.6
+    }
+  ]
+}

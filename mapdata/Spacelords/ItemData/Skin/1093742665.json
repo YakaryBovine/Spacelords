@@ -1,0 +1,44 @@
+{
+  "OldId": 1953721448,
+  "NewId": 1093742665,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Test Results"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff8080FFTest Results|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Obtain the test results from the portable GIT Resolver."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSyringeStimpack.blp"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "o;"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\SaveItem.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.3
+    }
+  ]
+}

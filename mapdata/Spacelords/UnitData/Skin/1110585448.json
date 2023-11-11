@@ -1,0 +1,64 @@
+{
+  "OldId": 1920558952,
+  "NewId": 1110585448,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Pirate Vessel"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\undead\\UndeadAirBarge\\UndeadAirBarge.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 3
+    },
+    {
+      "Id": 2053927797,
+      "Type": 1,
+      "Value": 60
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\SkeletalMageMissile\\SkeletalMageMissile.mdl"
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 40
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Arrr."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUndeadAirBarge.blp"
+    }
+  ]
+}

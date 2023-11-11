@@ -6,34 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1158"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4924"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4925"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_1161"
     },
     {
       "Level": 1,
@@ -43,24 +21,10 @@
       "Value": 1
     },
     {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Undead\\DarkRitual\\DarkRitualCaster.mdl"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRedDragonDevour.blp"
-    },
-    {
       "Level": 1,
       "Id": 1851880033,
       "Type": 2,
       "Value": 160
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
     },
     {
       "Level": 1,

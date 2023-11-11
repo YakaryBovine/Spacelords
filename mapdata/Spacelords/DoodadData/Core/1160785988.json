@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Large Pulse"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "Abilities\\Spells\\Human\\Brilliance\\Brilliance.mdl"

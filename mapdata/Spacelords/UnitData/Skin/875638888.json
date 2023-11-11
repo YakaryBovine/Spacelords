@@ -1,0 +1,64 @@
+{
+  "OldId": 1970235496,
+  "NewId": 875638888,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Fusion Bomb Factory"
+    },
+    {
+      "Id": 1935832437,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanWatchTower.blp"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Marketplace"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\FusionBombFactory.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 5
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "Fusion bombs are fast-acting explosive devices utilizing a small amount of fusion to create a large explosion. Factory settings and non-overridable limits built into the schematics prevent the creation of fusion bombs large enough to wipe out small cities or stations for a small price each. Such bombs are orderable with special permits and clearly defined uses."
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 4
+    },
+    {
+      "Id": 1701601909,
+      "Type": 1,
+      "Value": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OldId": 828655937,
+  "NewId": 925904961,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Assault Rifle Attachment"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "war3mapImported\\MWP_AssaultRifleAttachment.mdx"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "weapon"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 1
+    }
+  ]
+}

@@ -6,34 +6,10 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1712"
-    },
-    {
       "Level": 1,
       "Pointer": 1,
       "Id": 1717920841,
       "Value": 0
-    },
-    {
-      "Id": 1952543841,
-      "Type": 3,
-      "Value": "war3mapImported\\PirateHat.MDX"
-    },
-    {
-      "Id": 811693153,
-      "Type": 3,
-      "Value": "head"
-    },
-    {
-      "Id": 1667331169,
-      "Value": 1
-    },
-    {
-      "Id": 1718840929,
-      "Type": 3,
-      "Value": "TRIGSTR_2110"
     }
   ]
 }

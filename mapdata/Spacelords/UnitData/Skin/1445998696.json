@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1445998696,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Infection|n|cff800080Type:|r Spawnny |n|cff800080Abilities:|r Infection|n|cff800080Description:|r The infection mutant, while less powerful than the perfection mutant, has the ability to infect other humans- thus turning them into spawns. |n|cff800080Evolves into:|r Human Development, Sustained Development"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Zombie"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNZombie.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\creeps\\Zombie\\Zombie.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\HydraliskImpact\\HydraliskImpact.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.3
+    },
+    {
+      "Id": 1735156597,
+      "Value": 225
+    },
+    {
+      "Id": 1651270517,
+      "Value": 225
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1295069257,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Motion Sensor"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Motion Sensor"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Motion Sensor|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Construction/Target Point|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r 10s |n|cff80FF00Description:|r Deploys a small monitoring device that will alert you whenever a unit passes."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUsedSoulGem.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\human\\HumanTower\\HumanTower.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.3
+    }
+  ]
+}

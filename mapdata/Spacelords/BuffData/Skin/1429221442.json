@@ -1,0 +1,34 @@
+{
+  "OldId": 1969313090,
+  "NewId": 1429221442,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "Kyo Cannon"
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNTrueShot.blp"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Kyo Cannon"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "This unit is being hit by the Kyo Cannon."
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\DeathandDecay\\DeathandDecayDamage.mdl"
+    }
+  ]
+}

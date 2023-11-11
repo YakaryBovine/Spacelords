@@ -1,0 +1,74 @@
+{
+  "OldId": 1920558952,
+  "NewId": 1479553128,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "U.S.I. Swagger"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\RepublicAssaultShip.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 9
+    },
+    {
+      "Id": 2053927797,
+      "Type": 1,
+      "Value": 60
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\PhoenixMissile\\Phoenix_Missile.mdl"
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 40
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The U.S.I. Swagger is a relatively obsolete battleship design left over from the war against the Second Coalition. Surviving models have been relegated to patrolling sectors, and are typically used as retirement ships for captains."
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.75
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    }
+  ]
+}

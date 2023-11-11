@@ -4,16 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3100"
-    },
-    {
-      "Id": 1936090465,
-      "Type": 3,
-      "Value": "PowerupSound"
-    }
-  ]
+  "Modifications": []
 }

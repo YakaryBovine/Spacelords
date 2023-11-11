@@ -1,0 +1,52 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1395732553,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "ASAD Module"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "ASAD Module"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080ASAD Module|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Give to station console|n|cff80FF00Description:|r The ASAD, when installed in the Arbitress\u0027s scanning structure, allows for a periodic ping of all player\u0027s positions.|n|cff008080This item cannot be cloned.|r"
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWispSplode.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1651270505,
+      "Value": 125
+    },
+    {
+      "Id": 1919705961,
+      "Value": 125
+    }
+  ]
+}

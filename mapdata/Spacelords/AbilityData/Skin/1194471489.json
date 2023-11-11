@@ -1,0 +1,41 @@
+{
+  "OldId": 1685475137,
+  "NewId": 1194471489,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Absorption Banks"
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "X"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[X] Absorption Banks"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Turns all units that are extremely close to the Guard Suit invulnerable for an indefinite length of time. However, the guard suit is immobile while the absorption banks are active."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedReinforcedHides.blp"
+    }
+  ]
+}

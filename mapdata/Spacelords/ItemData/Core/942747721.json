@@ -6,21 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_2336"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_1747"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_2338"
-    },
-    {
       "Id": 1768055145,
       "Type": 3,
       "Value": "AIpz"
@@ -42,32 +27,12 @@
       "Value": 3
     },
     {
-      "Id": 1868786025,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSheep.blp"
-    },
-    {
-      "Id": 1936024681,
-      "Type": 3,
-      "Value": "TRIGSTR_2562"
-    },
-    {
       "Id": 2002874473,
       "Value": 0
     },
     {
       "Id": 1818588009,
       "Value": 0
-    },
-    {
-      "Id": 1818846825,
-      "Type": 3,
-      "Value": "units\\critters\\Sheep\\Sheep.mdl"
-    },
-    {
-      "Id": 1633907561,
-      "Type": 1,
-      "Value": 0.5
     },
     {
       "Id": 1886677097,

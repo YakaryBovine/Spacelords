@@ -1,0 +1,52 @@
+{
+  "OldId": 1701341040,
+  "NewId": 1328623689,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Rapid Therapy Device"
+    },
+    {
+      "Id": 1953458293,
+      "Type": 3,
+      "Value": "E"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Rapid Therapy Device"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Perishable|n|cff80FF00Cooldown:|r 90s |n|cff80FF00Description:|r A complex fusion of robotics and biochemistry can resuscitate a human who has died in the last 45 seconds."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNPriestAdept.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1735156585,
+      "Value": 200
+    },
+    {
+      "Id": 1919705961,
+      "Value": 200
+    }
+  ]
+}

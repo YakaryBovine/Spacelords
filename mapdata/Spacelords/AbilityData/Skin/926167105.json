@@ -1,0 +1,19 @@
+{
+  "OldId": 2037412673,
+  "NewId": 926167105,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "ExplosionFXOnDeathElectro"
+    },
+    {
+      "Id": 1952540001,
+      "Type": 3,
+      "Value": "none.mdl"
+    }
+  ]
+}

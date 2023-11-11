@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 925970505,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Electromagnetic Grenade"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Electromagnetic Grenade"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Electromagnetic Grenade|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Target Point|n|cff80FF00Charges:|r 3|n|cff80FF00Cooldown:|r 1s|n|cff80FF00Description:|r A pack of grenades that can be lobbed at a target point. When they explode, they will drain mana and briefly prevent hit units from casting abilities."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNAbsorbMagic.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\AbsorbMana\\AbsorbManaBirthMissile.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.4
+    }
+  ]
+}

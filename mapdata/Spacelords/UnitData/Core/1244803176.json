@@ -6,37 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_2959"
-    },
-    {
       "Id": 1902473845,
       "Type": 3,
       "Value": ""
     },
     {
       "Id": 1919381621,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "Units\\Human\\Phoenix\\PhoenixEgg.mdl"
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNFireBolt.blp"
-    },
-    {
-      "Id": 1819503989,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1684960117,
       "Type": 3,
       "Value": ""
     },
@@ -80,11 +55,6 @@
       "Value": 900
     },
     {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "war3mapImported\\EMPBomb.mdl"
-    },
-    {
       "Id": 1664180597,
       "Type": 2,
       "Value": 4
@@ -97,26 +67,6 @@
       "Id": 1949393269,
       "Type": 3,
       "Value": "chaos"
-    },
-    {
-      "Id": 2053990773,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 1953458293,
-      "Type": 3,
-      "Value": "TRIGSTR_1468"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_2960"
     },
     {
       "Id": 1717920885,
@@ -155,17 +105,7 @@
       "Value": 0
     },
     {
-      "Id": 1969779573,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1836017781,
-      "Value": 1
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
       "Value": 1
     },
     {
@@ -179,33 +119,8 @@
       "Value": -100
     },
     {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
-    },
-    {
       "Id": 1869571701,
       "Value": 0
-    },
-    {
-      "Id": 1919705973,
-      "Value": 50
-    },
-    {
-      "Id": 1735156597,
-      "Value": 50
-    },
-    {
-      "Id": 1651270517,
-      "Value": 50
-    },
-    {
-      "Id": 1633837685,
-      "Value": 4
-    },
-    {
-      "Id": 1768186485,
-      "Value": 4
     }
   ]
 }

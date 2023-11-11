@@ -6,33 +6,18 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_2365"
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "orc"
     },
     {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_1297"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_2749"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
-      "Value": "A08Q,A070,A057,A056,A055,A046,AInv"
+      "Value": "A070,A057,A056,A055,A046,AInv"
     },
     {
       "Id": 1937141109,
-      "Value": 255
+      "Value": 235
     },
     {
       "Id": 1920363893,
@@ -42,17 +27,12 @@
     {
       "Id": 1919381621,
       "Type": 3,
-      "Value": "R00C,R00A,R008,R006,R001,R002,R003,R004,R005,R000"
+      "Value": "R00A,R008,R006,R001,R002,R003,R004,R005,R000"
     },
     {
       "Id": 1769300597,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Garithos"
     },
     {
       "Id": 1852404597,
@@ -76,15 +56,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1701602933,
@@ -109,16 +89,6 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMarine.blp"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\Konstrukt_AdvancedMarineFinal.mdl"
-    },
-    {
       "Id": 829449333,
       "Type": 2,
       "Value": 0.1
@@ -127,11 +97,6 @@
       "Id": 829645429,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "war3mapImported\\Banditmissile.mdl"
     },
     {
       "Id": 1915838837,
@@ -145,11 +110,6 @@
     {
       "Id": 2050056565,
       "Value": 1400
-    },
-    {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_2757"
     },
     {
       "Id": 1919969397,
@@ -173,21 +133,6 @@
       "Id": 1999724917,
       "Type": 3,
       "Value": "missile"
-    },
-    {
-      "Id": 2020633717,
-      "Type": 2,
-      "Value": 19
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 90
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 56
     },
     {
       "Id": 1768910965,
@@ -221,6 +166,10 @@
     {
       "Id": 1932616053,
       "Value": 1
+    },
+    {
+      "Id": 1680957813,
+      "Value": 2
     },
     {
       "Id": 1852137845,

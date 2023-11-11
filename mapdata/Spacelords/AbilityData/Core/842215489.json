@@ -6,29 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_1824"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_4969"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3991"
     },
     {
       "Level": 1,
@@ -52,16 +35,6 @@
       "Value": 0
     },
     {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": "war3mapImported\\ArcaneTeleportation3.mdx"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSkeletal Sorceror(Fix4).blp"
-    },
-    {
       "Level": 1,
       "Id": 1718968929,
       "Type": 3,
@@ -77,17 +50,13 @@
       "Level": 1,
       "Id": 1852072801,
       "Type": 2,
-      "Value": 120
+      "Value": 420
     },
     {
       "Level": 1,
       "Id": 1918989409,
       "Type": 3,
       "Value": "air,enemies,friend,ground,notself,player"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 2
     },
     {
       "Level": 1,
@@ -116,11 +85,6 @@
       "Id": 1902473825,
       "Type": 3,
       "Value": "e00J"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_4970"
     }
   ]
 }

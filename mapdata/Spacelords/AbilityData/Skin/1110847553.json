@@ -1,0 +1,20 @@
+{
+  "OldId": 1768967745,
+  "NewId": 1110847553,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Planet Radiation"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Slimy Radiation"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1261514856,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Complete Infection|n|cff800080Type:|r There\u0027s nowhere to run, puny humans!  |n|cff800080Abilities:|r Total Infection [Infects every human on the map.], Blast Shield [Protects the mutant from harm, briefly], Vector [Sends out a locust that gives a unit seizures when it hits.] |n|cff800080Description:|r If the humans are hiding out on the Kyo station while you\u0027re stuck on Niffy, using this mutant will allow you to infect them from where you are. This is useless if they have access to a medical vendor, so destroying those should be a top priority. Additionally, this mutant is excellent at direct confrontation, with high health and damage."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Kobold"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNKoboldGeomancer.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\creeps\\Kobold\\Kobold.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanBlood\\BloodElfSpellThiefBlood.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 2
+    },
+    {
+      "Id": 1735156597,
+      "Value": 100
+    },
+    {
+      "Id": 1919705973,
+      "Value": 100
+    }
+  ]
+}

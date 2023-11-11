@@ -1,0 +1,54 @@
+{
+  "OldId": 1650544193,
+  "NewId": 875900993,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Solace Shield"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShield.blp"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\ColdArrow\\ColdArrowMissile.mdl"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Solace Sh|cffffcc00i|reld"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Imbues target unit with a powerful shield that will absorb up to 100 hp before dissipating. Shield will fade after 30 seconds, and will fail to protect a unit if it takes more damage than its maximum HP."
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "I"
+    },
+    {
+      "Id": 1667329377,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    },
+    {
+      "Id": 2037408353,
+      "Value": 0
+    }
+  ]
+}

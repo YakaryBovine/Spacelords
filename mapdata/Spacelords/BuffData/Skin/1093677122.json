@@ -1,0 +1,63 @@
+{
+  "OldId": 1802723906,
+  "NewId": 1093677122,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "DontBlink"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "Don\u0027t Blink"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "SPEEEEEED."
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\PhoenixMissile\\Phoenix_Missile_mini.mdl"
+    },
+    {
+      "Id": 1667331174,
+      "Value": 5
+    },
+    {
+      "Id": 811693158,
+      "Type": 3,
+      "Value": "hand,left"
+    },
+    {
+      "Id": 828470374,
+      "Type": 3,
+      "Value": "hand,right"
+    },
+    {
+      "Id": 845247590,
+      "Type": 3,
+      "Value": "chest"
+    },
+    {
+      "Id": 862024806,
+      "Type": 3,
+      "Value": "foot,left"
+    },
+    {
+      "Id": 878802022,
+      "Type": 3,
+      "Value": "foot,right"
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBearBlink.blp"
+    }
+  ]
+}

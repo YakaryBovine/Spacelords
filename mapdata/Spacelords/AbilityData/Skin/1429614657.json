@@ -1,0 +1,45 @@
+{
+  "OldId": 1936485697,
+  "NewId": 1429614657,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Antimatter Teleportation Matrix"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Discharge |cff00FF00Antimatter Teleportation Matrix|r"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Initializes and fires the antimatter teleportation matrix. After 45 seconds of charge, target station will be instantly destroyed."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDisenchant.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    },
+    {
+      "Id": 1734962273,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

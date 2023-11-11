@@ -1,0 +1,38 @@
+{
+  "OldId": 828655937,
+  "NewId": 1379151937,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Radiation Attachment"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "war3mapImported\\AuraNuke.mdx"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "origin"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 1
+    },
+    {
+      "Id": 828470369,
+      "Type": 3,
+      "Value": "foot,left"
+    },
+    {
+      "Id": 845247585,
+      "Type": 3,
+      "Value": "foot,right"
+    }
+  ]
+}

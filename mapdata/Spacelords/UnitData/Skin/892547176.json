@@ -1,0 +1,54 @@
+{
+  "OldId": 1634037864,
+  "NewId": 892547176,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Energy Alien|n|cff800080Type:|r Energy-dependent Alien |n|cff800080Abilities:|r Energy Deflection [Uses energy to absorb damage at a 4x rate], Entropy [Permanently causes an area to sap the energy of foes and slow them]|n|cff800080Description:|r The energy alien is a powerful T2 alien form that can use her energy to beleaguer her foes and ignore their attacks. Without energy, she is not substantially more powerful than T1.|n|cff800080Evolves into:|r Combustion, Electricity, and Illusion aliens"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Banshee"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBanshee.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\undead\\Banshee\\Banshee.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\BansheeMissile\\BansheeMissile.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    }
+  ]
+}

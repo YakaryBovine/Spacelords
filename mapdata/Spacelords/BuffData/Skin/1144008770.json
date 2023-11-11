@@ -1,0 +1,24 @@
+{
+  "OldId": 1768967746,
+  "NewId": 1144008770,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "SlimeTrail"
+    },
+    {
+      "Id": 1952543590,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\PoisonSting\\PoisonStingTarget.mdl"
+    },
+    {
+      "Id": 1953526630,
+      "Type": 3,
+      "Value": "origin"
+    }
+  ]
+}

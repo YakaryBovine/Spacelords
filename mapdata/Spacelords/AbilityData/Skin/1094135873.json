@@ -1,0 +1,46 @@
+{
+  "OldId": 1935889729,
+  "NewId": 1094135873,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Construct Cordoning Beacon"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "This beacon, when a partner is constructed for it, projects the equivalent of interstellar red tape. Explorer vessels that try to pass through it will be repelled due to automatic autopilot software. Due to the ace\u0027s paranoia over government control and his extensive modifications of his ship, the Albadar is not affected by this.|n|cff00FFFFThis costs 40 metal (represented by this ship\u0027s mana).|r"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "none.mdl"
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnsummonBuilding.blp"
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Construct Cordoning Beacon"
+    }
+  ]
+}

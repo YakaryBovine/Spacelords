@@ -1,0 +1,69 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1345532008,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Regeneration Alien|n|cff800080Type:|r The GOD WHY WONT IT DIE sort of thing |n|cff800080Abilities:|r Regeneration [When killed, the alien transforms into its core-thing, allowing it to escape. After two minutes, the alien will regenerate from its core form to its fighting form.] Swarmbolt [Damages units and the target, may affect allies if not careful.]|n|cff800080Description:|r  The regeneration alien has a slightly low movespeed, an okay attack, hideous regeneration, and the ability to save itself from death. Charge the enemy recklessly and try not to get stuck somewhere where you\u0027ll get trapped."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "HippoGryph"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWyvernRider.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\invidAtkScout-final.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 3
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    }
+  ]
+}

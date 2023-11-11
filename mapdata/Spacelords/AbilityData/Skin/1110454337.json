@@ -1,0 +1,14 @@
+{
+  "OldId": 845695297,
+  "NewId": 1110454337,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Human\\Resurrect\\ResurrectTarget.mdl"
+    }
+  ]
+}

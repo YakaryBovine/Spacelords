@@ -1,0 +1,64 @@
+{
+  "OldId": 1634037864,
+  "NewId": 959656040,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022Dear humans,\u0022 the alien did say with no hint of malice. \u0022Let us hold hands and unite against greater enemies like climate change or wasteful spending!\u0022|nAnd so the humans formed a large circle and invited the alien in. And lo, when the alien did touch hands with a human the human experienced static shock! The alien\u0027s evil plan of pranking the humans was a huge success!|nLater on, they all had marshmallows and smores together. Burning humans supplied the fire."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "DragonSpawn"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNGreenDragonSpawn.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\DragonSpawnGreen\\DragonSpawnGreen.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.6
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.8
+    }
+  ]
+}

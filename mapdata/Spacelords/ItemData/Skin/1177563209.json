@@ -1,0 +1,52 @@
+{
+  "OldId": 1685091170,
+  "NewId": 1177563209,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1953458293,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "|cff008040Augmented Leggings|r"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff008040Augmented Leggings|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Passive Bonus|n|cff80FF00Charges:|r N/A|n|cff80FF00Cooldown:|r N/A |n|cff80FF00Description:|r The augmented leggings provides a 25 movement speed bonus."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBoots.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1735156585,
+      "Value": 200
+    },
+    {
+      "Id": 1651270505,
+      "Value": 200
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    }
+  ]
+}

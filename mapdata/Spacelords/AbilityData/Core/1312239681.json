@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3673"
-    },
-    {
       "Level": 1,
       "Id": 1935895905,
       "Value": 0
@@ -20,11 +15,6 @@
       "Id": 1718968929,
       "Type": 3,
       "Value": "Bfro"
-    },
-    {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,
@@ -47,16 +37,16 @@
     },
     {
       "Level": 1,
-      "Id": 1918989409,
-      "Type": 3,
-      "Value": "air,allies,enemies,friend,ground"
-    },
-    {
-      "Level": 1,
       "Pointer": 1,
       "Id": 829385811,
       "Type": 2,
-      "Value": 0.4
+      "Value": 0.45
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,allies,enemies,friend,ground"
     }
   ]
 }

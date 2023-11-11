@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2919"
-    },
-    {
       "Level": 1,
       "Id": 829186633,
       "Type": 3,
@@ -19,11 +14,6 @@
     {
       "Id": 1702127969,
       "Value": 0
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPhoenixEgg.blp"
     },
     {
       "Level": 1,
@@ -36,31 +26,6 @@
       "Id": 1852072801,
       "Type": 2,
       "Value": 10
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
-    },
-    {
-      "Id": 2037408353,
-      "Value": 1
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5059"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5060"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2922"
     }
   ]
 }

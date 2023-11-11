@@ -1,0 +1,14 @@
+{
+  "OldId": 846022977,
+  "NewId": 1110519873,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl"
+    }
+  ]
+}

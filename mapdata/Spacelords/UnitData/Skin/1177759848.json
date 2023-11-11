@@ -1,0 +1,67 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1177759848,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The alien wasn\u0027t feeling in a particularly clever or strategic mood. The alien was tired of the mind games, the hiding, and the alien wanted it over with.|nAnd so the alien made himself claws with which to skewer the humans, and he made himself poison to paralyze the humans.|nAnd the alien did stumble upon a group of humans and began to viciously attack them, at which point they cried, \u0022Oh good alien, sir, why are you so forthright and nondeceptive with your killing! Cannot you tax our minds in the least?\u0022|nThe alien thought long and hard on this, and gave the humans a particularly nasty riddle. I believe it went like this:|n\u0022A man was on the Kyo, the Niffy, and the planet at the same time. How could this be?\u0022|nAfter they all failed to guess correctly, the alien showed them the answer by cutting the humans into little pieces."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Hydralisk"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNZergling.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Critters\\zergling\\zergling.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanBlood\\BloodElfSpellThiefBlood.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.3
+    },
+    {
+      "Id": 1651270517,
+      "Value": 120
+    },
+    {
+      "Id": 1735156597,
+      "Value": 240
+    }
+  ]
+}

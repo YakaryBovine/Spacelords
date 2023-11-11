@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Mini-ship model2"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "war3mapImported\\RepublicAssaultShip.mdl"

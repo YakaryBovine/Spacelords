@@ -6,22 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_2818"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
       "Value": "Aneu,Apit"
     },
     {
       "Id": 1919381621,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1935832437,
       "Type": 3,
       "Value": ""
     },
@@ -33,21 +23,6 @@
     {
       "Id": 1836083317,
       "Value": 999999
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCarrionSwarm.blp"
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Marketplace"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "none.mdl"
     },
     {
       "Id": 2037671029,
@@ -64,19 +39,6 @@
       "Value": ""
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_2819"
-    },
-    {
-      "Id": 1919705973,
-      "Value": 100
-    },
-    {
-      "Id": 1651270517,
-      "Value": 100
-    },
-    {
       "Id": 1836017781,
       "Value": 1
     },
@@ -86,23 +48,8 @@
       "Value": "structure,ward"
     },
     {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
-    },
-    {
       "Id": 1634559605,
       "Value": 0
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": 1919969397,
@@ -118,20 +65,6 @@
       "Id": 1952542837,
       "Type": 3,
       "Value": "PathTextures\\16x16Simple.tga"
-    },
-    {
-      "Id": 1634759541,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1651012469,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

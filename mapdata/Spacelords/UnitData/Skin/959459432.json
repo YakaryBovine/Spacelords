@@ -1,0 +1,73 @@
+{
+  "OldId": 1920558952,
+  "NewId": 959459432,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "|cff800080U.S.I. Queen Niffy|r"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\TerranCommandCenter.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 12
+    },
+    {
+      "Id": 2053927797,
+      "Type": 1,
+      "Value": 60
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The Queen Niffy is a large general-purpose research station commisioned by the U.S.I. in honor of the 22nd century leader, philosopher, poet, and quantum mechanist Queen Niffy Niffums III."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "war3mapImported\\CustomTinker.mdl"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.8
+    },
+    {
+      "Id": 828468597,
+      "Type": 2,
+      "Value": 0.5
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 300
+    },
+    {
+      "Id": 1650684789,
+      "Value": 0
+    }
+  ]
+}

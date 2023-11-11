@@ -6,39 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2670"
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5038"
-    },
-    {
-      "Id": 1802007137,
-      "Type": 3,
-      "Value": "TRIGSTR_676"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5039"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2672"
     },
     {
       "Level": 1,
@@ -58,15 +31,6 @@
       "Id": 829645646,
       "Type": 2,
       "Value": 35
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "war3mapImported\\CustomTinker.mdx"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 0
     },
     {
       "Level": 1,

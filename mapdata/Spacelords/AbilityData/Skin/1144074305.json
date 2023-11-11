@@ -1,0 +1,24 @@
+{
+  "OldId": 2037599809,
+  "NewId": 1144074305,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Grenade"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1768841569,
+      "Type": 3,
+      "Value": "spell,Throw"
+    }
+  ]
+}

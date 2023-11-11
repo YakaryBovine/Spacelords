@@ -1,0 +1,38 @@
+{
+  "OldId": 828655937,
+  "NewId": 1362440257,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "war3mapImported\\Sparks.mdx,Abilities\\Spells\\Items\\AIlb\\AIlbTarget.mdl,Abilities\\Spells\\Items\\AIlb\\AIlbTarget.mdl"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "origin"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 1
+    },
+    {
+      "Id": 828470369,
+      "Type": 3,
+      "Value": "foot,right"
+    },
+    {
+      "Id": 845247585,
+      "Type": 3,
+      "Value": "foot,left"
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Electric Attachment"
+    }
+  ]
+}

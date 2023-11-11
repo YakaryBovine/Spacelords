@@ -6,44 +6,9 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_4675"
-    },
-    {
-      "Id": 1936024681,
-      "Type": 3,
-      "Value": "TRIGSTR_2043"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_4743"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_4275"
-    },
-    {
       "Id": 1684628329,
       "Type": 3,
       "Value": "Arpl"
-    },
-    {
-      "Id": 1868786025,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOrbPain.blp"
-    },
-    {
-      "Id": 1818846825,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\NecromancerMissile\\NecromancerMissile.mdl"
-    },
-    {
-      "Id": 1633907561,
-      "Type": 1,
-      "Value": 0.5
     },
     {
       "Id": 1702065513,
@@ -60,7 +25,7 @@
     {
       "Id": 1768055145,
       "Type": 3,
-      "Value": "A01G,Adt1"
+      "Value": "A01G"
     },
     {
       "Id": 1886545001,

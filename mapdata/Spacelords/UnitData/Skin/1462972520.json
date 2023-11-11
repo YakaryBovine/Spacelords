@@ -1,0 +1,72 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1462972520,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "The alien liked to build webs. He thought of himself as quite the artist, you see, and he really rather enjoyed building intricate structures. Unfortunately, the humans were quite clumsy and tended to trip over the webs that the alien built. This wouldn\u0027t have been a problem in and of itself, but the humans seemed to think that the alien wasn\u0027t worthy of being invited to all of the coolest parties. So the alien hatched a plan involving murder, mystery, magic, adventure, intrigue, and romance to get his revenge. Later he decided that the plan was too complicated, and just impaled the humans with his superior insect claws."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "CryptFiend"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNnerubianSpiderLord.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\HeroNerubianWidow.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\Web\\Web_AirTarget.mdl"
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 100
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 130
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 4
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1735156597,
+      "Value": 230
+    },
+    {
+      "Id": 1651270517,
+      "Value": 230
+    }
+  ]
+}

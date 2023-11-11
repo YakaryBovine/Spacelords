@@ -10,30 +10,8 @@
       "Value": 0
     },
     {
-      "Id": 1952539489,
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": 1986358369,
       "Value": 1
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5082"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_3436"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_3437"
     },
     {
       "Level": 1,
@@ -57,20 +35,6 @@
       "Id": 1701994849,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedEnergyTower.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 3
-    },
-    {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_3438"
     },
     {
       "Level": 1,

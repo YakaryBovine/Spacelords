@@ -1,0 +1,44 @@
+{
+  "OldId": 1633829697,
+  "NewId": 1513435201,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Android"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "|cffFF0000Android|r"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "You are the experimental Android unit in the sector. It is important that you help eliminate the nonhuman threat; however you must be careful not to damage humans, lest you be deemed hazardous and deactivated.|n-When your EP reaches 2000, you can go to the Arbitress\u0027s metallic fabricator, stand on the elevator, and recieve an upgrade into a combat form.|n-If you reveal your identity to other humans and one of them is an alien or a mutant, you may become a prime target to be taken out.|n-If you die, comrades or enemies can resurrect you by taking your memory chip to the Arbitress. In doing so, they will gain a remote control with which they can shut you down."
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\PASBTNEngineeringUpgrade.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    },
+    {
+      "Id": 2037408353,
+      "Value": 1
+    }
+  ]
+}

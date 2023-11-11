@@ -6,21 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_1295"
-    },
-    {
-      "Id": 1885959285,
-      "Type": 3,
-      "Value": "TRIGSTR_415"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_1296"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
       "Value": "Aloc,A027,Atwa"
@@ -45,11 +30,6 @@
       "Value": ""
     },
     {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "SludgeMonster"
-    },
-    {
       "Id": 1852404597,
       "Value": 900
     },
@@ -71,15 +51,15 @@
     },
     {
       "Id": 1633837685,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1768186485,
-      "Value": 1
+      "Value": 0
     },
     {
       "Id": 1769169525,
-      "Value": 4
+      "Value": 0
     },
     {
       "Id": 1949393269,
@@ -104,19 +84,9 @@
       "Value": 0
     },
     {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNLocustSwarm.blp"
-    },
-    {
       "Id": 1836344437,
       "Type": 2,
       "Value": 6
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "units\\undead\\Locust\\Locust.mdl"
     },
     {
       "Id": 829449333,
@@ -127,11 +97,6 @@
       "Id": 829645429,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1831952757,
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\DruidoftheTalonMissile\\DruidoftheTalonMissile.mdl"
     },
     {
       "Id": 1915838837,
@@ -147,11 +112,6 @@
       "Value": 2000
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_424"
-    },
-    {
       "Id": 1919969397,
       "Type": 2,
       "Value": 0.75
@@ -165,21 +125,6 @@
       "Id": 1999724917,
       "Type": 3,
       "Value": "missile"
-    },
-    {
-      "Id": 2020633717,
-      "Type": 2,
-      "Value": 19
-    },
-    {
-      "Id": 2037410933,
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": 2054188149,
-      "Type": 2,
-      "Value": 56
     },
     {
       "Id": 1768910965,
@@ -211,19 +156,9 @@
       "Value": 0
     },
     {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 5
-    },
-    {
       "Id": 1667330677,
       "Type": 3,
       "Value": "other"
-    },
-    {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 2
     },
     {
       "Id": 1953918325,
@@ -242,10 +177,6 @@
     },
     {
       "Id": 1852137845,
-      "Value": 0
-    },
-    {
-      "Id": 1650684789,
       "Value": 0
     }
   ]

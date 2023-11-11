@@ -4,16 +4,5 @@
   "Unk": [
     0
   ],
-  "Modifications": [
-    {
-      "Id": 1835101798,
-      "Type": 3,
-      "Value": "TRIGSTR_2811"
-    },
-    {
-      "Id": 1718840934,
-      "Type": 3,
-      "Value": "TRIGSTR_2812"
-    }
-  ]
+  "Modifications": []
 }

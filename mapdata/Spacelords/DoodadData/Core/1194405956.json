@@ -6,11 +6,6 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101796,
-      "Type": 3,
-      "Value": "Blacksmith"
-    },
-    {
       "Id": 1818846820,
       "Type": 3,
       "Value": "buildings\\human\\Blacksmith\\Blacksmith.mdl"

@@ -1,0 +1,39 @@
+{
+  "OldId": 1634559856,
+  "NewId": 1362112585,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Energy Battery"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Perishable|n|cff80FF00Charges:|r 2|n|cff80FF00Cooldown:|r 25s |n|cff80FF00Description:|r Restores up to 100 mana."
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cffffcc00Energy Battery|r"
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNExpansion.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Objects\\InventoryItems\\ThunderLizardEgg\\ThunderLizardEgg.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    }
+  ]
+}

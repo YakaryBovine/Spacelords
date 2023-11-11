@@ -1,0 +1,54 @@
+{
+  "OldId": 1818644033,
+  "NewId": 1479815233,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Lifeform Scan"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[W] Lifeform Scan"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "W"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "Scans the target explorer or station for signs of life. Larger targets like stations will require longer to determine life form presence."
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": "Units\\NightElf\\Wisp\\WispExplode.mdl"
+    },
+    {
+      "Id": 1734962273,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNWandOfManaSteal.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    },
+    {
+      "Id": 2037408353,
+      "Value": 1
+    }
+  ]
+}

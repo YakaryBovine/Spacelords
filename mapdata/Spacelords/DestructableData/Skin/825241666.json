@@ -1,0 +1,49 @@
+{
+  "OldId": 895964228,
+  "NewId": 825241666,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101794,
+      "Type": 3,
+      "Value": "Security Door"
+    },
+    {
+      "Id": 1818846818,
+      "Type": 3,
+      "Value": "war3mapImported\\neX_Mech_Door_v114.mdl"
+    },
+    {
+      "Id": 1935764834,
+      "Type": 2,
+      "Value": 1.6
+    },
+    {
+      "Id": 1936289122,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 1684566882,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1920493154,
+      "Type": 2,
+      "Value": 180
+    },
+    {
+      "Id": 2020896866,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1685352546,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

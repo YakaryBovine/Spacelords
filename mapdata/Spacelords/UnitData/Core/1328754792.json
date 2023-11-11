@@ -6,39 +6,14 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_2477"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
       "Value": "Aloc,Amrf,Avul"
     },
     {
-      "Id": 1718840949,
-      "Type": 3,
-      "Value": "TRIGSTR_2478"
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_2335"
-    },
-    {
       "Id": 1919381621,
       "Type": 3,
       "Value": ""
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "war3mapImported\\SwaggerShadow.mdl"
-    },
-    {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 5
     },
     {
       "Id": 1752591733,
@@ -68,46 +43,14 @@
       "Value": 5
     },
     {
-      "Id": 1633907573,
-      "Type": 1,
-      "Value": 5
-    },
-    {
       "Id": 1953918325,
       "Type": 3,
       "Value": "fly"
     },
     {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1735156597,
-      "Value": 0
-    },
-    {
-      "Id": 1651270517,
-      "Value": 0
-    },
-    {
-      "Id": 1919705973,
-      "Value": 0
-    },
-    {
       "Id": 1819239285,
       "Type": 2,
       "Value": 0
-    },
-    {
-      "Id": 1969779573,
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": 1887007861,
@@ -118,14 +61,6 @@
       "Id": 1918989429,
       "Type": 3,
       "Value": "ground,ward"
-    },
-    {
-      "Id": 1633837685,
-      "Value": 4
-    },
-    {
-      "Id": 1768186485,
-      "Value": 4
     }
   ]
 }

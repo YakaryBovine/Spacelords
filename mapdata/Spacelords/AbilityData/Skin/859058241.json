@@ -1,0 +1,26 @@
+{
+  "OldId": 1869640513,
+  "NewId": 859058241,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Neurotoxic Poison"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "Neurotoxic Poison"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The dripping poison in the alien\u0027s fangs has a powerful hallucinogenic and paralytory effect on its targets. This will cause targets to slow down and disorient them."
+    }
+  ]
+}

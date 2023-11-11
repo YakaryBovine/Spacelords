@@ -6,34 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101793,
-      "Type": 3,
-      "Value": "TRIGSTR_2211"
-    },
-    {
       "Id": 1986358369,
       "Value": 1
     },
     {
       "Id": 1919248481,
       "Value": 0
-    },
-    {
-      "Id": 2037082209,
-      "Type": 3,
-      "Value": "TRIGSTR_5008"
-    },
-    {
-      "Level": 1,
-      "Id": 829453409,
-      "Type": 3,
-      "Value": "TRIGSTR_5009"
-    },
-    {
-      "Level": 1,
-      "Id": 828536161,
-      "Type": 3,
-      "Value": "TRIGSTR_2214"
     },
     {
       "Level": 1,
@@ -58,39 +36,12 @@
       "Level": 1,
       "Id": 1852072801,
       "Type": 2,
-      "Value": 19
+      "Value": 10
     },
     {
       "Level": 1,
       "Id": 1935895905,
-      "Value": 100
-    },
-    {
-      "Id": 1952542049,
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Other\\Transmute\\PileofGold.mdl"
-    },
-    {
-      "Id": 1953653089,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTransmute.blp"
-    },
-    {
-      "Id": 2020631137,
-      "Value": 1
-    },
-    {
-      "Id": 2019718497,
-      "Value": 1
-    },
-    {
-      "Id": 2036495713,
-      "Value": 2
-    },
-    {
-      "Id": 1768841569,
-      "Type": 3,
-      "Value": "spell,throw,attack"
+      "Value": 50
     },
     {
       "Level": 1,

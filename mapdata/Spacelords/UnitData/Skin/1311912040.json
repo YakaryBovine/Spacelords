@@ -1,0 +1,69 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1311912040,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022Gentlemen,\u0022 the alien did say upon encountering an oft excitable group of humans.|n\u0022Believe me, there are no \u0027aliens\u0027 amongst us. Let us not panic and returne to our normal endeavours.\u0022|nAnd so the humans took the wise aliens advice. Later the alien went on to create a catchy franchise based off of the event. Of course, first all of the humans died horrible deaths."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Hydralisk"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNHydralisk.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Critters\\Hydralisk\\Hydralisk.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\HydraliskImpact\\HydraliskImpact.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.2
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.8
+    }
+  ]
+}

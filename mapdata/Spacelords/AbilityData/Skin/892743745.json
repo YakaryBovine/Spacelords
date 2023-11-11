@@ -1,0 +1,40 @@
+{
+  "OldId": 2004307777,
+  "NewId": 892743745,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Rotary Dodge"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "[Z] Rotary Dodge"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "The android simultaneously spins rapidly and activates thrusters. This allows the android to hover in the air while evading damage, while moving slightly faster. Nearby units will suffer damage at takeoff and landing."
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNTornado.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    }
+  ]
+}

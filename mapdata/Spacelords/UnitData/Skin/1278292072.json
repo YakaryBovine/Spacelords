@@ -1,0 +1,69 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1278292072,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Rapid Gestation|n|cff800080Type:|r Totally rigged, man! |n|cff800080Abilities:|r Carrier [Silently infects a target human so that when it comes into range of any other human, that human is infected.], Blast Shield [Briefly protects mutant from harm.], Infection 3 |n|cff800080Description:|r The Rapid Gestation mutant gets individual spawns quickly, and has the most damaging infection in the game. "
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "PitLord"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNKiljaedin.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\demon\\Warlock\\Warlock.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\Stampede\\StampedeMissileDeath.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 2
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.25
+    }
+  ]
+}

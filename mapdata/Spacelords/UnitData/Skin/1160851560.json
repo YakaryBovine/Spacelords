@@ -1,0 +1,77 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1160851560,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Strength Mutant|n|cff800080Type:|r Smashy|n|cff800080Abilities:|r Fleshies [Summons many fleshies that wander about and hit units. Deadly at point blank!], Smash [After many moments of contemplating, the mutant devastatingly smashes something.]|n|cff800080Description:|r The strength mutant has high health and regen but low movespeed. What did you expect?|n|cff800080Evolves into:|r Flesh Golem "
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Abomination"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNAbomination.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\undead\\Abomination\\Abomination.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Human\\HumanLargeDeathExplode\\HumanLargeDeathExplode.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 3
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 1.5
+    },
+    {
+      "Id": 1735156597,
+      "Value": 100
+    },
+    {
+      "Id": 1651270517,
+      "Value": 150
+    }
+  ]
+}

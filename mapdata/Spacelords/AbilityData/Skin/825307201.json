@@ -1,0 +1,24 @@
+{
+  "OldId": 828655937,
+  "NewId": 825307201,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "Blank Ability"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "hand,left"
+    },
+    {
+      "Id": 828470369,
+      "Type": 3,
+      "Value": "hand,right"
+    }
+  ]
+}

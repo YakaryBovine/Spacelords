@@ -1,0 +1,44 @@
+{
+  "OldId": 1685091184,
+  "NewId": 1144074313,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Solace Shield"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Solace Shield"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Solace Shield"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Temporary Buff/Target|n|cff80FF00Charges:|r 1|n|cff80FF00Cooldown:|r 20s|n|cff80FF00Description:|r Creates an energy shield around the target which will absorb up to 300 damage. Dissipates after 15 seconds."
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShield.blp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1144205416,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Alien Spawn"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "\u0022Humans!\u0022 the alien said delightfully.|n\u0022I have come to feast and make merry with you.\u0022|nBut the humans considered themselves wise and did not fall for this obvious trap! Instead, they elected to savagely murder the alien.|nBut lo, the alien knew the humans thought they were wise but were in fact stupid! For the alien was an illusion!|nNevertheless, the alien had hurt feelings. When they saw the alien cry, the humans were shocked. |nAs in electrocuted, of course."
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "KelThuzadNecro"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNGhostOfKelThuzad.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\undead\\KelThuzadGhost\\KelThuzadGhost.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\AncestralGuardianMissile\\AncestralGuardianMissile.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.4
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1919705973,
+      "Value": 120
+    },
+    {
+      "Id": 1735156597,
+      "Value": 120
+    }
+  ]
+}

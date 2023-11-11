@@ -1,0 +1,61 @@
+{
+  "OldId": 1953787240,
+  "NewId": 1328754792,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Swagger"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "HAXX0R! "
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\SwaggerShadow.mdl"
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 5
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 5
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1735156597,
+      "Value": 0
+    },
+    {
+      "Id": 1651270517,
+      "Value": 0
+    },
+    {
+      "Id": 1919705973,
+      "Value": 0
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

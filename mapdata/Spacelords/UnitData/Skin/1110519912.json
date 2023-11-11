@@ -1,0 +1,72 @@
+{
+  "OldId": 1634037864,
+  "NewId": 1110519912,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Mutant"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": " "
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff800080Name:|r Mobility|n|cff800080Type:|r Roadrunner|n|cff800080Abilities:|r Don\u0027t Blink [The mutant moves at top speed for a second or two], Spatial Burst [Instantly appears next to target and damages them]|n|cff800080Description:|r The mobility mutant is freaking fast and perfect for hit and run or chasing down wayward humans.|n|cff800080Evolves into:|r Stalker, "
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "Ent"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNEnt.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "units\\nightelf\\Ent\\Ent.mdl"
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\HydraliskImpact\\HydraliskImpact.mdl"
+    },
+    {
+      "Id": 2020633717,
+      "Type": 2,
+      "Value": 19
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": 56
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.5
+    },
+    {
+      "Id": 1735156597,
+      "Value": 200
+    },
+    {
+      "Id": 1919705973,
+      "Value": 100
+    }
+  ]
+}

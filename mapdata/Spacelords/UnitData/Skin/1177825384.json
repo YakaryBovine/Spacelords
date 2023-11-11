@@ -1,0 +1,54 @@
+{
+  "OldId": 1970235496,
+  "NewId": 1177825384,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Console"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "Screens.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\tactic.mdl"
+    },
+    {
+      "Id": 1935832437,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 6
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "Console"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "All around me are familiar faces\r\nWorn out places, worn out faces\r\nBright and early for their daily races\r\nGoin\u0027 nowhere, goin\u0027 nowhere\r\nTheir tears are fillin\u0027 up their glasses\r\nNo expression, no expression\r\nHide my head I want to drown my sorrow\r\nNo tomorrow, no tomorrow\r\n\r\nAnd I find it kind of funny\r\nI find it kind of sad\r\nThe dreams in which I\u0027m dyin\u0027\r\nAre the best I\u0027ve ever had\r\nI find it hard to tell you\r\n\u0027Cause I find it hard to take\r\nWhen people run in circles\r\nIt\u0027s a very, very\r\nMad world, mad world\r\nMad world, mad world\r\n\r\nChildren waitin\u0027 for the day they feel good\r\nHappy birthday, happy birthday\r\nMade to feel the way that every child should\r\nSits and listen, sits and listen\r\nWent to school and I was very nervous\r\nNo one knew me, no one knew me\r\nHello teacher tell me what\u0027s my lesson?\r\nLook right through me, look right through me\r\n\r\nAnd I find it kind of funny\r\nI find it kind of sad\r\nThe dreams in which I\u0027m dyin\u0027\r\nAre the best I\u0027ve ever had\r\nI find it hard to tell you\r\n\u0027Cause I find it hard to ta"
+    },
+    {
+      "Id": 1634759541,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
+    }
+  ]
+}

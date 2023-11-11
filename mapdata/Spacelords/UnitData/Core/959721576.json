@@ -6,22 +6,12 @@
   ],
   "Modifications": [
     {
-      "Id": 1835101813,
-      "Type": 3,
-      "Value": "TRIGSTR_3313"
-    },
-    {
       "Id": 1768055157,
       "Type": 3,
-      "Value": "A07Q,Aneu,Apit"
+      "Value": "Aneu,Apit"
     },
     {
       "Id": 1919381621,
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": 1935832437,
       "Type": 3,
       "Value": ""
     },
@@ -33,21 +23,6 @@
     {
       "Id": 1836083317,
       "Value": 6000
-    },
-    {
-      "Id": 1868786037,
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanWatchTower.blp"
-    },
-    {
-      "Id": 1684960117,
-      "Type": 3,
-      "Value": "Marketplace"
-    },
-    {
-      "Id": 1818520949,
-      "Type": 3,
-      "Value": "buildings\\human\\Workshop\\Workshop.mdl"
     },
     {
       "Id": 2037671029,
@@ -73,33 +48,13 @@
       "Value": "PathTextures\\8x8SimpleSolid.tga"
     },
     {
-      "Id": 1668510581,
-      "Type": 1,
-      "Value": 4
-    },
-    {
       "Id": 1918989429,
       "Type": 3,
       "Value": "structure,ward"
     },
     {
-      "Id": 1886940533,
-      "Type": 1,
-      "Value": 0
-    },
-    {
-      "Id": 1920494965,
-      "Type": 1,
-      "Value": 0
-    },
-    {
       "Id": 1634559605,
       "Value": 0
-    },
-    {
-      "Id": 1651864693,
-      "Type": 3,
-      "Value": "TRIGSTR_3314"
     },
     {
       "Id": 1935827829,
@@ -107,21 +62,9 @@
       "Value": 0
     },
     {
-      "Id": 1651270517,
-      "Value": 100
-    },
-    {
-      "Id": 1735156597,
-      "Value": 100
-    },
-    {
       "Id": 1768256373,
       "Type": 3,
       "Value": "I01R,I01P,I01Q"
-    },
-    {
-      "Id": 1769169525,
-      "Value": 4
     }
   ]
 }

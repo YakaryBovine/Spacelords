@@ -1,0 +1,44 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1194340425,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "Executioner Pistol"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "Executioner\u0027s pistol!"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "|cff800080Executioner Pistol|r"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "|cff80FF00Item-Type:|r Permanent/Target Unit|n|cff80FF00Charges:|r N/A|n|cff80FF00Cooldown:|r 45s |n|cff80FF00Description:|r The common pistol used by commissars to execute dissidents. Briefly stuns target and deals 65 damage."
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNusp.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    }
+  ]
+}
