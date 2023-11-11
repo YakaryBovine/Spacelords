@@ -38,11 +38,6 @@ namespace MacroTools.DummyCasters
     private static unit InitializeDummyCasterUnit()
     {
       var dummyUnit = CreateUnit(Player(PLAYER_NEUTRAL_AGGRESSIVE), UnitTypeId, 0, 0, 0);
-      
-      UnitType.Register(new UnitType(FourCC("u00X"))
-      {
-        NeverDelete = true
-      });
       return dummyUnit;
     }
   }
