@@ -1,0 +1,77 @@
+{
+  "OldId": 1768967745,
+  "NewId": 892940353,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_4319"
+    },
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4320"
+    },
+    {
+      "Level": 1,
+      "Id": 1718968929,
+      "Type": 3,
+      "Value": "B01K"
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "allies,enemies,friend,ground,neutral,vulnerable"
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 280
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4321"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNCorrosiveBreath.blp"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    },
+    {
+      "Level": 1,
+      "Id": 1969514593,
+      "Type": 2,
+      "Value": 0.1
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 0.1
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 829253957,
+      "Type": 2,
+      "Value": 0.75
+    }
+  ]
+}

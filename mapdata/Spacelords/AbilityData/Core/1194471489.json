@@ -1,0 +1,86 @@
+{
+  "OldId": 1685475137,
+  "NewId": 1194471489,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_1491"
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "TRIGSTR_1006"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_1105"
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_1494"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_1495"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 70
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 150
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 45
+    },
+    {
+      "Level": 1,
+      "Id": 1969514593,
+      "Type": 2,
+      "Value": 65536
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 65536
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedReinforcedHides.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 1718968929,
+      "Type": 3,
+      "Value": "B00E,B00F"
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,enemies,friend,ground,invulnerable,vulnerable"
+    }
+  ]
+}

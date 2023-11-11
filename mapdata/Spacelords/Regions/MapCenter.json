@@ -1,0 +1,15 @@
+{
+  "Left": -160,
+  "Bottom": -192,
+  "Right": 288,
+  "Top": 256,
+  "Name": "MapCenter",
+  "CreationNumber": 126,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

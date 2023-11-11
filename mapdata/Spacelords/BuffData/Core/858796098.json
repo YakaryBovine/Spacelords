@@ -1,0 +1,34 @@
+{
+  "OldId": 1685287746,
+  "NewId": 858796098,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "TRIGSTR_357"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "TRIGSTR_358"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "TRIGSTR_359"
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Undead\\FrostArmor\\FrostArmorDamage.mdl"
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNFreezingBreath.blp"
+    }
+  ]
+}

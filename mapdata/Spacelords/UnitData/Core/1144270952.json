@@ -1,0 +1,202 @@
+{
+  "OldId": 1920558952,
+  "NewId": 1144270952,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_3460"
+    },
+    {
+      "Id": 1718840949,
+      "Type": 3,
+      "Value": "TRIGSTR_3441"
+    },
+    {
+      "Id": 1633772661,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1768055157,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1752591733,
+      "Type": 2,
+      "Value": 90
+    },
+    {
+      "Id": 1937141109,
+      "Value": 1
+    },
+    {
+      "Id": 1919381621,
+      "Type": 3,
+      "Value": "R009,R007"
+    },
+    {
+      "Id": 1836083317,
+      "Value": 20000
+    },
+    {
+      "Id": 1717920885,
+      "Value": 0
+    },
+    {
+      "Id": 2037671029,
+      "Type": 3,
+      "Value": "normal"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\Asteroid.mdl"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 4
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1
+    },
+    {
+      "Id": 2053927797,
+      "Type": 1,
+      "Value": 60
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1920363893,
+      "Type": 2,
+      "Value": 0.1
+    },
+    {
+      "Id": 1999724917,
+      "Type": 3,
+      "Value": "missile"
+    },
+    {
+      "Id": 1915838837,
+      "Value": 1300
+    },
+    {
+      "Id": 2050056565,
+      "Value": 900
+    },
+    {
+      "Id": 1831952757,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\FaerieDragonMissile\\FaerieDragonMissile.mdl"
+    },
+    {
+      "Id": 828927349,
+      "Value": 1
+    },
+    {
+      "Id": 1902338421,
+      "Type": 2,
+      "Value": 1300
+    },
+    {
+      "Id": 829645429,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 829449333,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 1647403381,
+      "Value": 900
+    },
+    {
+      "Id": 2054188149,
+      "Type": 2,
+      "Value": -10
+    },
+    {
+      "Id": 2053990773,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2037410933,
+      "Type": 2,
+      "Value": 40
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "TRIGSTR_3461"
+    },
+    {
+      "Id": 1836344437,
+      "Type": 2,
+      "Value": 9
+    },
+    {
+      "Id": 1869571701,
+      "Value": 0
+    },
+    {
+      "Id": 1949393269,
+      "Type": 3,
+      "Value": "chaos"
+    },
+    {
+      "Id": 1852404597,
+      "Value": 99999
+    },
+    {
+      "Id": 1920494965,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1886940533,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1852137845,
+      "Value": 0
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "ObsidianStatue"
+    },
+    {
+      "Id": 1869640309,
+      "Value": 0
+    },
+    {
+      "Id": 1953654901,
+      "Type": 3,
+      "Value": "always"
+    },
+    {
+      "Id": 1768910965,
+      "Value": 37
+    },
+    {
+      "Id": 1953918325,
+      "Type": 3,
+      "Value": "hover"
+    }
+  ]
+}

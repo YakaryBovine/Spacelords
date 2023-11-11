@@ -1,0 +1,95 @@
+{
+  "OldId": 1819044215,
+  "NewId": 1462841417,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_4696"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "TRIGSTR_3558"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "TRIGSTR_4764"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "TRIGSTR_4860"
+    },
+    {
+      "Id": 1684628329,
+      "Type": 3,
+      "Value": "ACad"
+    },
+    {
+      "Id": 1819240297,
+      "Value": 0
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNArcaniteArchitecture.blp"
+    },
+    {
+      "Id": 1768055145,
+      "Type": 3,
+      "Value": "A07B"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1702065513,
+      "Value": 0
+    },
+    {
+      "Id": 1886545001,
+      "Value": 1
+    },
+    {
+      "Id": 1920234345,
+      "Value": 0
+    },
+    {
+      "Id": 1634493289,
+      "Type": 3,
+      "Value": "Miscellaneous"
+    },
+    {
+      "Id": 1651270505,
+      "Value": 125
+    },
+    {
+      "Id": 1919705961,
+      "Value": 125
+    },
+    {
+      "Id": 1919250537,
+      "Value": 0
+    },
+    {
+      "Id": 1870031977,
+      "Value": 10
+    },
+    {
+      "Id": 1986358377,
+      "Value": 8
+    }
+  ]
+}

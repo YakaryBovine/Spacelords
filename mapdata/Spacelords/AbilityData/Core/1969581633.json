@@ -1,0 +1,24 @@
+{
+  "OldId": 1969581633,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "nonhero"
+    }
+  ]
+}

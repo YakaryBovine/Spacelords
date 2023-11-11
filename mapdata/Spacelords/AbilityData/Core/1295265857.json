@@ -1,0 +1,48 @@
+{
+  "OldId": 2054057281,
+  "NewId": 1295265857,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": "TRIGSTR_2473"
+    },
+    {
+      "Level": 1,
+      "Pointer": 2,
+      "Id": 845243460,
+      "Type": 2,
+      "Value": 100
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 828466244,
+      "Type": 2,
+      "Value": 110
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 862020676,
+      "Type": 2,
+      "Value": 170
+    },
+    {
+      "Level": 1,
+      "Pointer": 4,
+      "Id": 878797892,
+      "Type": 2,
+      "Value": 75
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "allies,debris,enemies,ground,neutral,structure"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OldId": 1718898521,
+  "NewId": 1311846468,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101796,
+      "Type": 3,
+      "Value": "Dummy"
+    },
+    {
+      "Id": 1818846820,
+      "Type": 3,
+      "Value": "flerpderp.mdl"
+    }
+  ]
+}

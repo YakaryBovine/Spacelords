@@ -1,0 +1,88 @@
+{
+  "OldId": 2004045377,
+  "NewId": 1278488641,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_2469"
+    },
+    {
+      "Id": 1986358369,
+      "Value": 1
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNCrystalBall.blp"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Orc\\WarStomp\\WarStompCaster.mdl"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_5025"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_5026"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_2472"
+    },
+    {
+      "Level": 1,
+      "Id": 1969514593,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 3
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 10
+    },
+    {
+      "Level": 1,
+      "Id": 828733256,
+      "Type": 3,
+      "Value": "e010"
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2020631137,
+      "Value": 0
+    }
+  ]
+}

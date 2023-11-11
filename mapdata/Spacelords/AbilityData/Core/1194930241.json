@@ -1,0 +1,99 @@
+{
+  "OldId": 1718772289,
+  "NewId": 1194930241,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": 829781345,
+      "Type": 3,
+      "Value": "TRIGSTR_4440"
+    },
+    {
+      "Level": 1,
+      "Id": 1969581381,
+      "Type": 3,
+      "Value": "h00D"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4441"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4442"
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_4453"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_3138"
+    },
+    {
+      "Id": 1802007905,
+      "Type": 3,
+      "Value": "TRIGSTR_3142"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 828730693,
+      "Type": 3,
+      "Value": "h052"
+    },
+    {
+      "Id": 1902473825,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1684562785,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 829715809,
+      "Type": 3,
+      "Value": "TRIGSTR_4446"
+    },
+    {
+      "Id": 1667330657,
+      "Type": 3,
+      "Value": "creeps"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNMagicImmunity.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNImprovedBows.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Id": 1685221217,
+      "Type": 3,
+      "Value": "etherealform"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    }
+  ]
+}

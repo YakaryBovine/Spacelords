@@ -1,0 +1,16 @@
+{
+  "Left": -7296,
+  "Bottom": 13536,
+  "Right": -4832,
+  "Top": 16352,
+  "Name": "ST2",
+  "CreationNumber": 19,
+  "WeatherType": 1819755590,
+  "AmbientSound": "gg_snd_RunesGlow",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

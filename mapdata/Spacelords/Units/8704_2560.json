@@ -1,0 +1,25 @@
+[
+  {
+    "Flags": 2,
+    "OwnerId": 15,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 892416073,
+    "Position": {
+      "X": 8609.967,
+      "Y": 2708.3752
+    },
+    "Rotation": 4.7123894691467285,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 892416073,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 67
+  }
+]

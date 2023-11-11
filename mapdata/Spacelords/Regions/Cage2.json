@@ -1,0 +1,15 @@
+{
+  "Left": -3648,
+  "Bottom": 5568,
+  "Right": -2784,
+  "Top": 6464,
+  "Name": "Cage2",
+  "CreationNumber": 51,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

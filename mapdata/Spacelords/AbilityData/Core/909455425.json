@@ -1,0 +1,127 @@
+{
+  "OldId": 2037599809,
+  "NewId": 909455425,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_2767"
+    },
+    {
+      "Id": 1986358369,
+      "Value": 1
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1970893646,
+      "Type": 3,
+      "Value": "e018"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 830042958,
+      "Type": 2,
+      "Value": 300
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 863597390,
+      "Type": 2,
+      "Value": 0.01
+    },
+    {
+      "Level": 1,
+      "Pointer": 4,
+      "Id": 880374606,
+      "Type": 2,
+      "Value": 99999
+    },
+    {
+      "Level": 1,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 900
+    },
+    {
+      "Id": 1886612833,
+      "Value": 600
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\MakuraMissile\\MakuraMissile.mdl"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 10
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1969514593,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_5040"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_5041"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4294"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNCleavingAttack.blp"
+    },
+    {
+      "Level": 1,
+      "Pointer": 2,
+      "Id": 846820174,
+      "Type": 3,
+      "Value": "e000"
+    },
+    {
+      "Id": 1667329377,
+      "Type": 2,
+      "Value": 0.3
+    },
+    {
+      "Level": 1,
+      "Id": 1935762273,
+      "Type": 2,
+      "Value": 0.15
+    }
+  ]
+}

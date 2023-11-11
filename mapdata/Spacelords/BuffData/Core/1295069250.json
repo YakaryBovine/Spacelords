@@ -1,0 +1,33 @@
+{
+  "OldId": 1819308866,
+  "NewId": 1295069250,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "TRIGSTR_4477"
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNStasisTrap.blp"
+    },
+    {
+      "Id": 1700951398,
+      "Type": 3,
+      "Value": "TRIGSTR_4487"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "TRIGSTR_4479"
+    },
+    {
+      "Id": 1869114726,
+      "Value": 1
+    }
+  ]
+}

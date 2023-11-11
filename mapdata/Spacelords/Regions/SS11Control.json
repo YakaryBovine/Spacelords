@@ -1,0 +1,15 @@
+{
+  "Left": 1824,
+  "Bottom": 15712,
+  "Right": 1984,
+  "Top": 15872,
+  "Name": "SS11Control",
+  "CreationNumber": 150,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

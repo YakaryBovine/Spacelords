@@ -1,0 +1,108 @@
+{
+  "OldId": 1634747201,
+  "NewId": 1329082433,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_4114"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\VengeanceMissile\\VengeanceMissile.mdl"
+    },
+    {
+      "Id": 1886612833,
+      "Value": 900
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNQuillSpray.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNQuillSpray.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 35
+    },
+    {
+      "Id": 1802007905,
+      "Type": 3,
+      "Value": "TRIGSTR_1163"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_1203"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_1002"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4118"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 828993360,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1970106473,
+      "Type": 3,
+      "Value": "e009"
+    },
+    {
+      "Level": 1,
+      "Id": 912355406,
+      "Type": 2,
+      "Value": 0.1
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 45
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,enemies,friend,ground,neutral,nonhero,organic,player"
+    },
+    {
+      "Level": 1,
+      "Id": 1718968929,
+      "Type": 3,
+      "Value": "B01G"
+    },
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": "TRIGSTR_4119"
+    }
+  ]
+}

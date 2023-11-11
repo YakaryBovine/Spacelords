@@ -1,0 +1,15 @@
+{
+  "Left": -14656,
+  "Bottom": -5280,
+  "Right": -14464,
+  "Top": -5056,
+  "Name": "PersonnelUpgrade",
+  "CreationNumber": 143,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

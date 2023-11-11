@@ -1,0 +1,89 @@
+{
+  "OldId": 1935889729,
+  "NewId": 1094135873,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1986358369,
+      "Value": 1
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_5085"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_5086"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_3533"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 40
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "none.mdl"
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1886612833,
+      "Value": 600
+    },
+    {
+      "Level": 1,
+      "Pointer": 2,
+      "Id": 846422869,
+      "Type": 2,
+      "Value": 99999
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnsummonBuilding.blp"
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 863200085,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 600
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_3534"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Left": -10016,
+  "Bottom": -5184,
+  "Right": -9120,
+  "Top": -1248,
+  "Name": "ST4V15",
+  "CreationNumber": 50,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

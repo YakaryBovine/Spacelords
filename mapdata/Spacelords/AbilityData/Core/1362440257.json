@@ -1,0 +1,54 @@
+{
+  "OldId": 828655937,
+  "NewId": 1362440257,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 1717920841,
+      "Value": 0
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "war3mapImported\\Sparks.mdx,Abilities\\Spells\\Items\\AIlb\\AIlbTarget.mdl,Abilities\\Spells\\Items\\AIlb\\AIlbTarget.mdl"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "origin"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 1
+    },
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": "TRIGSTR_2522"
+    },
+    {
+      "Id": 828470369,
+      "Type": 3,
+      "Value": "foot,right"
+    },
+    {
+      "Id": 845247585,
+      "Type": 3,
+      "Value": "foot,left"
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_2979"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_4841"
+    }
+  ]
+}

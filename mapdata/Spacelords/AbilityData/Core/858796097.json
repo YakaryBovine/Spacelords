@@ -1,0 +1,163 @@
+{
+  "OldId": 1935887937,
+  "NewId": 858796097,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_105"
+    },
+    {
+      "Id": 1986358369,
+      "Value": 2
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_2927"
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "TRIGSTR_107"
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4874"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_109"
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 863200078,
+      "Value": 15
+    },
+    {
+      "Id": 1886612833,
+      "Value": 1900
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 180
+    },
+    {
+      "Level": 1,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 2900
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 400
+    },
+    {
+      "Level": 1,
+      "Pointer": 4,
+      "Id": 879977294,
+      "Type": 2,
+      "Value": 37500
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 829645646,
+      "Type": 2,
+      "Value": 3000
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,ground,structure"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "war3mapImported\\CustomTinker.mdx"
+    },
+    {
+      "Level": 2,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4875"
+    },
+    {
+      "Level": 2,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_3414"
+    },
+    {
+      "Level": 2,
+      "Pointer": 1,
+      "Id": 829645646,
+      "Type": 2,
+      "Value": 5000
+    },
+    {
+      "Level": 2,
+      "Pointer": 4,
+      "Id": 879977294,
+      "Type": 2,
+      "Value": 37500
+    },
+    {
+      "Level": 2,
+      "Pointer": 3,
+      "Id": 863200078,
+      "Value": 22
+    },
+    {
+      "Level": 2,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 400
+    },
+    {
+      "Level": 2,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 4500
+    },
+    {
+      "Level": 2,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 150
+    },
+    {
+      "Level": 2,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Level": 2,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,ground,structure"
+    }
+  ]
+}

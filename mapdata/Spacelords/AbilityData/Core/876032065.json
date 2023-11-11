@@ -1,0 +1,194 @@
+{
+  "OldId": 1935887937,
+  "NewId": 876032065,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_3465"
+    },
+    {
+      "Id": 1986358369,
+      "Value": 1
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1802007137,
+      "Type": 3,
+      "Value": "TRIGSTR_3464"
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_3469"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4006"
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 863200078,
+      "Value": 0
+    },
+    {
+      "Id": 1886612833,
+      "Value": 1900
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 240
+    },
+    {
+      "Level": 1,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 99999
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 300
+    },
+    {
+      "Level": 1,
+      "Pointer": 4,
+      "Id": 879977294,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 829645646,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,ground,structure"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 2,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_3413"
+    },
+    {
+      "Level": 2,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_3468"
+    },
+    {
+      "Level": 2,
+      "Pointer": 1,
+      "Id": 829645646,
+      "Type": 2,
+      "Value": 5000
+    },
+    {
+      "Level": 2,
+      "Pointer": 4,
+      "Id": 879977294,
+      "Type": 2,
+      "Value": 99999
+    },
+    {
+      "Level": 2,
+      "Pointer": 3,
+      "Id": 863200078,
+      "Value": 22
+    },
+    {
+      "Level": 2,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 400
+    },
+    {
+      "Level": 2,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 4500
+    },
+    {
+      "Level": 2,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 150
+    },
+    {
+      "Level": 2,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Level": 2,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,ground,structure"
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 0.01
+    },
+    {
+      "Level": 1,
+      "Id": 1969514593,
+      "Type": 2,
+      "Value": 0.01
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNEarthquake.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 1935762273,
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Id": 2037408353,
+      "Value": 0
+    },
+    {
+      "Id": 2020631137,
+      "Value": 0
+    }
+  ]
+}

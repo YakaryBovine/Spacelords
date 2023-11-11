@@ -1,0 +1,28 @@
+{
+  "OldId": 1885556569,
+  "NewId": 1479553092,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101796,
+      "Type": 3,
+      "Value": "Containment Wall Unselectable"
+    },
+    {
+      "Id": 1818846820,
+      "Type": 3,
+      "Value": "Doodads\\Terrain\\DalaranMagicalPenWall\\DalaranMagicalPenWall.mdl"
+    },
+    {
+      "Id": 1718509924,
+      "Value": 1
+    },
+    {
+      "Id": 2020896868,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

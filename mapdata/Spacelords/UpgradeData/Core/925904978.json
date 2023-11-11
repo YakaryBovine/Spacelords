@@ -1,0 +1,39 @@
+{
+  "OldId": 1701668946,
+  "NewId": 925904978,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": 1835101799,
+      "Type": 3,
+      "Value": "Researcher_ShipMovespeed"
+    },
+    {
+      "Id": 828794215,
+      "Type": 3,
+      "Value": "rmvx"
+    },
+    {
+      "Id": 828465767,
+      "Type": 2,
+      "Value": 15
+    },
+    {
+      "Id": 829386087,
+      "Type": 2,
+      "Value": 15
+    },
+    {
+      "Id": 1819700327,
+      "Value": 1
+    },
+    {
+      "Id": 1936483175,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

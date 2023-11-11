@@ -1,0 +1,29 @@
+{
+  "OldId": 1918988098,
+  "NewId": 842084418,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "TRIGSTR_3171"
+    },
+    {
+      "Id": 1818649958,
+      "Type": 3,
+      "Value": "WispHarvestLoop"
+    },
+    {
+      "Id": 1885959270,
+      "Type": 3,
+      "Value": "TRIGSTR_3172"
+    },
+    {
+      "Id": 1953653094,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBrilliance.blp"
+    }
+  ]
+}

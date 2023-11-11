@@ -1,0 +1,120 @@
+{
+  "OldId": 1919116654,
+  "NewId": 1127231598,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_3792"
+    },
+    {
+      "Id": 1836083317,
+      "Value": 800
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\ForgottenOne\\ForgottenOne.mdl"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNForgottenOne.blp"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "SludgeMonster"
+    },
+    {
+      "Id": 2037671029,
+      "Type": 3,
+      "Value": "normal"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.4
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1718840949,
+      "Type": 3,
+      "Value": "TRIGSTR_3793"
+    },
+    {
+      "Id": 1852137845,
+      "Value": 1
+    },
+    {
+      "Id": 1919705973,
+      "Value": 150
+    },
+    {
+      "Id": 1651270517,
+      "Value": 150
+    },
+    {
+      "Id": 1915838837,
+      "Value": 90
+    },
+    {
+      "Id": 1680957813,
+      "Value": 1
+    },
+    {
+      "Id": 1932616053,
+      "Value": 1
+    },
+    {
+      "Id": 1647403381,
+      "Value": 13
+    },
+    {
+      "Id": 1664180597,
+      "Type": 2,
+      "Value": 0.5
+    },
+    {
+      "Id": 1999724917,
+      "Type": 3,
+      "Value": "normal"
+    },
+    {
+      "Id": 1902338421,
+      "Type": 2,
+      "Value": 900
+    },
+    {
+      "Id": 1768055157,
+      "Type": 3,
+      "Value": "A07O,A01C,A058,A05H,A01E,Awan"
+    },
+    {
+      "Id": 1919969397,
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Id": 1819239285,
+      "Type": 2,
+      "Value": 32
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 1.8
+    },
+    {
+      "Id": 1701602933,
+      "Value": 0
+    }
+  ]
+}

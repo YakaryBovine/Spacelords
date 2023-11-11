@@ -1,0 +1,91 @@
+{
+  "OldId": 1936543297,
+  "NewId": 1278423105,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_2013"
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Id": 1986358369,
+      "Value": 1
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4986"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_2015"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 829648206,
+      "Type": 2,
+      "Value": 2
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 829715809,
+      "Type": 3,
+      "Value": "TRIGSTR_4987"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_4988"
+    },
+    {
+      "Id": 1802007905,
+      "Type": 3,
+      "Value": "TRIGSTR_1118"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBlueEnergy.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedStrengthOfTheMoon.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 1718968929,
+      "Type": 3,
+      "Value": "B001"
+    },
+    {
+      "Id": 1936090465,
+      "Type": 3,
+      "Value": "SpiritwalkerMorph"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    },
+    {
+      "Id": 2019718497,
+      "Value": 1
+    }
+  ]
+}

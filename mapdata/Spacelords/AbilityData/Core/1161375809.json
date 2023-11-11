@@ -1,0 +1,95 @@
+{
+  "OldId": 1718772289,
+  "NewId": 1161375809,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": 829781345,
+      "Type": 3,
+      "Value": "TRIGSTR_4429"
+    },
+    {
+      "Level": 1,
+      "Id": 1969581381,
+      "Type": 3,
+      "Value": "h051"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4430"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4431"
+    },
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_4432"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_2871"
+    },
+    {
+      "Id": 1802007905,
+      "Type": 3,
+      "Value": "TRIGSTR_3136"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 828730693,
+      "Type": 3,
+      "Value": "h00K"
+    },
+    {
+      "Id": 1902473825,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1684562785,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 829715809,
+      "Type": 3,
+      "Value": "TRIGSTR_4434"
+    },
+    {
+      "Id": 1667330657,
+      "Type": 3,
+      "Value": "creeps"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNIncinerate.blp"
+    },
+    {
+      "Id": 1918989665,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNChainsaw.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Id": 1685221217,
+      "Type": 3,
+      "Value": "etherealform"
+    }
+  ]
+}

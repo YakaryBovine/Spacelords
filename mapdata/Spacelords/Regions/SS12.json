@@ -1,0 +1,15 @@
+{
+  "Left": -3648,
+  "Bottom": 12864,
+  "Right": -832,
+  "Top": 15616,
+  "Name": "SS12",
+  "CreationNumber": 161,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

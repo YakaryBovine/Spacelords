@@ -1,0 +1,15 @@
+{
+  "Left": -6176,
+  "Bottom": 12640,
+  "Right": -5984,
+  "Top": 12800,
+  "Name": "ST8Control",
+  "CreationNumber": 24,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

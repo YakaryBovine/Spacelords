@@ -1,0 +1,198 @@
+[
+  {
+    "Flags": 2,
+    "OwnerId": 12,
+    "HP": -1,
+    "MP": -1,
+    "GoldAmount": 12500,
+    "TargetAcquisition": -1,
+    "HeroLevel": 1,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 1144008814,
+    "Position": {
+      "X": 69.00779,
+      "Y": 7757.399
+    },
+    "Rotation": 4.904286861419678,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 1144008814,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 308
+  },
+  {
+    "Flags": 2,
+    "OwnerId": 12,
+    "HP": -1,
+    "MP": -1,
+    "GoldAmount": 12500,
+    "TargetAcquisition": -1,
+    "HeroLevel": 1,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 1144008814,
+    "Position": {
+      "X": 49.21107,
+      "Y": 7565.505
+    },
+    "Rotation": 0.028571266680955887,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 1144008814,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 307
+  },
+  {
+    "Flags": 2,
+    "OwnerId": 12,
+    "HP": -1,
+    "MP": -1,
+    "GoldAmount": 12500,
+    "TargetAcquisition": -1,
+    "HeroLevel": 1,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 1127231598,
+    "Position": {
+      "X": 105.90404,
+      "Y": 7459.1504
+    },
+    "Rotation": 1.8824437856674194,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 1127231598,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 304
+  },
+  {
+    "Flags": 2,
+    "OwnerId": 12,
+    "HP": -1,
+    "MP": -1,
+    "GoldAmount": 12500,
+    "TargetAcquisition": -1,
+    "HeroLevel": 1,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 1110454382,
+    "Position": {
+      "X": 238.89203,
+      "Y": 7573.2495
+    },
+    "Rotation": 3.1062145233154297,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 1110454382,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 303
+  },
+  {
+    "Flags": 2,
+    "OwnerId": 12,
+    "HP": -1,
+    "MP": -1,
+    "GoldAmount": 12500,
+    "TargetAcquisition": -1,
+    "HeroLevel": 1,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 1110454382,
+    "Position": {
+      "X": -89.81133,
+      "Y": 7498.032
+    },
+    "Rotation": 1.0630812644958496,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 1110454382,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 300
+  },
+  {
+    "Flags": 2,
+    "OwnerId": 12,
+    "HP": -1,
+    "MP": -1,
+    "GoldAmount": 12500,
+    "TargetAcquisition": -1,
+    "HeroLevel": 1,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 1110454382,
+    "Position": {
+      "X": 190.72914,
+      "Y": 7699.774
+    },
+    "Rotation": 0.22914539277553558,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 1110454382,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 269
+  },
+  {
+    "Flags": 2,
+    "OwnerId": 12,
+    "HP": -1,
+    "MP": -1,
+    "GoldAmount": 12500,
+    "TargetAcquisition": -1,
+    "HeroLevel": 1,
+    "InventoryData": [],
+    "AbilityData": [],
+    "CustomPlayerColorId": -1,
+    "WaygateDestinationRegionId": -1,
+    "TypeId": 1110454382,
+    "Position": {
+      "X": 132.8178,
+      "Y": 7734.3315
+    },
+    "Rotation": 5.247333526611328,
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "SkinId": 1110454382,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 227
+  }
+]

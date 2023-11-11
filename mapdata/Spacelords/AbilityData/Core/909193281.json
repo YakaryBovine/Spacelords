@@ -1,0 +1,39 @@
+{
+  "OldId": 1919828801,
+  "NewId": 909193281,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_762"
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 100
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,ground,invulnerable,vulnerable"
+    },
+    {
+      "Level": 1,
+      "Pointer": 2,
+      "Id": 846356815,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 829579599,
+      "Type": 2,
+      "Value": 6
+    }
+  ]
+}

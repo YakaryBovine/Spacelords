@@ -1,14 +1,48 @@
 {
-  "OldId": 846226286,
+  "OldId": 1919116654,
   "NewId": 825241710,
   "Unk": [
     0
   ],
   "Modifications": [
     {
-      "Id": 1768055157,
+      "Id": 1835101813,
       "Type": 3,
-      "Value": "A000"
+      "Value": "TRIGSTR_764"
+    },
+    {
+      "Id": 1836083317,
+      "Value": 200
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Units\\Creeps\\ForgottenOne\\ForgottenOne.mdl"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSludgeCreature.blp"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "SludgeMonster"
+    },
+    {
+      "Id": 2037671029,
+      "Type": 3,
+      "Value": "normal"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
     }
   ]
 }

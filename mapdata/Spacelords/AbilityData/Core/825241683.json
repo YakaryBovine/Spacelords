@@ -1,0 +1,141 @@
+{
+  "OldId": 1953788499,
+  "NewId": 825241683,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_407"
+    },
+    {
+      "Id": 1902473825,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 1,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00H"
+    },
+    {
+      "Level": 2,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00I"
+    },
+    {
+      "Level": 3,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00C"
+    },
+    {
+      "Level": 4,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00J"
+    },
+    {
+      "Id": 1684562785,
+      "Value": 0
+    },
+    {
+      "Level": 5,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00D"
+    },
+    {
+      "Level": 6,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00E"
+    },
+    {
+      "Level": 7,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00F"
+    },
+    {
+      "Level": 8,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00K"
+    },
+    {
+      "Level": 9,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00L"
+    },
+    {
+      "Level": 10,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00M"
+    },
+    {
+      "Id": 1986358369,
+      "Value": 19
+    },
+    {
+      "Level": 11,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h00N"
+    },
+    {
+      "Level": 12,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h024"
+    },
+    {
+      "Level": 13,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h027"
+    },
+    {
+      "Level": 14,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h02G"
+    },
+    {
+      "Level": 15,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h02R"
+    },
+    {
+      "Level": 16,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h03U"
+    },
+    {
+      "Level": 17,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h03L"
+    },
+    {
+      "Level": 18,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h04K"
+    },
+    {
+      "Level": 19,
+      "Id": 828467267,
+      "Type": 3,
+      "Value": "h04M"
+    }
+  ]
+}

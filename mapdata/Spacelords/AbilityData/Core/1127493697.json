@@ -1,0 +1,19 @@
+{
+  "OldId": 2054179137,
+  "NewId": 1127493697,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_2370"
+    },
+    {
+      "Id": 1936090465,
+      "Type": 3,
+      "Value": "Disenchant"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "OldId": 1919116654,
+  "NewId": 1093677166,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_3688"
+    },
+    {
+      "Id": 1836083317,
+      "Value": 5
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\SpiritOfVengeanceMissile\\SpiritOfVengeanceMissile.mdl"
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSludgeCreature.blp"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": "NetherDragon"
+    },
+    {
+      "Id": 2037671029,
+      "Type": 3,
+      "Value": "normal"
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1768055157,
+      "Type": 3,
+      "Value": "Amim,Atwa"
+    },
+    {
+      "Id": 1937141109,
+      "Value": 65536
+    },
+    {
+      "Id": 1719037301,
+      "Type": 2,
+      "Value": 400
+    },
+    {
+      "Id": 1752591733,
+      "Type": 2,
+      "Value": 400
+    },
+    {
+      "Id": 1751675765,
+      "Type": 1,
+      "Value": 0
+    },
+    {
+      "Id": 1969779573,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1718840949,
+      "Type": 3,
+      "Value": "TRIGSTR_3689"
+    },
+    {
+      "Id": 1953918325,
+      "Type": 3,
+      "Value": "hover"
+    }
+  ]
+}

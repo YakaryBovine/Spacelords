@@ -1,0 +1,64 @@
+{
+  "OldId": 1650615873,
+  "NewId": 1395667009,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_487"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_488"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4028"
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 862675558,
+      "Type": 2,
+      "Value": 5
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 829121126,
+      "Type": 2,
+      "Value": 5
+    },
+    {
+      "Level": 1,
+      "Pointer": 4,
+      "Id": 879452774,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Pointer": 2,
+      "Id": 845898342,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2020631137,
+      "Value": 2
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,enemies,friend,ground,neutral"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "OldId": 1650544193,
+  "NewId": 1295134785,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_1574"
+    },
+    {
+      "Id": 1986358369,
+      "Value": 1
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 25
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_4944"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4945"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_1920"
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 862085454,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Pointer": 4,
+      "Id": 878862670,
+      "Type": 2,
+      "Value": 50
+    },
+    {
+      "Level": 1,
+      "Pointer": 5,
+      "Id": 895639886,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 0.11
+    },
+    {
+      "Level": 1,
+      "Id": 1969514593,
+      "Type": 2,
+      "Value": 0.11
+    },
+    {
+      "Level": 1,
+      "Pointer": 6,
+      "Id": 912417102,
+      "Type": 2,
+      "Value": 0.1
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 20
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,allies,enemies,ground,neutral,player,structure"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\Charm\\CharmTarget.mdl"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNEtherealFormOn.blp"
+    },
+    {
+      "Id": 1667329377,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 2020631137,
+      "Value": 1
+    }
+  ]
+}

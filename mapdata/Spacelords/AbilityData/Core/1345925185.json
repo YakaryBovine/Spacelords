@@ -1,0 +1,30 @@
+{
+  "OldId": 845957441,
+  "NewId": 1345925185,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_4644"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 1718185033,
+      "Value": 70
+    },
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnholyAura.blp"
+    }
+  ]
+}

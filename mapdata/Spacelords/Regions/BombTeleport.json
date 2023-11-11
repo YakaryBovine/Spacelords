@@ -1,0 +1,15 @@
+{
+  "Left": -15936,
+  "Bottom": -3168,
+  "Right": -15680,
+  "Top": -2880,
+  "Name": "BombTeleport",
+  "CreationNumber": 119,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

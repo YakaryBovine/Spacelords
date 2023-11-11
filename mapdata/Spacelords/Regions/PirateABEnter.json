@@ -1,0 +1,15 @@
+{
+  "Left": 1824,
+  "Bottom": -14816,
+  "Right": 1920,
+  "Top": -14688,
+  "Name": "PirateABEnter",
+  "CreationNumber": 121,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

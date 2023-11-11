@@ -1,0 +1,15 @@
+{
+  "Left": -13120,
+  "Bottom": 2240,
+  "Right": -12992,
+  "Top": 2368,
+  "Name": "ST4Control",
+  "CreationNumber": 70,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

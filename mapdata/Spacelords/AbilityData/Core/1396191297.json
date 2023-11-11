@@ -1,0 +1,48 @@
+{
+  "OldId": 1651263809,
+  "NewId": 1396191297,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_4142"
+    },
+    {
+      "Level": 1,
+      "Pointer": 5,
+      "Id": 895643465,
+      "Value": 1
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 1667851337,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 1835099209,
+      "Type": 2,
+      "Value": 2
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\AncestralGuardianMissile\\AncestralGuardianMissile.mdl"
+    }
+  ]
+}

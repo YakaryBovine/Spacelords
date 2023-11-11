@@ -1,0 +1,124 @@
+{
+  "OldId": 1970235496,
+  "NewId": 959524968,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_876"
+    },
+    {
+      "Id": 1634559605,
+      "Value": 0
+    },
+    {
+      "Id": 1717920885,
+      "Value": 0
+    },
+    {
+      "Id": 2037671029,
+      "Type": 3,
+      "Value": "normal"
+    },
+    {
+      "Id": 1768055157,
+      "Type": 3,
+      "Value": "Aneu"
+    },
+    {
+      "Id": 1836083317,
+      "Value": 6500
+    },
+    {
+      "Id": 1868786037,
+      "Type": 3,
+      "Value": "war3mapImported\\BTNLogo.blp"
+    },
+    {
+      "Id": 1818520949,
+      "Type": 3,
+      "Value": "war3mapImported\\Radar.mdl"
+    },
+    {
+      "Id": 1885433973,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1935832437,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1668510581,
+      "Type": 1,
+      "Value": 6
+    },
+    {
+      "Id": 1952542837,
+      "Type": 3,
+      "Value": "PathTextures\\16x16Simple.tga"
+    },
+    {
+      "Id": 1819239285,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Id": 1953918325,
+      "Type": 3,
+      "Value": "fly"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "TRIGSTR_761"
+    },
+    {
+      "Id": 1684960117,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "TRIGSTR_877"
+    },
+    {
+      "Id": 1919381621,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1684632437,
+      "Value": 0
+    },
+    {
+      "Id": 1852404597,
+      "Value": 0
+    },
+    {
+      "Id": 1633907573,
+      "Type": 1,
+      "Value": 5
+    },
+    {
+      "Id": 1768256373,
+      "Type": 3,
+      "Value": "I00T"
+    },
+    {
+      "Id": 1634759541,
+      "Type": 3,
+      "Value": "Objects\\Spawnmodels\\Other\\ToonBoom\\ToonBoom.mdl"
+    },
+    {
+      "Id": 1935827829,
+      "Type": 2,
+      "Value": 0
+    }
+  ]
+}

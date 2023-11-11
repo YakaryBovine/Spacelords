@@ -1,0 +1,53 @@
+{
+  "OldId": 1718898521,
+  "NewId": 1278292036,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101796,
+      "Type": 3,
+      "Value": "Stomach Bubbles"
+    },
+    {
+      "Id": 1802270564,
+      "Value": 1
+    },
+    {
+      "Id": 1684960100,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1818846820,
+      "Type": 3,
+      "Value": "war3mapImported\\StomachCloud.mdl"
+    },
+    {
+      "Variation": 1,
+      "Id": 828864100,
+      "Value": 0
+    },
+    {
+      "Variation": 1,
+      "Id": 829584996,
+      "Value": 0
+    },
+    {
+      "Variation": 1,
+      "Id": 828536420,
+      "Value": 0
+    },
+    {
+      "Id": 1935764836,
+      "Type": 2,
+      "Value": 0.5
+    },
+    {
+      "Id": 1936289124,
+      "Type": 2,
+      "Value": 0.5
+    }
+  ]
+}

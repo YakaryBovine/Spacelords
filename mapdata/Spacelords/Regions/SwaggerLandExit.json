@@ -1,0 +1,15 @@
+{
+  "Left": -7232,
+  "Bottom": -13376,
+  "Right": -7040,
+  "Top": -13248,
+  "Name": "SwaggerLandExit",
+  "CreationNumber": 66,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

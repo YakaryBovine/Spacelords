@@ -1,0 +1,22 @@
+[
+  {
+    "State": 2,
+    "Life": 100,
+    "TypeId": 909127746,
+    "Position": {
+      "X": 10016,
+      "Y": 2784,
+      "Z": -256
+    },
+    "Rotation": 6.03884,
+    "Scale": {
+      "X": 2.9320352,
+      "Y": 2.9320352,
+      "Z": 2.9320352
+    },
+    "SkinId": 909127746,
+    "MapItemTableId": -1,
+    "ItemTableSets": [],
+    "CreationNumber": 1820
+  }
+]

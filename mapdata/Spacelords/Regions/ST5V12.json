@@ -1,0 +1,15 @@
+{
+  "Left": -2752,
+  "Bottom": -15552,
+  "Right": -2240,
+  "Top": -14720,
+  "Name": "ST5V12",
+  "CreationNumber": 104,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

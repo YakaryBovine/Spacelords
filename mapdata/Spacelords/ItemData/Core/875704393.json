@@ -1,0 +1,57 @@
+{
+  "OldId": 1986818920,
+  "NewId": 875704393,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_4701"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "TRIGSTR_3915"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "TRIGSTR_4770"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "TRIGSTR_3917"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Objects\\InventoryItems\\ThunderLizardEgg\\ThunderLizardEgg.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.6
+    },
+    {
+      "Id": 1768055145,
+      "Type": 3,
+      "Value": "A086"
+    },
+    {
+      "Id": 1819240297,
+      "Value": 0
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNSnazzyPotion.blp"
+    },
+    {
+      "Id": 1702065513,
+      "Value": 1
+    }
+  ]
+}

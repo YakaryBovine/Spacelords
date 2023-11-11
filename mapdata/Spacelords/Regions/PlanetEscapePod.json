@@ -1,0 +1,15 @@
+{
+  "Left": 10976,
+  "Bottom": 4000,
+  "Right": 11104,
+  "Top": 4128,
+  "Name": "PlanetEscapePod",
+  "CreationNumber": 153,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

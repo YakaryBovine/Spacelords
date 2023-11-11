@@ -1,0 +1,15 @@
+{
+  "Left": -15232,
+  "Bottom": 6720,
+  "Right": -15040,
+  "Top": 6848,
+  "Name": "ST3Control",
+  "CreationNumber": 29,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

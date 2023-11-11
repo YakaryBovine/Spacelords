@@ -1,0 +1,15 @@
+{
+  "Left": 11296,
+  "Bottom": -2304,
+  "Right": 11456,
+  "Top": -2144,
+  "Name": "AssemblyControl",
+  "CreationNumber": 20,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

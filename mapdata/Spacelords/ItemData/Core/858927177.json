@@ -1,0 +1,74 @@
+{
+  "OldId": 1819044215,
+  "NewId": 858927177,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_4700"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "TRIGSTR_3852"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "TRIGSTR_4769"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "TRIGSTR_3855"
+    },
+    {
+      "Id": 1684628329,
+      "Type": 3,
+      "Value": "Abun"
+    },
+    {
+      "Id": 1819240297,
+      "Value": 0
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNBloodKey.blp"
+    },
+    {
+      "Id": 1869902697,
+      "Value": 3
+    },
+    {
+      "Id": 1768055145,
+      "Type": 3,
+      "Value": "A080"
+    },
+    {
+      "Id": 1919250537,
+      "Value": 0
+    },
+    {
+      "Id": 1702065513,
+      "Value": 0
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+    },
+    {
+      "Id": 1633907561,
+      "Type": 1,
+      "Value": 0.2
+    },
+    {
+      "Id": 1886545001,
+      "Value": 1
+    }
+  ]
+}

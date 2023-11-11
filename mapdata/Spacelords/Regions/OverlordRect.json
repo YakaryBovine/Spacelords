@@ -1,0 +1,15 @@
+{
+  "Left": -9728,
+  "Bottom": 2688,
+  "Right": -5344,
+  "Top": 7424,
+  "Name": "OverlordRect",
+  "CreationNumber": 125,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 20,
+    "G": 20,
+    "B": 20
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Left": 3616,
+  "Bottom": 1600,
+  "Right": 11872,
+  "Top": 10688,
+  "Name": "Planet",
+  "CreationNumber": 124,
+  "WeatherType": 1919435090,
+  "AmbientSound": "gg_snd_RainAmbience",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "OldId": 828655937,
+  "NewId": 1412640833,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_2108"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 1717920841,
+      "Value": 0
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\LordofFlameMissile\\LordofFlameMissile.mdl"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "hand,left"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 2
+    },
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": "TRIGSTR_2251"
+    },
+    {
+      "Id": 828470369,
+      "Type": 3,
+      "Value": "hand,right"
+    }
+  ]
+}

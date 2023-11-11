@@ -1,0 +1,109 @@
+{
+  "OldId": 2053261377,
+  "NewId": 1378955329,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_984"
+    },
+    {
+      "Id": 1986358369,
+      "Value": 1
+    },
+    {
+      "Id": 1919248481,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1717986657,
+      "Type": 3,
+      "Value": "X000"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNCleavingAttack.blp"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_953"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_985"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_986"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 830104136,
+      "Value": 99999
+    },
+    {
+      "Level": 1,
+      "Pointer": 3,
+      "Id": 863658568,
+      "Value": 36
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 60
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 40
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 300
+    },
+    {
+      "Level": 1,
+      "Pointer": 6,
+      "Id": 913990216,
+      "Type": 2,
+      "Value": 99999
+    },
+    {
+      "Level": 1,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 2900
+    },
+    {
+      "Level": 1,
+      "Id": 1718968929,
+      "Type": 3,
+      "Value": "B00K,BHbz"
+    },
+    {
+      "Level": 1,
+      "Pointer": 2,
+      "Id": 846881352,
+      "Type": 2,
+      "Value": 80
+    }
+  ]
+}

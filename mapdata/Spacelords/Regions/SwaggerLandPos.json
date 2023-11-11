@@ -1,0 +1,15 @@
+{
+  "Left": 5952,
+  "Bottom": 6240,
+  "Right": 6080,
+  "Top": 6336,
+  "Name": "SwaggerLandPos",
+  "CreationNumber": 64,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

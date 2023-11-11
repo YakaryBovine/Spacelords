@@ -1,0 +1,93 @@
+{
+  "OldId": 1634747201,
+  "NewId": 1311912001,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\NecromancerMissile\\NecromancerMissile.mdl"
+    },
+    {
+      "Id": 1886612833,
+      "Value": 900
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1852072801,
+      "Type": 2,
+      "Value": 25
+    },
+    {
+      "Id": 1802007905,
+      "Type": 3,
+      "Value": "TRIGSTR_4946"
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_4947"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_4948"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_1584"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 828993360,
+      "Type": 2,
+      "Value": 4.39
+    },
+    {
+      "Level": 1,
+      "Id": 1970106473,
+      "Type": 3,
+      "Value": "e00G"
+    },
+    {
+      "Level": 1,
+      "Id": 912355406,
+      "Type": 2,
+      "Value": 0.1
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,enemies,friend,ground,neutral,nonhero,organic,player"
+    },
+    {
+      "Level": 1,
+      "Id": 1718968929,
+      "Type": 3,
+      "Value": "B00H"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNInfection1.blp"
+    }
+  ]
+}

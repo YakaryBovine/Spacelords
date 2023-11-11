@@ -1,0 +1,19 @@
+{
+  "OldId": 1718830424,
+  "NewId": 892350552,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101798,
+      "Type": 3,
+      "Value": "TRIGSTR_3147"
+    },
+    {
+      "Id": 1952540006,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\Bolt\\BoltImpact.mdl"
+    }
+  ]
+}

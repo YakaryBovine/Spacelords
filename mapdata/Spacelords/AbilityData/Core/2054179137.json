@@ -1,0 +1,19 @@
+{
+  "OldId": 2054179137,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": 1935762273,
+      "Type": 2,
+      "Value": 3
+    },
+    {
+      "Id": 1936090465,
+      "Type": 3,
+      "Value": "ShadowMeld"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Left": -1664,
+  "Bottom": 8352,
+  "Right": -1312,
+  "Top": 8672,
+  "Name": "Cage Transport",
+  "CreationNumber": 113,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

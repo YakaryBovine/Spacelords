@@ -1,0 +1,69 @@
+{
+  "OldId": 1819044215,
+  "NewId": 892416073,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_4792"
+    },
+    {
+      "Id": 1936024681,
+      "Type": 3,
+      "Value": "TRIGSTR_2136"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "TRIGSTR_4793"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "TRIGSTR_2139"
+    },
+    {
+      "Id": 1684628329,
+      "Type": 3,
+      "Value": "Acri"
+    },
+    {
+      "Id": 1819240297,
+      "Value": 0
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNCheese.blp"
+    },
+    {
+      "Id": 1869902697,
+      "Value": 3
+    },
+    {
+      "Id": 1768055145,
+      "Type": 3,
+      "Value": "A03W"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "Objects\\InventoryItems\\ThunderLizardEgg\\ThunderLizardEgg.mdl"
+    },
+    {
+      "Id": 1702065513,
+      "Value": 0
+    },
+    {
+      "Id": 1919250537,
+      "Value": 0
+    },
+    {
+      "Id": 1886545001,
+      "Value": 1
+    }
+  ]
+}

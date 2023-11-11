@@ -1,0 +1,47 @@
+{
+  "OldId": 2037412673,
+  "NewId": 1160851521,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_849"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 828665683,
+      "Value": 1
+    },
+    {
+      "Level": 1,
+      "Pointer": 2,
+      "Id": 845442899,
+      "Type": 3,
+      "Value": "e008"
+    },
+    {
+      "Id": 1952540001,
+      "Type": 3,
+      "Value": "none.mdl"
+    },
+    {
+      "Id": 1952542049,
+      "Type": 3,
+      "Value": "none.mdl"
+    },
+    {
+      "Id": 1952543585,
+      "Type": 3,
+      "Value": "none.mdl"
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "none.mdl"
+    }
+  ]
+}

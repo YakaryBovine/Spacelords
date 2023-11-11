@@ -1,0 +1,33 @@
+{
+  "OldId": 1885556569,
+  "NewId": 1211117636,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101796,
+      "Type": 3,
+      "Value": "Obelisk"
+    },
+    {
+      "Id": 1818846820,
+      "Type": 3,
+      "Value": "Doodads\\Cityscape\\Props\\City_Oblisk\\City_Oblisk.mdl"
+    },
+    {
+      "Id": 1718509924,
+      "Value": 1
+    },
+    {
+      "Id": 1935764836,
+      "Type": 2,
+      "Value": 2
+    },
+    {
+      "Id": 2020896868,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Left": -5920,
+  "Bottom": 8736,
+  "Right": -5376,
+  "Top": 9312,
+  "Name": "TransportationPlatform",
+  "CreationNumber": 118,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

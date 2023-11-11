@@ -1,0 +1,15 @@
+{
+  "Left": -9568,
+  "Bottom": 4256,
+  "Right": -9280,
+  "Top": 4512,
+  "Name": "OverlordPod",
+  "CreationNumber": 144,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

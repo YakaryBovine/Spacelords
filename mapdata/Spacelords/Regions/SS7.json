@@ -1,0 +1,15 @@
+{
+  "Left": 6432,
+  "Bottom": 15136,
+  "Right": 7360,
+  "Top": 16096,
+  "Name": "SS7",
+  "CreationNumber": 137,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

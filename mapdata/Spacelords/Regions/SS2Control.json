@@ -1,0 +1,15 @@
+{
+  "Left": 12192,
+  "Bottom": 14432,
+  "Right": 12384,
+  "Top": 14592,
+  "Name": "SS2Control",
+  "CreationNumber": 16,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

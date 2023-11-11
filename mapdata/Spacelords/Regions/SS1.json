@@ -1,0 +1,15 @@
+{
+  "Left": 11712,
+  "Bottom": 15072,
+  "Right": 12832,
+  "Top": 16192,
+  "Name": "SS1",
+  "CreationNumber": 11,
+  "AmbientSound": "gg_snd_NightElfGlueScreenLoop1",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

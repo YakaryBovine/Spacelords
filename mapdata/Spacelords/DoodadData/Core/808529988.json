@@ -1,0 +1,24 @@
+{
+  "OldId": 1885556569,
+  "NewId": 808529988,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101796,
+      "Type": 3,
+      "Value": "Medpad"
+    },
+    {
+      "Id": 1818846820,
+      "Type": 3,
+      "Value": "war3mapImported\\Medpad.mdl"
+    },
+    {
+      "Id": 2020896868,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

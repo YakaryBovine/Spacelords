@@ -1,0 +1,49 @@
+{
+  "OldId": 828655937,
+  "NewId": 1345663041,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_2978"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 1717920841,
+      "Value": 0
+    },
+    {
+      "Id": 1952543841,
+      "Type": 3,
+      "Value": "Abilities\\Weapons\\SpiritOfVengeanceMissile\\SpiritOfVengeanceMissile.mdl"
+    },
+    {
+      "Id": 811693153,
+      "Type": 3,
+      "Value": "firepoint"
+    },
+    {
+      "Id": 1667331169,
+      "Value": 1
+    },
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": "TRIGSTR_2499"
+    },
+    {
+      "Id": 828470369,
+      "Type": 3,
+      "Value": "chest"
+    },
+    {
+      "Id": 845247585,
+      "Type": 3,
+      "Value": "weapon"
+    }
+  ]
+}

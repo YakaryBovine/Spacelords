@@ -1,0 +1,49 @@
+{
+  "OldId": 1634693697,
+  "NewId": 1396256833,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_4716"
+    },
+    {
+      "Level": 1,
+      "Id": 828536161,
+      "Type": 3,
+      "Value": "TRIGSTR_4717"
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 828469074,
+      "Type": 2,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 30
+    },
+    {
+      "Level": 1,
+      "Id": 1718968929,
+      "Type": 3,
+      "Value": "B01Q"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 0
+    },
+    {
+      "Id": 1952539489,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Left": 7200,
+  "Bottom": 15392,
+  "Right": 7328,
+  "Top": 15680,
+  "Name": "SS7EE",
+  "CreationNumber": 139,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

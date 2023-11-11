@@ -1,0 +1,33 @@
+{
+  "OldId": 1885556569,
+  "NewId": 925904964,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101796,
+      "Type": 3,
+      "Value": "Blue Fire Spec"
+    },
+    {
+      "Id": 1818846820,
+      "Type": 3,
+      "Value": "Doodads\\Cinematic\\TownBurningFireEmitterBlue\\TownBurningFireEmitterBlue.mdl"
+    },
+    {
+      "Id": 1718509924,
+      "Value": 1
+    },
+    {
+      "Id": 1935764836,
+      "Type": 2,
+      "Value": 2
+    },
+    {
+      "Id": 2020896868,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

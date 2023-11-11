@@ -1,0 +1,15 @@
+{
+  "Left": 14720,
+  "Bottom": 14752,
+  "Right": 16352,
+  "Top": 16352,
+  "Name": "Timeout",
+  "CreationNumber": 10,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

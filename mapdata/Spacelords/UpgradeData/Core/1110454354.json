@@ -1,0 +1,68 @@
+{
+  "OldId": 1701668946,
+  "NewId": 1110454354,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": 1835101799,
+      "Type": 3,
+      "Value": "Pickaxe Upgrade of DOOM"
+    },
+    {
+      "Id": 1819700327,
+      "Value": 1
+    },
+    {
+      "Id": 828794215,
+      "Type": 3,
+      "Value": "ratx"
+    },
+    {
+      "Id": 828465767,
+      "Type": 2,
+      "Value": 43
+    },
+    {
+      "Level": 1,
+      "Id": 829453415,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Level": 1,
+      "Id": 828536167,
+      "Type": 3,
+      "Value": ""
+    },
+    {
+      "Id": 1651271527,
+      "Value": 0
+    },
+    {
+      "Id": 1835820903,
+      "Value": 0
+    },
+    {
+      "Id": 1651338343,
+      "Value": 0
+    },
+    {
+      "Id": 1835887719,
+      "Value": 0
+    },
+    {
+      "Level": 1,
+      "Id": 829579623,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNNaturesBlessing.blp"
+    },
+    {
+      "Id": 1936483175,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}

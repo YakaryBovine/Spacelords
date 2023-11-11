@@ -1,0 +1,60 @@
+{
+  "OldId": 1634559856,
+  "NewId": 1362112585,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101813,
+      "Type": 3,
+      "Value": "TRIGSTR_4672"
+    },
+    {
+      "Id": 1651864693,
+      "Type": 3,
+      "Value": "TRIGSTR_2503"
+    },
+    {
+      "Id": 1885959285,
+      "Type": 3,
+      "Value": "TRIGSTR_4740"
+    },
+    {
+      "Id": 1819240297,
+      "Value": 0
+    },
+    {
+      "Id": 1868786025,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNExpansion.blp"
+    },
+    {
+      "Id": 1818846825,
+      "Type": 3,
+      "Value": "war3mapImported\\Battery9.mdl"
+    },
+    {
+      "Id": 1684628329,
+      "Type": 3,
+      "Value": "A01B"
+    },
+    {
+      "Id": 1768055145,
+      "Type": 3,
+      "Value": "A01B"
+    },
+    {
+      "Id": 1886545001,
+      "Value": 1
+    },
+    {
+      "Id": 1702065513,
+      "Value": 2
+    },
+    {
+      "Id": 1920234345,
+      "Value": 25
+    }
+  ]
+}

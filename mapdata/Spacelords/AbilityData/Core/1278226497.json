@@ -1,0 +1,86 @@
+{
+  "OldId": 1919173441,
+  "NewId": 1278226497,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101793,
+      "Type": 3,
+      "Value": "TRIGSTR_420"
+    },
+    {
+      "Id": 1734962273,
+      "Type": 3,
+      "Value": "MFPB"
+    },
+    {
+      "Id": 1953653089,
+      "Type": 3,
+      "Value": "ReplaceableTextures\\CommandButtons\\BTNDrain.blp"
+    },
+    {
+      "Level": 1,
+      "Id": 1935895905,
+      "Value": 50
+    },
+    {
+      "Id": 2037082209,
+      "Type": 3,
+      "Value": "TRIGSTR_299"
+    },
+    {
+      "Level": 1,
+      "Id": 829453409,
+      "Type": 3,
+      "Value": "TRIGSTR_422"
+    },
+    {
+      "Id": 1718840929,
+      "Type": 3,
+      "Value": "TRIGSTR_1926"
+    },
+    {
+      "Id": 2020631137,
+      "Value": 3
+    },
+    {
+      "Level": 1,
+      "Id": 1918989409,
+      "Type": 3,
+      "Value": "air,allies,enemies,friend,ground,neutral,player"
+    },
+    {
+      "Level": 1,
+      "Id": 1969514593,
+      "Type": 2,
+      "Value": 65536
+    },
+    {
+      "Level": 1,
+      "Id": 1920296033,
+      "Type": 2,
+      "Value": 65536
+    },
+    {
+      "Level": 1,
+      "Id": 1851880033,
+      "Type": 2,
+      "Value": 600
+    },
+    {
+      "Level": 1,
+      "Id": 1701994849,
+      "Type": 2,
+      "Value": 600
+    },
+    {
+      "Level": 1,
+      "Pointer": 1,
+      "Id": 829580366,
+      "Type": 2,
+      "Value": 20
+    }
+  ]
+}

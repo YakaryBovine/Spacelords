@@ -1,0 +1,15 @@
+{
+  "Left": -9696,
+  "Bottom": 9888,
+  "Right": -9568,
+  "Top": 10016,
+  "Name": "Fabricate",
+  "CreationNumber": 83,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

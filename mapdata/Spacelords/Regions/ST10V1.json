@@ -1,0 +1,15 @@
+{
+  "Left": -7008,
+  "Bottom": 8224,
+  "Right": -5344,
+  "Top": 9888,
+  "Name": "ST10V1",
+  "CreationNumber": 120,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

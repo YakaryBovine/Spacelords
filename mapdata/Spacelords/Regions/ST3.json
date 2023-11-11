@@ -1,0 +1,15 @@
+{
+  "Left": -16384,
+  "Bottom": 3424,
+  "Right": -11264,
+  "Top": 8512,
+  "Name": "ST3",
+  "CreationNumber": 35,
+  "AmbientSound": "gg_snd_BlueFireBurstLoop",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

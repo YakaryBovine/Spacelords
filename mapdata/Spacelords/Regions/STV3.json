@@ -1,0 +1,15 @@
+{
+  "Left": -11712,
+  "Bottom": 9920,
+  "Right": -11328,
+  "Top": 15008,
+  "Name": "STV3",
+  "CreationNumber": 4,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

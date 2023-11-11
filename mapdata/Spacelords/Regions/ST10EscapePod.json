@@ -1,0 +1,15 @@
+{
+  "Left": -6720,
+  "Bottom": 8320,
+  "Right": -6464,
+  "Top": 8544,
+  "Name": "ST10EscapePod",
+  "CreationNumber": 123,
+  "AmbientSound": "",
+  "Color": {
+    "A": 255,
+    "R": 128,
+    "G": 128,
+    "B": 255
+  }
+}

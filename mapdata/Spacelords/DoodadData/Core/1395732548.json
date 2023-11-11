@@ -1,0 +1,48 @@
+{
+  "OldId": 1885556569,
+  "NewId": 1395732548,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1835101796,
+      "Type": 3,
+      "Value": "Organ Egg"
+    },
+    {
+      "Id": 1818846820,
+      "Type": 3,
+      "Value": "Doodads\\Dungeon\\Terrain\\EggSack\\EggSack1.mdl"
+    },
+    {
+      "Id": 1718509924,
+      "Value": 1
+    },
+    {
+      "Id": 2020896868,
+      "Type": 3,
+      "Value": "PathTextures\\4x4Default.tga"
+    },
+    {
+      "Id": 1936289124,
+      "Type": 2,
+      "Value": 0.8
+    },
+    {
+      "Id": 1935764836,
+      "Type": 2,
+      "Value": 1.2
+    },
+    {
+      "Variation": 1,
+      "Id": 828864100,
+      "Value": 0
+    },
+    {
+      "Variation": 1,
+      "Id": 828536420,
+      "Value": 30
+    }
+  ]
+}

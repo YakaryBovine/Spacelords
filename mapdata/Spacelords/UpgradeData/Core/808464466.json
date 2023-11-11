@@ -1,0 +1,49 @@
+{
+  "OldId": 1769105490,
+  "NewId": 808464466,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": 1835101799,
+      "Type": 3,
+      "Value": "Security Guard"
+    },
+    {
+      "Id": 829386087,
+      "Type": 2,
+      "Value": 125
+    },
+    {
+      "Id": 828465767,
+      "Type": 2,
+      "Value": 125
+    },
+    {
+      "Level": 1,
+      "Id": 829122663,
+      "Type": 3,
+      "Value": "Z"
+    },
+    {
+      "Level": 1,
+      "Id": 829453415,
+      "Type": 3,
+      "Value": "Security Guard"
+    },
+    {
+      "Level": 1,
+      "Id": 828536167,
+      "Type": 3,
+      "Value": "Increases attack range."
+    },
+    {
+      "Level": 1,
+      "Id": 1902473831,
+      "Type": 3,
+      "Value": ""
+    }
+  ]
+}
