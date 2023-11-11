@@ -10,22 +10,6 @@ namespace MacroTools.Extensions
   public static class PlayerExtensions
   {
     /// <summary>
-    /// Set the number of extra <see cref="ControlPoint.ControlLevel"/>s the player gets each turn.
-    /// </summary>
-    /// <returns></returns>
-    public static player SetControlLevelPerTurnBonus(this player whichPlayer, float value)
-    {
-      PlayerData.ByHandle(whichPlayer).ControlLevelPerTurnBonus = value;
-      return whichPlayer;
-    }
-
-    /// <summary>
-    /// Returns the number of extra <see cref="ControlPoint.ControlLevel"/>s the player gets each turn.
-    /// </summary>
-    public static float GetControlLevelPerTurnBonus(this player whichPlayer) =>
-      PlayerData.ByHandle(whichPlayer).ControlLevelPerTurnBonus;
-
-    /// <summary>
     /// Pings the minimap for the player.
     /// </summary>
     /// <param name="whichPlayer">Who to display the ping to.</param>
@@ -72,26 +56,6 @@ namespace MacroTools.Extensions
 
     /// <summary>Returns the player's lumber, including any partial lumber.</summary>
     public static float GetLumber(this player player) => PlayerData.ByHandle(player).GetLumber();
-
-    /// <summary>Returns the player's gold income, including any bonuses.</summary>
-    public static float GetTotalIncome(this player player) => PlayerData.ByHandle(player).TotalIncome;
-
-    /// <summary>Returns the player's bonus gold income.</summary>
-    public static float GetBonusIncome(this player player) => PlayerData.ByHandle(player).BonusIncome;
-
-    /// <summary>Returns the player's gold income, without any bonuses.</summary>
-    public static float GetBaseIncome(this player player) => PlayerData.ByHandle(player).BaseIncome;
-
-    /// <summary>Returns the player's lumber income.</summary>
-    public static float GetLumberIncome(this player player) => PlayerData.ByHandle(player).LumberIncome;
-
-    /// <summary>Modifies the player's bonus income.</summary>
-    public static void AddBonusIncome(this player player, float value) =>
-      PlayerData.ByHandle(player).BonusIncome += value;
-
-    /// <summary>Modifies the player's lumber income.</summary>
-    public static void AddLumberIncome(this player player, float value) =>
-      PlayerData.ByHandle(player).LumberIncome += value;
 
     /// <summary>
     /// Returns the amount of food the player is using.

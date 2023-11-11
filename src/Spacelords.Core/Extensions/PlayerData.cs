@@ -12,25 +12,10 @@ namespace MacroTools.Extensions
   {
     private static readonly Dictionary<int, PlayerData> ById = new();
 
-    private float _goldPerMinute;
-    private float _bonusGoldPerMinute;
-
     private readonly player _player;
 
     private float _partialGold;
     private float _partialLumber;
-
-    /// <summary>
-    /// Fired when the player's income changes.
-    /// </summary>
-    public event EventHandler<PlayerData>? IncomeChanged;
-    
-    /// <summary>
-    /// Fired when the <see cref="player" />'s <see cref="ControlPoint" />s change
-    /// </summary>
-    public event EventHandler<PlayerData>? ControlPointsChanged;
-
-    public int EliminationTurns { get; set; }
     
     public void UpdatePlayerSetting(string setting, int value)
     {
@@ -60,43 +45,6 @@ namespace MacroTools.Extensions
       }
       SaveManager.Save(PlayerSettings);
     }
-    
-    public float LumberIncome { get; set; }
-
-    /// <summary>
-    ///   Gold per second gained from all sources.
-    /// </summary>
-    public float TotalIncome => BaseIncome + BonusIncome;
-
-    /// <summary>
-    ///   Gold per second gained from secondary sources like Forsaken's plagued buildings.
-    /// </summary>
-    public float BonusIncome
-    {
-      get => _bonusGoldPerMinute;
-      set
-      {
-        _bonusGoldPerMinute = value;
-        IncomeChanged?.Invoke(this, this);
-      }
-    }
-
-    /// <summary>
-    ///   Gold per second gained from primary sources like Control Points.
-    /// </summary>
-    public float BaseIncome
-    {
-      get => _goldPerMinute;
-      set
-      {
-        if (value < 0)
-          throw new ArgumentOutOfRangeException(
-            $"Tried to assign a negative {nameof(BaseIncome)} value to {GetPlayerName(_player)}.");
-
-        _goldPerMinute = value;
-        IncomeChanged?.Invoke(this, this);
-      }
-    }
 
     public PlayerSettings PlayerSettings => SaveManager.SavesByPlayer.ContainsKey(_player)? SaveManager.SavesByPlayer[_player]: CreateNewPlayerSettings();
 
@@ -107,14 +55,10 @@ namespace MacroTools.Extensions
       SaveManager.SavesByPlayer[_player] = newPlayerSettings;
       return newPlayerSettings;
     }
-    
-    /// <summary>The number of extra <see cref="ControlPoint.ControlLevel"/>s the player gets each turn.</summary>
-    public float ControlLevelPerTurnBonus { get; set; }
 
     private PlayerData(player player)
     {
       _player = player;
-      EliminationTurns = 0;
     }
     
     public void AddGold(float x)
