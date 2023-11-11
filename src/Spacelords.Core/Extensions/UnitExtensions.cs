@@ -551,34 +551,6 @@ namespace MacroTools.Extensions
     }
 
     /// <summary>
-    ///   Drops a units entire inventory on the ground.
-    /// </summary>
-    public static unit DropAllItems(this unit whichUnit)
-    {
-      if (IsUnitType(whichUnit, UNIT_TYPE_SUMMONED))
-        throw new InvalidOperationException($"Tried to call {nameof(DropAllItems)} on a summoned hero.");
-
-      var unitX = GetUnitX(whichUnit);
-      var unitY = GetUnitY(whichUnit);
-      float angInRadians = 0;
-
-      for (var i = 0; i < 6; i++)
-      {
-        var x = unitX + HeroDropDist * Cos(angInRadians);
-        var y = unitY + HeroDropDist * Sin(angInRadians);
-        angInRadians += 360 * MathEx.DegToRad / 6;
-        var itemToDrop = UnitItemInSlot(whichUnit, i);
-        if (!itemToDrop.IsDroppable())
-          itemToDrop.SetDroppable(true);
-
-        whichUnit.DropItem(itemToDrop);
-        itemToDrop.SetPositionSafe(new Point(x, y));
-      }
-
-      return whichUnit;
-    }
-
-    /// <summary>
     ///   Transfers all of this unit's items to another unit.
     /// </summary>
     public static void TransferItems(this unit sender, unit receiver)
@@ -843,17 +815,6 @@ namespace MacroTools.Extensions
       }
 
       return abilities;
-    }
-
-    /// <summary>Safely removes the unit by dropping its items, killing it, then removing it.
-    /// <para>Should generally be used instead of <see cref="Remove"/>.</para>
-    /// </summary>
-    public static void SafelyRemove(this unit whichUnit)
-    {
-      if (whichUnit.IsType(UNIT_TYPE_HERO))
-        whichUnit.DropAllItems();
-      
-      whichUnit.Kill().Remove();
     }
   }
 }
