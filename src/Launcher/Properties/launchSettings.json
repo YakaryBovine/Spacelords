@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "Test": {
+      "commandName": "Project",
+      "commandLineArgs": "mapdata-to-w3x Spacelords true \"..\\..\\..\\..\\..\\mapdata\\Spacelords\" \"..\\..\\..\\..\\..\\artifacts\" --sourcecodepath \"..\\..\\..\\..\\Spacelords.Game\""
+    },
+    "Convert W3X to MapData": {
+      "commandName": "Project",
+      "commandLineArgs": "w3x-to-mapdata \"..\\..\\..\\..\\..\\maps\\Spacelords.w3x\" \"..\\..\\..\\..\\..\\mapdata\\Spacelords\" --constantsOutputPath \"..\\..\\..\\..\\Spacelords.Game\""
+    },
+    "Convert MapData to W3X": {
+      "commandName": "Project",
+      "commandLineArgs": "mapdata-to-w3x Spacelords false \"..\\..\\..\\..\\..\\mapdata\\Spacelords\" \"..\\..\\..\\..\\..\\maps\" --backup-directory \"..\\..\\..\\..\\..\\maps\\backups\" --output-type Folder"
+    },
+    "Publish": {
+      "commandName": "Project",
+      "commandLineArgs": "mapdata-to-w3x Spacelords false \"..\\..\\..\\..\\..\\mapdata\\Spacelords\" \"..\\..\\..\\..\\..\\maps\\published\" --sourcecodepath \"..\\..\\..\\..\\Spacelords.Game\" --set-map-titles True"
+    }
+  }
+}

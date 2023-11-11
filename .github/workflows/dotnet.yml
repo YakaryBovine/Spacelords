@@ -1,0 +1,33 @@
+name: .NET
+
+on:
+    push:
+        branches: [ main, dev ]
+    pull_request:
+        branches: [ main, dev ]
+
+jobs:
+    Developer-CI:
+        runs-on: ubuntu-latest
+        steps:
+            -   uses: actions/checkout@v3
+            -   name: Setup .NET
+                uses: actions/setup-dotnet@v1
+                with:
+                    dotnet-version: 6.0.x
+            -   name: Restore dependencies
+                run: dotnet restore
+            -   name: Build
+                run: dotnet build --no-restore
+            -   name: Test
+                run: dotnet test --no-build --verbosity normal
+            -   name: Inspect code
+                uses: muno92/resharper_inspectcode@1.6.2
+                with:
+                    solutionPath: ./WarcraftLegacies.sln
+                    minimumSeverity: error
+                    failOnIssue: 1
+                    include: |
+                        ./src/MacroTools/**
+                        ./src/WarcraftLegacies.Source/**
+                    solutionWideAnalysis: false

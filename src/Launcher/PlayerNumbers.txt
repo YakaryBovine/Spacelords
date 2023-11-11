@@ -1,0 +1,25 @@
+//  0   Frostwolf 
+//  1   Stormwind
+//  2   Quelthalas 
+//  3	Scourge
+//  4	Ironforge
+//  5	Warsong
+//  6	Fel Horde
+//  7	Dalaran/Gilneas
+//  8	Goblin
+//  9	Lordaeron
+//  10	Empty
+//  11	Druids
+//  12	Empty
+//  13	Draenei
+//  14	Empty
+//  15	Illidan
+//  16	CrisisCaptain
+//  17  Empty
+//  18	Sentinels
+//  19  CrisisFootman
+//  20  Empty
+//  21  Observer
+//  22  Kultiras
+//  23  Legion
+//  24  Neutral Hostile
