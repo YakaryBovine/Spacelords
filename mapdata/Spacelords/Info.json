@@ -45,6 +45,7 @@
   "FogColor": "#000000",
   "SoundEnvironment": "",
   "WaterTintingColor": "#FFFFff",
+  "ScriptLanguage": 1,
   "SupportedModes": 3,
   "GameDataVersion": 1,
   "Players": [

@@ -23,7 +23,7 @@ namespace MacroTools.Save
         Hash2 = 612319,
         Salt = "zCi5fkypenPpgukyoEW8H6YC",
         BindSavesToPlayerName = true,
-        SaveFolder = "WarcraftLegacies"
+        SaveFolder = "Spacelords"
       });
 
       _saveSystem.OnSaveLoaded += SaveManager_OnSaveLoaded;

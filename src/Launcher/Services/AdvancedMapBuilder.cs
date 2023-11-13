@@ -111,8 +111,8 @@ namespace Launcher.Services
     {
       if (map.Info == null)
         return;
-      map.Info.MapName = $"Warcraft Legacies {version}";
-      map.Info.LoadingScreenTitle = $"Warcraft Legacies {version}";
+      map.Info.MapName = $"Spacelords {version}";
+      map.Info.LoadingScreenTitle = $"Spacelords {version}";
     }
     
     /// <summary>
